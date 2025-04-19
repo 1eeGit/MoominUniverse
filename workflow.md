@@ -32,6 +32,7 @@ MoominUniverse/
 ├── audios/            # .wav audio files
 ├── subtitles/         # .srt, .txt subtitles, Whisper transcription output
 ├── speakers_output/   # .txt speaker ids, Pyannote diarization output
+├── soups/             # related output from beautiful soup
 ├── .env      
 ├── requirements.txt     
 └── ...
@@ -40,7 +41,7 @@ MoominUniverse/
 
 ## Resources
 
-### Moomin Season 1:
+### Moomin Season 1 (ep 01-39):
 
 - ep 01-14: https://archive.org/download/moomin-season-1/%5BMoomin%20Master%5D%20Moomin%20season%201/
 
@@ -49,6 +50,21 @@ MoominUniverse/
 - ep 27-39: https://archive.org/download/moomin-season-3/%5BMoomin%20Master%5D%20Moomin%20season%203/
 
 The following analysis uses the *.mp4* files, for it takes less storage, the videos are saved in `videos` folder.
+
+### Web scrape script to download all .mp4 videos
+
+Beautiful Soup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start
+
+<pre lang="md"> 
+pip install beautifulsoup4
+pip install lxml
+pip install html5lib
+
+python scarpe.py  ### download all the link in links.txt
+
+</pre>
+
+
 
 
 ##  Data preparation
