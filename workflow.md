@@ -1,5 +1,43 @@
 # Analysis workflow
 
+## Clone repo and prepare env
+
+<pre lang="md"> 
+git clone https://github.com/1eeGit/MoominUniverse.git
+
+cd MoominUniverse
+
+mkdir videos  
+
+conda create -n your-new-env python=3.11
+
+conda activate your-new-env
+
+pip install -r requirements.txt
+
+### install the pkgs used in Data Preparation section
+
+python extract_audio.py
+
+### try if 'run_transcribe_insane' in trancibe_any.py works first
+python trancibe_any.py    
+
+### else run run_transcribe_normal in in trancibe_any.py then next line
+python pyannote.py        
+
+
+----------------------- structure ------------------------
+MoominUniverse/
+├── videos/            # .mp4 videos
+├── audios/            # .wav audio files
+├── subtitles/         # .srt, .txt subtitles, Whisper transcription output
+├── speakers_output/   # .txt speaker ids, Pyannote diarization output
+├── .env      
+├── requirements.txt     
+└── ...
+
+</pre>
+
 ## Resources
 
 ### Moomin Season 1:
@@ -11,6 +49,7 @@
 - ep 27-39: https://archive.org/download/moomin-season-3/%5BMoomin%20Master%5D%20Moomin%20season%203/
 
 The following analysis uses the *.mp4* files, for it takes less storage, the videos are saved in `videos` folder.
+
 
 ##  Data preparation
 

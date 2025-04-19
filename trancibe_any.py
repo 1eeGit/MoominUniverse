@@ -17,6 +17,7 @@ def run_transcribe_insane(audio_path = 'audios'):
     audio_path = base_dir / audio_path
     audio_list = list(Path(audio_path).glob("*.wav"))
     output_dir = base_dir / "subtitles"
+    output_dir.mkdir(parents=True, exist_ok=True)
 
     for audio in audio_list:
 

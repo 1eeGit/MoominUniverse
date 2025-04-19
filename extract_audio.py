@@ -9,6 +9,7 @@ def extract_audio(video_path = 'videos', audio_path = 'audios'):
     base_dir = Path(__file__).resolve().parent
     video_path = base_dir / video_path
     audio_path = base_dir / audio_path
+    audio_path.mkdir(parents=True, exist_ok=True)
 
     video_list = list(Path(video_path).glob("*.mp4"))
 

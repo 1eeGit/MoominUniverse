@@ -43,6 +43,7 @@ def run_pyannote(audio_path = 'audios'):
         # ...
         '''
         speaker_output_path = base_dir / "speakers_output"
+        speaker_output_path.mkdir(parents=True, exist_ok=True)
         output_file = speaker_output_path / (audio.stem + ".txt")
 
         with open(output_file, "w") as f:
