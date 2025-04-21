@@ -1,6 +1,6 @@
 # Moomin Universe
 
-
+[How to use](https://github.com/1eeGit/MoominUniverse/blob/main/workflow.md)
 
 ## Project Description 
 *This is a student group project (Group 8) for the Social Network Analysis course in 2025 spring.*

@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 from pathlib import Path
 import subprocess
-
+import torch
 
 ### transcribe all the audio files as .json with speaker and subtitles
 ### for me the env has error....
@@ -20,17 +20,15 @@ def run_transcribe_insane(audio_path = 'audios'):
     output_dir.mkdir(parents=True, exist_ok=True)
 
     for audio in audio_list:
-
+        
         transcribe_anything(
             url_or_file= str(audio),
             output_dir=output_dir,
             task="transcribe",
             language="en",
-            model="small",
-            # device="cuda",
+            model="base",
             device="insane",
-            hugging_face_token=hugging_face_token,
-            # batch_size=8 # solve the memory issue
+            hugging_face_token=hugging_face_token
         )
 '''
 # Full function signiture:
@@ -60,21 +58,26 @@ def run_transcribe_normal(audio_path = 'audios'):
     output_dir = base_dir / "subtitles"
 
     for audio in audio_list:
-
+        
         transcribe_anything(
             url_or_file= str(audio),
             output_dir=str(output_dir),
             task="transcribe",
             language="en",
             model="base",  # tiny model error: AssertionError: No srt file found.
-            device="cuda",
+            device="cpu",
         )
+        
 
-        original_file = output_dir / ("out.srt")
-        new_file = output_dir / (f"{audio.stem}.srt") 
+        ### rename the subtitles or will be overwritten
+        for ext in ['json', 'srt', 'tsv', 'txt', 'vtt']:
+            original = output_dir / f"out.{ext}"
+            new = output_dir / f"{audio.stem}.{ext}"
+            if original.exists():
+                original.rename(new)
+
 
 
 if __name__ == "__main__":
-    # run_transcribe_anything()
+    # run_transcribe_insane()
     run_transcribe_normal()
-

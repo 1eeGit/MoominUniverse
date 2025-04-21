@@ -4,20 +4,17 @@
 
 <pre lang="md"> 
 git clone https://github.com/1eeGit/MoominUniverse.git
-
 cd MoominUniverse
-
 mkdir videos  
 
 conda create -n your-new-env python=3.11
-
 conda activate your-new-env
-
 pip install -r requirements.txt
 
 ### install the pkgs used in Data Preparation section
 
-python extract_audio.py
+python scrape.py      ### download all the videos
+python extract_audio.py    ### extract all audio and burn into one final.wav file
 
 ### try if 'run_transcribe_insane' in trancibe_any.py works first
 python trancibe_any.py    
@@ -29,7 +26,7 @@ python pyannote.py
 ----------------------- structure ------------------------
 MoominUniverse/
 ├── videos/            # .mp4 videos
-├── audios/            # .wav audio files
+├── audios/            # .wav audio files  -> final.wav
 ├── subtitles/         # .srt, .txt subtitles, Whisper transcription output
 ├── speakers_output/   # .txt speaker ids, Pyannote diarization output
 ├── soups/             # related output from beautiful soup
@@ -80,6 +77,8 @@ python scarpe.py  ### download all the link in links.txt
 
 - Audio outputs are saved in `audios` folder.
 
+- Concatenating all audio files: https://trac.ffmpeg.org/wiki/Concatenate
+
 ### Transcribe the subtitles
 
 Transcribe-anything with `--device insane` mode will generate automatically `.json` file that matches the subtitles with the speaker.
@@ -120,7 +119,19 @@ In this workflow we shall only test with the ep 01-03.
     https://huggingface.co/pyannote/segmentation-3.0
     https://huggingface.co/pyannote/speaker-diarization-3.1
 
-   
+- Speaker diarization outputs `.txt` are saved in `speakers_out` folder.
+
+### 
+
+### Speaker identification and clustering 
+- Reference: https://medium.com/@sapkotabinit2002/speaker-identification-and-clustering-using-pyannote-dbscan-and-cosine-similarity-dfa08b5b2a24
+
+- reproduce the speaker clustering procedure, to match the speakers with the real characters: `speaker_id_clustering.py`
+
+### Speaker labelling 
+
+- Match subtitles `.txt, .json and other format` in `/subtitles`, and speaker_id `.txt` in `/speakers_output`
+with time stamp.
 
 ## Analysis 
 

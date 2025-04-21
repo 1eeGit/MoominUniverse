@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from pathlib import Path
 import subprocess
 
+
 ### fetch all the .wav audios in the audio folder
 ### perform speaker diarization and return the speaker id with time stamps in .txt files
 
@@ -20,16 +21,14 @@ def run_pyannote(audio_path = 'audios'):
 
     # send pipeline to GPU (when available)
     print(torch.cuda.is_available())
-    pipeline.to(torch.device("cuda"))
+    # pipeline.to(torch.device("cuda"))
     print(torch.device("cuda" if torch.cuda.is_available() else "cpu"))
 
     base_dir = Path(__file__).resolve().parent
     audio_path = base_dir / audio_path
-
-    audio_list = list(Path(audio_path).glob("*.wav"))
+    audio_list = list(audio_path.glob("*.wav"))
 
     for audio in audio_list:
-
         # apply pretrained pipeline
         diarization = pipeline(audio)
 

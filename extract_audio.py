@@ -25,14 +25,47 @@ def extract_audio(video_path = 'videos', audio_path = 'audios'):
         ]
         try:
             subprocess.run(command, check=True)
-            audio_list = list(Path(audio_path).glob("*.wav"))
-            print(f"Audio extracted to {audio_path},n {audio_list} \n")
+            if os.path.exists(audio_output):
+                continue
         except subprocess.CalledProcessError as e:
             print(f"Error extracting audio: {e}")
 
+### cconcatenate all the audio files -> one final.wav
+def concatenating():
+    base_dir = Path(__file__).resolve().parent
+    audio_path = base_dir / "audios"
+    output_path = base_dir / "final.wav"
+    audio_list = list(Path(audio_path).glob("*.wav"))
+    ep_list_path = base_dir / "ep_list.txt"
 
-    
+    with open("ep_list.txt", "w") as f:
+        for audio in audio_list:
+            f.write(f"file {audio}\n")
+
+    command = [
+    "ffmpeg",
+    "-f", "concat",
+    "-safe", "0",
+    "-i", str(ep_list_path),
+    "-c", "copy",
+    str(output_path)  
+]
+
+
+    try:
+        subprocess.run(command, check=True)
+        print("------------------------final.wav cooked--------------------")
+    except subprocess.CalledProcessError as e:
+        print(e)   
 
 
 if __name__ == "__main__":
-    extract_audio()
+    # extract_audio()
+    # concatenating()
+
+'''
+duration=53740.202667
+ffmpeg -i final.wav -ss 0 -t 17000 -acodec pcm_s16le -ar 22050 -ac 1 1_compressed.wav
+ffmpeg -i final.wav -ss 17000 -t 14000 -acodec pcm_s16le -ar 22050 -ac 1 2_compressed.wav
+ffmpeg -i final.wav -ss 34000 -acodec pcm_s16le -ar 22050 -ac 1 3_compressed.wav
+'''
