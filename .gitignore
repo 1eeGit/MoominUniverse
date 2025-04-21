@@ -6,5 +6,6 @@ final.wav
 1_compressed.wav
 2_compressed.wav
 3_compressed.wav
-speakers_output/
-subtitles/
+# speakers_output/
+# subtitles/
+ep_name.txt
