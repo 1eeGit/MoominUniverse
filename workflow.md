@@ -37,7 +37,7 @@ MoominUniverse/
 </pre>
 
 ## Resources
-
+All used ep name list: `ep_name.txt`
 ### Moomin Season 1 (ep 01-39):
 
 - ep 01-14: https://archive.org/download/moomin-season-1/%5BMoomin%20Master%5D%20Moomin%20season%201/
