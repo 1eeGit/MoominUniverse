@@ -1,6 +1,6 @@
 .env
 videos/
-# audios/
+audios/
 ep_list.txt
 final.wav
 1_compressed.wav
