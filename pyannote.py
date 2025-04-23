@@ -52,3 +52,4 @@ def run_pyannote(audio_path = 'audios'):
 
 if __name__ == "__main__":
     run_pyannote()
+    

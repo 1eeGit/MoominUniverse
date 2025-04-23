@@ -99,9 +99,11 @@ scikit-learn==1.6.1
 scipy==1.15.2
 SecretStorage==3.3.3
 semver==3.0.4
-sentencepiece @ file:///home/conda/feedstock_root/build_artifacts/sentencepiece-split_1741897892329/work/python
+# sentencepiece @ file:///home/conda/feedstock_root/build_artifacts/sentencepiece-split_1741897892329/work/python
+sentencepiece
 shellingham==1.5.4
-six @ file:///croot/six_1744271502820/work
+# six @ file:///croot/six_1744271502820/work
+six
 sortedcontainers==2.4.0
 soundfile==0.13.1
 speechbrain==1.0.3
