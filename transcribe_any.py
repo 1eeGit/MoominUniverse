@@ -58,16 +58,19 @@ def run_transcribe_normal(audio_path = 'audios'):
     output_dir = base_dir / "subtitles"
 
     for audio in audio_list:
-        
-        transcribe_anything(
-            url_or_file= str(audio),
-            output_dir=str(output_dir),
-            task="transcribe",
-            language="en",
-            model="base",  # tiny model error: AssertionError: No srt file found.
-            device="cpu",
-        )
-        
+        try:
+            transcribe_anything(
+                url_or_file=str(audio),
+                output_dir=str(output_dir),
+                task="transcribe",
+                language="en",
+                model="base",
+                device="cpu",
+            )
+        except Exception as e:
+            print(f"Failed to transcribe {audio}: {e}")
+            continue
+
 
         ### rename the subtitles or will be overwritten
         for ext in ['json', 'srt', 'tsv', 'txt', 'vtt']:
@@ -80,4 +83,4 @@ def run_transcribe_normal(audio_path = 'audios'):
 
 if __name__ == "__main__":
     # run_transcribe_insane()
-    run_transcribe_normal()
+    run_transcribe_normal('audios/compressed')
