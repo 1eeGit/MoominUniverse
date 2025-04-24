@@ -1,0 +1,2486 @@
+[
+  {
+    "speaker": "SPEAKER_08",
+    "timestamp": [
+      0.0,
+      28.0
+    ],
+    "text": "Here they are for one and all. The movements are about to come. Come on and sit down here with me. They're here for you on your TV. They are the movements. They are the movements. So what do you think? I think it's a good idea. I think it's a good idea. I think it's a good idea. with me, therefore you are your TV, they are the movements, they are the movements,",
+    "reason": "beginning"
+  },
+  {
+    "speaker": "SPEAKER_08",
+    "timestamp": [
+      29.6,
+      38.64
+    ],
+    "text": "so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird,",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "timestamp": [
+      38.64,
+      72.0
+    ],
+    "text": "sing that song ever, there were the movements, there was a movement, there was a movement, there was a movement, there was a movement What? What? What? What? What? What?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      72.0,
+      76.0
+    ],
+    "text": "What? What?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "timestamp": [
+      76.0,
+      91.0
+    ],
+    "text": "Big explosions could be heard in Moomin Valley almost every night and Moomin couldn't sleep a wink. Usually there was just one, but sometimes even two. You heard it too, Mom and Papa.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      91.0,
+      94.0
+    ],
+    "text": "Yes, those loud bangs are kicking me awake.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      94.0,
+      98.0
+    ],
+    "text": "I wonder if there will be another one.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      98.0,
+      101.0
+    ],
+    "text": "They seem to be coming from the north.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      101.0,
+      103.0
+    ],
+    "text": "Hmm, he's sti-thought.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      103.0,
+      106.0
+    ],
+    "text": "Or they could be coming from lonely mountains. If you ask me, I believe there is a work from the north. Hmm, he's stifled. Or they could be coming from lonely mountains.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      106.0,
+      109.34
+    ],
+    "text": "If you ask me, I believe they're the work of the witch.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      109.34,
+      110.18
+    ],
+    "text": "The witch?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      110.18,
+      112.68
+    ],
+    "text": "But witches don't make a lot of noise.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      112.68,
+      113.68
+    ],
+    "text": "Never know.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      113.68,
+      121.0
+    ],
+    "text": "They're sneaky characters. Tomorrow I'll have a few words with the inspector. Except to him to put a stop to it.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      121.0,
+      123.88
+    ],
+    "text": "Papa, why would the witch want to make explosions?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      123.88,
+      130.92
+    ],
+    "text": "Why not? The first bang wakes me up and then I lie awake waiting for the second one which might not come at all.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      130.92,
+      135.78
+    ],
+    "text": "The bags might not come from movement value at all and they might be just an echo off the mountains.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      135.78,
+      136.78
+    ],
+    "text": "You think so?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      136.78,
+      139.28
+    ],
+    "text": "Yes I do. Well at least that's what Snuffkin thinks.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      139.28,
+      141.8
+    ],
+    "text": "I mean the explosions might come from the sea.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      141.8,
+      146.5
+    ],
+    "text": "That's what Snuffkin figured. He thought it might be pirates or something making the noises.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      146.5,
+      152.5
+    ],
+    "text": "He's already had pirates and they went a long time ago. I'm plumping for the witch. There's no doubt in my mother.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      152.5,
+      156.5
+    ],
+    "text": "Goodness, what are you doing out here? We're waiting for another explosion, mama.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      156.5,
+      158.5
+    ],
+    "text": "You're waiting vain, dear.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      158.5,
+      166.0
+    ],
+    "text": "No, no, no, no, that moment, mama. Well, we had two explosions last night and we've never had double explosions for two nights in a row.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      167.0,
+      169.0
+    ],
+    "text": "Until now, that is.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      169.0,
+      172.0
+    ],
+    "text": "You heard that. It clearly came from over there.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      172.0,
+      175.0
+    ],
+    "text": "Over there? Oh, no. It certainly came from over there.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      176.0,
+      192.0
+    ],
+    "text": "You couldn't mistake it. I'm sure of it. Good morning, Moon. Lovely day. Good morning, Snuffkin. You look very sleepy. So would you be opposed explosions that kept you awake for most of the night?",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      192.0,
+      194.0
+    ],
+    "text": "Those explosions are really very hard, aren't they?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      194.0,
+      199.0
+    ],
+    "text": "They certainly are. Would you come with me and have a word with the witch?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      199.0,
+      207.0
+    ],
+    "text": "Moment, Papa's convinced that she's the one who's going to be the best. Those explosions are really very odd, aren't they? They certainly are. Would you come with me and have a word with the witch?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      207.0,
+      211.0
+    ],
+    "text": "Mum and Papa's convinced that she's the one who's making the bangs.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      211.0,
+      212.0
+    ],
+    "text": "I think he's wrong there.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      212.0,
+      216.0
+    ],
+    "text": "That's what I thought, but there's nothing I could say to convince him.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      216.0,
+      219.0
+    ],
+    "text": "So now I'm going to find out for myself.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      219.0,
+      223.0
+    ],
+    "text": "You can certainly ask her, but do you really trust a witch to tell you the truth?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      223.0,
+      225.0
+    ],
+    "text": "Shhh. Do you the truth?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      226.0,
+      229.0
+    ],
+    "text": "Do you, a woman? But witches don't have to lie, Shirley.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      237.0,
+      239.0
+    ],
+    "text": "Is that you, little my?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      241.0,
+      243.0
+    ],
+    "text": "And where are you two going?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      243.0,
+      244.0
+    ],
+    "text": "Little my!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      244.0,
+      247.0
+    ],
+    "text": "Are you trailing me full time or what?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      247.0,
+      249.0
+    ],
+    "text": "Yes, whenever you're sneaking off somewhere,",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      249.0,
+      252.0
+    ],
+    "text": "I'm not sneaking, I'm just walking.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      252.0,
+      256.0
+    ],
+    "text": "Well, I've never seen anyone walking in such a sneaky way.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      259.0,
+      268.0
+    ],
+    "text": "Last time the witch tried to keep you from waging up, didn't she? So, so you think now she's trying to keep you from sleeping, eh?",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      268.0,
+      277.6
+    ],
+    "text": "Well, if she makes the explosions, it's always possible that someone else is the target. We know very little about witches, and those bangs are probably nothing to do with the movements.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      278.6,
+      290.5
+    ],
+    "text": "I think you guessed right, but try telling that to the movements. We don't think it's like that at all.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      292.0,
+      294.5
+    ],
+    "text": "Wonder if she's at home. If she is, then we can visit Alicia instead.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      294.5,
+      298.6
+    ],
+    "text": "Better ask Alicia than the witch. Anyway, she's more likely to tell us the truth.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      298.6,
+      299.6
+    ],
+    "text": "Yes, you're right.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      303.8,
+      306.0
+    ],
+    "text": "Uh-oh. Oh, oh, oh. Look, you don't seem to realize this is a witch's house.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      306.0,
+      308.0
+    ],
+    "text": "What do you mean by that?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      308.0,
+      310.0
+    ],
+    "text": "I'll tell you what I mean.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      310.0,
+      312.0
+    ],
+    "text": "What I mean is, I don't want to be seen talking",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      312.0,
+      314.0
+    ],
+    "text": "with goodie-goodies like the moments.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      314.0,
+      320.0
+    ],
+    "text": "You think they'll ruin your reputation is that why you're so worried? Hmm.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      320.0,
+      324.0
+    ],
+    "text": "There's just something very important we wanted to ask you.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      324.0,
+      326.0
+    ],
+    "text": "I'm not sure if you're so worried? Hmm.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      330.0,
+      332.0
+    ],
+    "text": "Uh, there's just something very important we wanted to ask you. And then we'll leave straight away.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      338.0,
+      341.0
+    ],
+    "text": "That room upstairs, is that Alicia's?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      341.0,
+      344.0
+    ],
+    "text": "It is. Is Alicia there now?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      344.0,
+      345.68
+    ],
+    "text": "No, she isn't.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      345.68,
+      346.64
+    ],
+    "text": "Where did she go?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      346.64,
+      348.28
+    ],
+    "text": "She went to get some wolf's pain.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      348.28,
+      352.8
+    ],
+    "text": "When will she be coming back? You're not going to stop her studying.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      352.8,
+      357.56
+    ],
+    "text": "No. We wanted to ask her something about that loud noise we hear every night.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      357.56,
+      359.08
+    ],
+    "text": "Ah, that one.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      359.08,
+      362.64
+    ],
+    "text": "Hey, are you the one making the bangs?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      362.64,
+      364.24
+    ],
+    "text": "I don't make explosions.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      364.24,
+      365.54
+    ],
+    "text": "Who is it then?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      365.54,
+      366.94
+    ],
+    "text": "I really don't know.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      366.94,
+      368.9
+    ],
+    "text": "But why did you say that one then?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      368.9,
+      372.64
+    ],
+    "text": "Because the explosions bother me too.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      372.64,
+      374.18
+    ],
+    "text": "You think they're coming from near here?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      374.18,
+      377.22
+    ],
+    "text": "I think they're coming from far away from the sea, maybe.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      377.22,
+      379.28
+    ],
+    "text": "That's what's not can things do.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      379.28,
+      382.56
+    ],
+    "text": "Any sound from the sea echoes off Lonely Mountain,",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      382.56,
+      384.46
+    ],
+    "text": "so you think that's where it comes from?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      384.46,
+      389.92
+    ],
+    "text": "Why is young man? A few days ago I went all the way over to the beach to see what was happening.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      389.92,
+      394.96
+    ],
+    "text": "After a whole day's witching and casting magic spells, one needs one sleep, you know.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      394.96,
+      417.0
+    ],
+    "text": "So what did you find them? Nothing at all. There was only one explosion that night, so when I got there on my brun, there was nothing more to see. Then we still have no idea who makes the bind. No, and I really upset you thought it was me. When a witch creates an explosion, it doesn't sound anything like a camel cough. I can tell you. Camel cough, I like that.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      417.0,
+      437.14
+    ],
+    "text": "Ha ha ha ha ha! Thank you very much, Snork Maiden.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      437.14,
+      455.0
+    ],
+    "text": "This year I want to grow some black tulips. Is there really such a thing as a black tulip? There's such a dark red, they look black. Oh, I see. Although it wouldn't really surprise me Snort Maiden if they're really were black when somewhere. We must ask the hamuline you'll know. Oh yes.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      455.0,
+      459.0
+    ],
+    "text": "I know it's embarrassing but I'm so excited I can't go to sleep at night.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      459.0,
+      465.96
+    ],
+    "text": "Oh I have no problem going to sleep at night but that noise wakes me up hamuline. What noise is that? I told you that noise.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      467.76,
+      470.24
+    ],
+    "text": "Oh, I see. You're talking about the explosion.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      470.64,
+      472.96
+    ],
+    "text": "You know anything about it, Mr. Himmela.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      472.96,
+      474.6
+    ],
+    "text": "No, nothing at all.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      475.2,
+      478.72
+    ],
+    "text": "No, those bangs are not what keeps me awake, moment, Papa.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      479.64,
+      482.56
+    ],
+    "text": "No, I'm waiting for a pie from the buttonest federation.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      482.96,
+      486.0
+    ],
+    "text": "Reply. Yes, don't you remember a few months ago?",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      486.96,
+      494.32
+    ],
+    "text": "Housecrange I thought I told you about it. Well, I certainly told everyone else I know. I sent them a brand new species.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      494.8,
+      502.32
+    ],
+    "text": "New species. I've never seen anything like it in my whole life. A new wild orchid. I'm so excited I can hardly speak.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      502.88,
+      532.68
+    ],
+    "text": "Really? A new wild orchid, how very interesting. Yes, isn't it? Oh, it would be such a great honor for me and for everyone else if they called it Orchidaka emulences or emula formus. No, I'm sure they will. So now you understand why I've had so many sleepless nights. Yes indeed. Trouble is they should have answered by now. Maybe they're still trying to decide what to call it. Maybe they can't decide between Orkidaka Hemulences and Orkidaka Hemila Formis.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      532.68,
+      533.88
+    ],
+    "text": "Mmm.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      533.88,
+      535.52
+    ],
+    "text": "Oh.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      535.52,
+      537.04
+    ],
+    "text": "Motorzard.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      537.04,
+      545.0
+    ],
+    "text": "Now I see, at last I understand. I am getting no reply from the botanist federation because it is not a new species.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_07",
+    "timestamp": [
+      545.0,
+      550.0
+    ],
+    "text": "Oh, of course, somebody's already found it.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      550.0,
+      553.0
+    ],
+    "text": "Oh, it's just real funny.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_07",
+    "timestamp": [
+      553.0,
+      557.0
+    ],
+    "text": "No, no, no, no, stupid I am.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      557.0,
+      561.0
+    ],
+    "text": "This is the end of me as a scientist of course.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_07",
+    "timestamp": [
+      561.0,
+      564.0
+    ],
+    "text": "Calm down, don't upset yourself, Mr. Himmiel.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      564.0,
+      568.0
+    ],
+    "text": "Everybody will laugh at me and call me Mr. Hemmuellences!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_07",
+    "timestamp": [
+      568.0,
+      576.0
+    ],
+    "text": "Now listen, Mr. Hemmuellen, the reply is a long time coming because they must examine your plant most carefully before making a decision.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      576.0,
+      580.0
+    ],
+    "text": "They must read all the books first to be sure.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_07",
+    "timestamp": [
+      580.0,
+      584.0
+    ],
+    "text": "You really think so, Mum and Patna?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      584.0,
+      587.0
+    ],
+    "text": "Could it really take so long, do you think?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_07",
+    "timestamp": [
+      587.0,
+      589.0
+    ],
+    "text": "Of course, these things take time.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      589.0,
+      597.0
+    ],
+    "text": "When did you send it all? A month ago. Well, there you are. That's no time at all. You have to learn to be patient, Emile.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_07",
+    "timestamp": [
+      597.0,
+      600.0
+    ],
+    "text": "You think so? Oh, I feel better already.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      600.0,
+      611.76
+    ],
+    "text": "Oh, I'm so glad you feel happier, Mr. Emile. And don't you worry, my friend. Mama, great news, dear. Mr. Hemmulan's discovered a completely new plant and is going to be called Hemmulansees.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      611.76,
+      618.76
+    ],
+    "text": "Oh, that's wonderful. Congratulations, Mr. Hemmulan. Oh, well, it isn't official yet, you know.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      618.76,
+      622.56
+    ],
+    "text": "Oh, they're just thinking about the name still. Give them time.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      622.56,
+      625.84
+    ],
+    "text": "We should have a party for Mr. Hemmulan. Shouldn't we, Papa?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      625.84,
+      628.84
+    ],
+    "text": "What? Oh, yes indeed.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      628.84,
+      630.84
+    ],
+    "text": "When Papa tonight?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      630.84,
+      633.12
+    ],
+    "text": "Hmm, let me think.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      633.12,
+      636.2
+    ],
+    "text": "We should wait just a little bit longer perhaps.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      636.2,
+      637.96
+    ],
+    "text": "Oh, why do you say that?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      637.96,
+      641.44
+    ],
+    "text": "Mr. Himmielin, you know that rare plant you found?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      641.44,
+      643.08
+    ],
+    "text": "Does it have any flowers?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      643.08,
+      644.4
+    ],
+    "text": "But of course.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_11",
+    "timestamp": [
+      644.4,
+      645.0
+    ],
+    "text": "Are they pretty?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      645.0,
+      647.0
+    ],
+    "text": "Very pretty.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_11",
+    "timestamp": [
+      647.0,
+      650.0
+    ],
+    "text": "Yes, just like you, Snork Maiden.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      650.0,
+      652.0
+    ],
+    "text": "Oh, Mr. Amulin.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_11",
+    "timestamp": [
+      652.0,
+      654.0
+    ],
+    "text": "Oh!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      658.0,
+      663.0
+    ],
+    "text": "Hey, look, Snorkkin, why don't we go and find out about those explosions tonight, huh?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_11",
+    "timestamp": [
+      663.0,
+      665.0
+    ],
+    "text": "All right.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      666.84,
+      667.04
+    ],
+    "text": "You'll need me to find the way.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      668.24,
+      668.4
+    ],
+    "text": "You want to come along?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      669.24,
+      669.36
+    ],
+    "text": "You bet.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      670.84,
+      670.96
+    ],
+    "text": "They come later tonight.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      672.56,
+      672.84
+    ],
+    "text": "I won't go to sleep, Ben.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      674.52,
+      674.76
+    ],
+    "text": "What do you think, Snuffkin?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      675.6,
+      677.96
+    ],
+    "text": "I'm not sure. Isn't there anything you can do to change your mind, movement?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_12",
+    "timestamp": [
+      677.96,
+      678.92
+    ],
+    "text": "I don't know.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      679.12,
+      686.24
+    ],
+    "text": "Listen, little Monk, you have to be careful. This could be dangerous. Obviously, or I wouldn't come, would I? It's well, my sleep. Well, stick close to us then. This could be janglerous. Obviously, or I wouldn't come. Would I, as well, my sleep?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      686.24,
+      687.84
+    ],
+    "text": "Well, stick close to us then.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      687.84,
+      688.72
+    ],
+    "text": "Yes, do that.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      688.72,
+      696.68
+    ],
+    "text": "I also went down to the beach late last night to try and find out what was happening. And while I was there, I saw the witch flying around on her broomstick.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      696.68,
+      699.76
+    ],
+    "text": "Oh, really? Why didn't you tell me so I could have come along?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      699.76,
+      702.56
+    ],
+    "text": "I could hide better than you. You're so white.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      702.56,
+      705.6
+    ],
+    "text": "See, movement? I'm not big in way like you.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      707.3,
+      708.8
+    ],
+    "text": "Oh, there's someone coming.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      708.8,
+      709.8
+    ],
+    "text": "Who?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      713.8,
+      717.8
+    ],
+    "text": "It's Alicia. Hi, Alicia! Hi, Alicia!",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      718.8,
+      720.4
+    ],
+    "text": "Oh, my man!",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      721.2,
+      733.0
+    ],
+    "text": "Hello, Alicia. How are you? Have you three come here to play with me? No, I'm afraid we have it, but it's good to see you. Yes, Alicia. Yes? Has your grandmother been kind to you since your last visit to us?",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      733.0,
+      754.0
+    ],
+    "text": "Very kind. She's been treating me very well. Ever since I stopped coming to see you. Oh, good, but we do miss you, Alicia. Oh, I miss you too, but I must keep my promise to her. She'd be upset if I broke it. What are these weeds? They're herbs. Herbs are very important for a witch. And frogs, bellies, and lizard stales, they're important too, of course.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      754.0,
+      756.0
+    ],
+    "text": "I think that's licorice.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "timestamp": [
+      756.0,
+      767.0
+    ],
+    "text": "That's right. Very clever, Snuffkin. We use that for heartburn and coughs. The taste smells quite nice. And it also stops cows from giving their milk. I see. That's interesting.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      780.0,
+      790.0
+    ],
+    "text": "Hey! Oh, it's a ride!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      793.0,
+      795.0
+    ],
+    "text": "Hello, Mr. Hillman splendid days. Hello, Mr. Hemmielin.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      796.0,
+      800.0
+    ],
+    "text": "Thought you worked so hard. Yeah, I guess I do with that.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      802.0,
+      857.84
+    ],
+    "text": "Wait, stop. What is it, Mr. Hemmullen? My letter. I just want my letter. There isn't one. But why not? You didn't have any yesterday or the day before. Yeah, I know that. Nobody's written to you. That's why. Well, somebody should have written. Are you quite, quite sure that you've gone through your bag properly? Don't you know I'm expecting an important letter from an important scientist? It must be in your bag. Ah, alright then, go ahead. Well, he don't seem to trust me to do my job properly, Mr. Hemuellen. Go ahead, have a look for yourself then. Oh, but of course I trust you. Sorry. No, no, you better have a look. What do you think I do? Steam them open and read them at night? No. Oh, you seem to have a lot of letters today. Oh, I really think I should ask for a higher salary. I deserve it.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      857.84,
+      860.44
+    ],
+    "text": "Ah!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      860.44,
+      862.68
+    ],
+    "text": "I'm just starving.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      862.68,
+      865.48
+    ],
+    "text": "I might have to go over and visit the moments in a minute.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      873.92,
+      876.52
+    ],
+    "text": "I'm sleepy too. I could go on sleeping.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      879.36,
+      884.52
+    ],
+    "text": "What do you think you're doing? Oh, I'm sorry. I didn't see you there.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      884.52,
+      885.0
+    ],
+    "text": "Hmm? There's nothing else out sorry. I didn't see you there.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      885.0,
+      888.0
+    ],
+    "text": "Hmm? There's nothing else out here and you didn't see me?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_16",
+    "timestamp": [
+      888.0,
+      890.0
+    ],
+    "text": "I'm sorry.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      890.0,
+      892.0
+    ],
+    "text": "Oh dear. What has this matter with you?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_16",
+    "timestamp": [
+      892.0,
+      895.0
+    ],
+    "text": "Is this place called Moomin Valley?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      895.0,
+      897.0
+    ],
+    "text": "Yes. That's right.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      897.0,
+      901.0
+    ],
+    "text": "At last I found it. I never thought I'd really make it.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      901.0,
+      904.0
+    ],
+    "text": "Excuse me? Are you all right?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      904.0,
+      906.0
+    ],
+    "text": "Doctor me, miss?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      906.0,
+      909.0
+    ],
+    "text": "Oh, tell me what's bothering you.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      909.0,
+      910.0
+    ],
+    "text": "Huh?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      910.0,
+      911.0
+    ],
+    "text": "Oh, she's ill.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      911.0,
+      912.0
+    ],
+    "text": "She's got a fever.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      912.0,
+      914.0
+    ],
+    "text": "Please leave me alone.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      914.0,
+      916.0
+    ],
+    "text": "But you can lie here.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      916.0,
+      918.0
+    ],
+    "text": "You should be in bed, young lady.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "timestamp": [
+      918.0,
+      920.0
+    ],
+    "text": "Do you know a man called Hamilton?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      920.0,
+      921.0
+    ],
+    "text": "Yes.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      921.0,
+      924.0
+    ],
+    "text": "Have you walked all the way to Moment Valley to visit him?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      924.0,
+      928.0
+    ],
+    "text": "So I have come to the right place. It does live here.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      928.0,
+      930.0
+    ],
+    "text": "Oh yes, he lives very close to here.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      930.0,
+      934.0
+    ],
+    "text": "I'm so glad I must see him immediately here.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      934.0,
+      940.0
+    ],
+    "text": "Oh, what shall I do? I must do something. Come here, someone! Someone help me!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      940.0,
+      942.0
+    ],
+    "text": "Oh my goodness.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      944.0,
+      950.0
+    ],
+    "text": "Help! Anyone help! Help me somebody!",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_06",
+    "timestamp": [
+      961.0,
+      963.0
+    ],
+    "text": "Papa!",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      963.0,
+      972.0
+    ],
+    "text": "He's up in the guest room if you want him. Mama's there as well. What for? I just rescued a girl, you know. A girl? Did you sniff?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      972.0,
+      977.0
+    ],
+    "text": "That's right. Very pretty too. She's ill and I put her to bed myself.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      977.0,
+      979.0
+    ],
+    "text": "I'm going to see her. Me too.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      981.0,
+      983.0
+    ],
+    "text": "I want another look as well.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      985.0,
+      987.0
+    ],
+    "text": "First, we must bring her fever down.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      987.0,
+      989.0
+    ],
+    "text": "I think you're right.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      989.0,
+      991.0
+    ],
+    "text": "Yes?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      994.0,
+      996.0
+    ],
+    "text": "Sniff just told us about her.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      996.0,
+      998.0
+    ],
+    "text": "Oh dear, she unconscious.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      998.0,
+      1000.0
+    ],
+    "text": "Yes. Where'd she come from?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1000.0,
+      1004.0
+    ],
+    "text": "We don't know a little, Maya, but Sniff said she'd come here to visit the hemeland.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      1004.0,
+      1007.24
+    ],
+    "text": "That's right, and Snort Maiden's gone to get him.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1007.24,
+      1009.0
+    ],
+    "text": "She's pretty, isn't she?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1009.0,
+      1010.64
+    ],
+    "text": "You're right, very.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1011.4,
+      1013.92
+    ],
+    "text": "By the way, Moomin, what do you think?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1013.92,
+      1017.64
+    ],
+    "text": "Oh dear, must I really run like this?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1017.64,
+      1020.32
+    ],
+    "text": "Oh, what a sophisticated young girl!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1020.32,
+      1023.44
+    ],
+    "text": "Well, if she's sick, why don't you give her some medicine?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1023.44,
+      1025.0
+    ],
+    "text": "I don't know any young girl's apart from her.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_14",
+    "timestamp": [
+      1025.0,
+      1027.0
+    ],
+    "text": "Don't tell them. Just keep running.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_14",
+    "timestamp": [
+      1033.0,
+      1037.0
+    ],
+    "text": "I told you I do not know this person. Maybe she's changed.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      1037.0,
+      1041.0
+    ],
+    "text": "I've already told you. I have never known any young girls.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      1041.0,
+      1045.6
+    ],
+    "text": "Then why do you think she'd want to come to visit you, Hamulin?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      1045.6,
+      1047.5
+    ],
+    "text": "She's a botanist.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      1047.5,
+      1049.94
+    ],
+    "text": "And obviously she's heard of me and wants to come",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      1049.94,
+      1052.4
+    ],
+    "text": "and see the famous Hamulin for herself.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      1052.4,
+      1055.08
+    ],
+    "text": "Oh dear, she can tell us when she wakes up.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      1055.08,
+      1058.04
+    ],
+    "text": "We must leave her now so that grandma's medicine can work.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      1064.96,
+      1066.0
+    ],
+    "text": "I think I'll be getting home. Oh, we couldn't let you go just like that. Please stay and have some tea with us.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1066.0,
+      1072.0
+    ],
+    "text": "Thank you, but no, I have some plans to press. And you're sure you're quite sure you don't know this girl?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      1072.0,
+      1074.0
+    ],
+    "text": "Absolutely certain.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1075.0,
+      1077.0
+    ],
+    "text": "I really must go.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      1080.0,
+      1082.0
+    ],
+    "text": "I'd forgotten all about the bangs.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1082.0,
+      1084.0
+    ],
+    "text": "Well, we haven't snuffed Ken and I.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      1084.0,
+      1086.34
+    ],
+    "text": "You're gonna look for them tonight. I'd forgotten all about the bangs.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1086.34,
+      1088.1
+    ],
+    "text": "Well, we haven't snuffed Ken and I.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      1088.1,
+      1089.58
+    ],
+    "text": "I'm gonna look for them tonight.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1089.58,
+      1092.22
+    ],
+    "text": "Well, I'd like to come too, but I can't.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1092.22,
+      1093.92
+    ],
+    "text": "I'm going with them.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1093.92,
+      1095.26
+    ],
+    "text": "Are you snorkemaiden?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1095.26,
+      1097.86
+    ],
+    "text": "You'll be hiding on the beach in the middle of the night?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      1097.86,
+      1098.7
+    ],
+    "text": "Yes.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1098.7,
+      1103.3
+    ],
+    "text": "And then we'll rush off to where the bangs are coming from as soon as we hear them. That's the plan.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1103.3,
+      1105.0
+    ],
+    "text": "Oh, I'd really love to come.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1105.0,
+      1107.0
+    ],
+    "text": "I'd rather go to bed.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      1107.0,
+      1109.0
+    ],
+    "text": "I'd be a bit scared of the beach in the middle of the night.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1109.0,
+      1112.0
+    ],
+    "text": "After all, it's my duty to stay here with Mum and Mama.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_15",
+    "timestamp": [
+      1112.0,
+      1114.0
+    ],
+    "text": "Are you coming, Sniff?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      1114.0,
+      1117.0
+    ],
+    "text": "Certainly not. Not me.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "timestamp": [
+      1120.0,
+      1123.0
+    ],
+    "text": "It just occurred to me that's why she's here.",
+    "reason": "timeout"
+  },
+  {
+    "speaker": "SPEAKER_18",
+    "timestamp": [
+      1123.0,
+      1135.0
+    ],
+    "text": "Oh. It's just a curtain to me, that's why she's here. Ah.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      1139.0,
+      1141.0
+    ],
+    "text": "Here, you better take this moment, you might get very hungry. Oh, thank you, Mama.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1141.0,
+      1144.0
+    ],
+    "text": "A midnight snack, I really envy you.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1144.0,
+      1146.72
+    ],
+    "text": "Well, Grandpa, why don't you come with us?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1146.72,
+      1148.56
+    ],
+    "text": "Oh, there's nothing I'd love more,",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1148.56,
+      1151.32
+    ],
+    "text": "but I'd better not tonight, right, Mama?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      1151.32,
+      1157.84
+    ],
+    "text": "Oh, definitely not. What would I do if something happened to the girl while you were away? Exactly.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1157.84,
+      1161.36
+    ],
+    "text": "All right, Papa. We'll find out about the bangs for you.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_17",
+    "timestamp": [
+      1161.36,
+      1169.0
+    ],
+    "text": "Thank you, Momenta.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1170.0,
+      1172.0
+    ],
+    "text": "Ah. Ah.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1172.0,
+      1173.4
+    ],
+    "text": "Good.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1173.4,
+      1175.4
+    ],
+    "text": "I think we should save this food for a while.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      1175.4,
+      1178.2
+    ],
+    "text": "We might have to wait a long time for the explosions.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1178.2,
+      1180.6
+    ],
+    "text": "And they might not come tonight.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      1180.6,
+      1182.4
+    ],
+    "text": "Stop stuffing yourself, Momenta.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_19",
+    "timestamp": [
+      1182.4,
+      1183.9
+    ],
+    "text": "The rest is for snuffkin and me.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1183.9,
+      1185.5
+    ],
+    "text": "But you can't eat anymore?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      1185.5,
+      1186.7
+    ],
+    "text": "Yes, I can.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1186.7,
+      1222.7
+    ],
+    "text": "We must share it in equal parts, otherwise it's not fair. I think it should be shared in proportion to how big one is. Oh",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      1225.0,
+      1226.0
+    ],
+    "text": "From the sea keep a sharp lookout! Look over there!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      1229.0,
+      1230.0
+    ],
+    "text": "What is it?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_10",
+    "timestamp": [
+      1232.0,
+      1233.0
+    ],
+    "text": "Uh-oh!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1233.0,
+      1234.0
+    ],
+    "text": "Wow!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      1238.0,
+      1241.0
+    ],
+    "text": "That's what I call fireworks!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1244.0,
+      1247.04
+    ],
+    "text": "Come on! Somebody must be out there in a boat",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      1257.4,
+      1266.0
+    ],
+    "text": "There's a boat the fireworks must have come from there. Hey, come ashore!",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1266.0,
+      1268.0
+    ],
+    "text": "Is that the hemuline you think?",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "timestamp": [
+      1268.0,
+      1269.0
+    ],
+    "text": "No, I don't think so.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "timestamp": [
+      1269.0,
+      1272.0
+    ],
+    "text": "It looks like him, but he was much younger.",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_13",
+    "timestamp": [
+      1272.0,
+      1275.0
+    ],
+    "text": "And so as a result of their excursion to the beach,",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "timestamp": [
+      1275.0,
+      1285.0
+    ],
+    "text": "they finally learned that the big bangs that had been waking everyone up were fireworks. They also learned that the fireworks were coming from a boat far out to sea,",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_09",
+    "timestamp": [
+      1285.0,
+      1306.0
+    ],
+    "text": "but the man who had sent them up disappeared into the night. Leaving and sharing and caring and giving the movements",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_08",
+    "timestamp": [
+      1307.0,
+      1310.0
+    ],
+    "text": "They're always happy and goes at play",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_09",
+    "timestamp": [
+      1310.0,
+      1314.0
+    ],
+    "text": "The movements are having fun day after day",
+    "reason": "speaker-switch"
+  },
+  {
+    "speaker": "SPEAKER_08",
+    "timestamp": [
+      1314.0,
+      1327.0
+    ],
+    "text": "The movements, the movements, the movements The Moons",
+    "reason": "speaker-switch"
+  }
+]

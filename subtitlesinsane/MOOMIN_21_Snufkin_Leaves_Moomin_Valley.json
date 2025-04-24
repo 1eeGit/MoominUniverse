@@ -1,0 +1,4972 @@
+{
+  "speakers": [
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        0.0,
+        7.0
+      ],
+      "text": "Here they are for one and all."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        7.0,
+        10.0
+      ],
+      "text": "The movements are about to come."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        10.0,
+        12.0
+      ],
+      "text": "Come on and sit down here with me."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        12.0,
+        15.0
+      ],
+      "text": "They're here for you on your TV."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        15.0,
+        17.0
+      ],
+      "text": "They are the movements."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        17.0,
+        20.0
+      ],
+      "text": "They are the movements."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        20.0,
+        22.0
+      ],
+      "text": "So, what do you think?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        22.0,
+        28.0
+      ],
+      "text": "I'm going to say that I'm not going to say that. I'm going to say that I'm not going to say that. with me, therefore you are your TV, they are the movements, they are the movements,"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        28.0,
+        99.0
+      ],
+      "text": "so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, there was a movement, there was a movement, there la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, The fall has come to Moon Valley, and the memory of sunshine filled ours fades as the days"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        99.0,
+        101.8
+      ],
+      "text": "become shorter and the nights longer."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        101.8,
+        108.12
+      ],
+      "text": "The wind blows away the falling leaves, and the blue skies of summer are now gray and cloudy."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        108.12,
+        110.64
+      ],
+      "text": "Winter is just around the corner."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        111.76,
+        112.92
+      ],
+      "text": "Snork maiden!"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        118.12,
+        119.56
+      ],
+      "text": "Where are you going?"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        119.56,
+        122.32
+      ],
+      "text": "Oh, I'm just taking my brother, his lunch little my."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        122.32,
+        123.52
+      ],
+      "text": "Hmm."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        123.52,
+        126.12
+      ],
+      "text": "He must have nearly finished the flying ship by now."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        126.12,
+        129.24
+      ],
+      "text": "Oh no, not even Snork works that quickly."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        130.6,
+        131.6
+      ],
+      "text": "Well, have you seen it?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        131.6,
+        132.8
+      ],
+      "text": "No, I haven't."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        132.8,
+        135.04
+      ],
+      "text": "He won't even let me come into his workshop."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        135.04,
+        137.8
+      ],
+      "text": "Is he afraid it'll disappear if someone sees it?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        137.8,
+        140.64
+      ],
+      "text": "He hasn't said why, but I suppose all great inventors"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        140.64,
+        141.96
+      ],
+      "text": "have to be very careful."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        141.96,
+        144.88
+      ],
+      "text": "Someone might want to steal their ideas."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        144.88,
+        145.14
+      ],
+      "text": "Moment told me he's dying to have to be very careful. Someone might want to steal their ideas."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        145.14,
+        166.56
+      ],
+      "text": "Movement told me he's dying to have a look at it. I've got my hands full. Come on, quickly! Look what I've got! It's a record player!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        170.4,
+        172.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        177.6,
+        179.8
+      ],
+      "text": "Do you think you can get it working, dear?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        179.8,
+        181.8
+      ],
+      "text": "Oh, yes, of course, Mama."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        181.8,
+        184.4
+      ],
+      "text": "Why did people always give me things that are broken?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        184.4,
+        186.92
+      ],
+      "text": "It'd be nice to have something that worked for a change."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        190.2,
+        192.88
+      ],
+      "text": "Movement, Papa will get it working for you."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        192.88,
+        195.48
+      ],
+      "text": "My auntie said that the record was all right, though."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        195.48,
+        196.6
+      ],
+      "text": "It's dance music."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        196.6,
+        199.08
+      ],
+      "text": "She's had it for ages, but I've never heard it."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        199.08,
+        200.08
+      ],
+      "text": "Oh, that's nice."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        200.08,
+        203.6
+      ],
+      "text": "It's years since I danced, but it seems like only yesterday."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        203.6,
+        206.04
+      ],
+      "text": "Do you remember what funny was Papa?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        206.04,
+        208.2
+      ],
+      "text": "Dancing."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        208.2,
+        209.36
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        209.36,
+        210.68
+      ],
+      "text": "I see."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        210.68,
+        212.0
+      ],
+      "text": "Have you fixed it, Papa?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        221.44,
+        221.72
+      ],
+      "text": "Huh?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        221.72,
+        222.88
+      ],
+      "text": "I can hear music."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        222.88,
+        247.0
+      ],
+      "text": "Doesn't sound like snuffkin! Right, have you got the idea now?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        247.0,
+        252.0
+      ],
+      "text": "Yes, I think so. Me too!"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        252.0,
+        256.0
+      ],
+      "text": "Come on! Let's see you then."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        256.0,
+        265.0
+      ],
+      "text": "May I? Come on! Well, let's see you then."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        266.0,
+        268.0
+      ],
+      "text": "Meal?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        269.0,
+        271.0
+      ],
+      "text": "Did I eat it?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        272.0,
+        279.0
+      ],
+      "text": "Oh, wow!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        292.8,
+        294.8
+      ],
+      "text": "Look at Papa Moon and he is a great dancer. Well, man, can you dance, Sniff?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        294.8,
+        296.0
+      ],
+      "text": "I've never tried."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        296.0,
+        306.0
+      ],
+      "text": "Right, well, try now. Oh, yeah. Oh, yeah. Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        306.0,
+        308.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        308.0,
+        310.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        310.0,
+        312.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        312.0,
+        314.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        314.0,
+        316.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        316.0,
+        318.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        318.0,
+        320.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        320.0,
+        322.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        322.0,
+        324.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        324.0,
+        325.0
+      ],
+      "text": "Oh, yeah. Oh, yeah. Oh!"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        327.0,
+        330.0
+      ],
+      "text": "Baby, baby, baby."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        332.0,
+        335.0
+      ],
+      "text": "Oh, that was fun. Oh, Dan, you still wear me out like this."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        335.0,
+        337.0
+      ],
+      "text": "You've got no sense of rhythm at all, Sniff."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        337.0,
+        340.0
+      ],
+      "text": "I can still dance, though, can I?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        341.0,
+        343.0
+      ],
+      "text": "Oh, are you ready, Papa?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        343.0,
+        346.0
+      ],
+      "text": "I think I'll have to sit this one out, Mom. All right."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        350.0,
+        351.0
+      ],
+      "text": "Little Mide, no, thank you."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        351.0,
+        352.0
+      ],
+      "text": "I'll dance on my own."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        352.0,
+        355.0
+      ],
+      "text": "Well then, why don't you dance with me and dance, Smith?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        355.0,
+        356.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        363.0,
+        364.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        364.0,
+        375.0
+      ],
+      "text": "Oh. Oh, it looks like it's here for the day."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        375.0,
+        385.0
+      ],
+      "text": "Oh, what horrible weather, Snuffkin."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        385.0,
+        387.0
+      ],
+      "text": "Yes."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        387.0,
+        389.0
+      ],
+      "text": "They're having fun."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        389.0,
+        392.0
+      ],
+      "text": "Well, sniff brought this old record player over,"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        392.0,
+        393.0
+      ],
+      "text": "and we've been dancing."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        393.0,
+        395.0
+      ],
+      "text": "I haven't done it for years and years,"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        395.0,
+        397.0
+      ],
+      "text": "and well, aren't you coming in?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        397.0,
+        399.0
+      ],
+      "text": "I can smell winter in the air, Moomin' Papa."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        399.0,
+        401.0
+      ],
+      "text": "Huh?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        401.0,
+        410.0
+      ],
+      "text": "Oh, yes, you're right."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        412.0,
+        418.0
+      ],
+      "text": "Snuffkin, why?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        420.0,
+        428.0
+      ],
+      "text": "Snuffkin, come and answer me! No thanks, it's mine."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        429.0,
+        431.0
+      ],
+      "text": "Sorry! I'm sorry!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        431.0,
+        433.0
+      ],
+      "text": "Oh, you!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        438.0,
+        441.0
+      ],
+      "text": "Hmm, what's the matter with this?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        446.0,
+        448.0
+      ],
+      "text": "I'm afraid it's broken. Just when we were having so much fun. Will you be able to fix it again, dear? No, even I can't mend it now."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        448.0,
+        450.0
+      ],
+      "text": "Oh, please, dry papa, will you?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        450.0,
+        452.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        452.0,
+        454.0
+      ],
+      "text": "Snuffkin, do you know anything about record players?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        454.0,
+        456.0
+      ],
+      "text": "No, I'm afraid not."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        456.0,
+        458.0
+      ],
+      "text": "Oh, dear."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        458.0,
+        459.0
+      ],
+      "text": "But what?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        459.0,
+        462.0
+      ],
+      "text": "I'll play my harmonic if you want to continue to dance."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        462.0,
+        464.0
+      ],
+      "text": "And then you can fiddle around with the machine."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        464.0,
+        467.0
+      ],
+      "text": "How would that be? I'll play my harmonic if you want to continue to dance,"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        467.0,
+        469.0
+      ],
+      "text": "and then you can fiddle around with the machine."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        469.0,
+        470.0
+      ],
+      "text": "How would that be?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        470.0,
+        471.0
+      ],
+      "text": "Oh, yes, please."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        471.0,
+        473.0
+      ],
+      "text": "That'd be great, Snuffkin."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        473.0,
+        474.0
+      ],
+      "text": "Thanks."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        474.0,
+        476.5
+      ],
+      "text": "Now then, what would be a good tune to dance to?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        476.5,
+        507.0
+      ],
+      "text": "Let's see. Oh Now what's this? Oh, no, I give up."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        507.0,
+        510.0
+      ],
+      "text": "May I?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        510.0,
+        513.0
+      ],
+      "text": "Oh, no."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        513.0,
+        515.0
+      ],
+      "text": "I give up."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        515.0,
+        518.0
+      ],
+      "text": "May I?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        518.0,
+        543.0
+      ],
+      "text": "Oh, no. You're thinking about going away again, aren't you, Snowfken?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        543.0,
+        546.78
+      ],
+      "text": "I know that you go south every year when winter comes,"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        546.78,
+        548.3
+      ],
+      "text": "but I'll still miss you, though,"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        548.3,
+        551.6
+      ],
+      "text": "and I wish you could stay here in Moomin Valley."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        551.6,
+        552.38
+      ],
+      "text": "I know, Moomin."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        561.02,
+        562.82
+      ],
+      "text": "Who are they?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        562.82,
+        564.26
+      ],
+      "text": "How do you fathomers, I think?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        564.26,
+        566.0
+      ],
+      "text": "I wonder where they're going."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        566.0,
+        569.0
+      ],
+      "text": "I don't know. A deserted island I expect."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        569.0,
+        572.0
+      ],
+      "text": "Probably the best place for them."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        572.0,
+        576.0
+      ],
+      "text": "When are you leaving, self-kin?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        576.0,
+        578.0
+      ],
+      "text": "Oh, I haven't decided yet."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        578.0,
+        581.0
+      ],
+      "text": "So you'll be here for a bit longer then."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        581.0,
+        583.0
+      ],
+      "text": "Do you know where you're going?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        583.0,
+        585.0
+      ],
+      "text": "No. It must be fun traveling."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        585.0,
+        587.0
+      ],
+      "text": "Yes, most of the time."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        587.0,
+        592.0
+      ],
+      "text": "It's the best way of meeting new people and still being on your own."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        592.0,
+        597.0
+      ],
+      "text": "I wish we could do that, but even when we hibernate and go to sleep, we're never really alone."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        597.0,
+        600.0
+      ],
+      "text": "I guess I'd hibernate too if I had to stay up here a moment."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        600.0,
+        603.0
+      ],
+      "text": "During all the freezing winter snows."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        603.0,
+        609.72
+      ],
+      "text": "Do you think we could have a good time? Stay up here, movement. During all the freezing winter snows."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        612.28,
+        617.52
+      ],
+      "text": "Do you think I could go south with Snuffkin, Papa?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        618.12,
+        621.44
+      ],
+      "text": "Not really. It's the moment way to hibernate."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        621.44,
+        624.4
+      ],
+      "text": "It's a family custom passed down through the years"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        624.4,
+        625.0
+      ],
+      "text": "by our ancestors."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        625.0,
+        631.0
+      ],
+      "text": "But Papa, I don't want to go to sleep for months on end. I want to travel south with Snuffkin."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        631.0,
+        633.0
+      ],
+      "text": "Oh, movement."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        633.0,
+        636.0
+      ],
+      "text": "You promise you'll be back on the first day of spring."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        636.0,
+        640.0
+      ],
+      "text": "Oh, Mama! Does that mean I can really go?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        640.0,
+        643.0
+      ],
+      "text": "I can't wait to tell Snuffkin. I can, can't I?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        643.0,
+        646.74
+      ],
+      "text": "Well, if you really want to, I don't suppose we'll stop you."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        646.74,
+        648.74
+      ],
+      "text": "We'll be Papa."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        648.74,
+        652.58
+      ],
+      "text": "Now my parents didn't mind when I traveled around in my youth,"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        652.58,
+        654.58
+      ],
+      "text": "so yes, or I'd more than..."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        654.58,
+        658.58
+      ],
+      "text": "Oh, thank you, Papa! Oh, thank you, Mama!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        658.58,
+        669.0
+      ],
+      "text": "That's great, but what was Snuffkin say?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        671.0,
+        674.0
+      ],
+      "text": "Well, it's a good idea. And I gotta say it'd be fun to have you a long woman."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        674.0,
+        677.0
+      ],
+      "text": "So I can come with you, Snuffkin?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        677.0,
+        678.0
+      ],
+      "text": "No."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        678.0,
+        679.0
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        679.0,
+        682.0
+      ],
+      "text": "I'm sorry, but I've got to go on my own."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        682.0,
+        685.8
+      ],
+      "text": "Don't be disappointed, movement. I told you I travel alone."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        685.8,
+        686.8
+      ],
+      "text": "I need to."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        686.8,
+        688.3
+      ],
+      "text": "After spending the rest of the year here,"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        688.3,
+        689.6
+      ],
+      "text": "just as I need to be here,"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        689.6,
+        691.3
+      ],
+      "text": "after spending the winter alone,"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        691.3,
+        693.3
+      ],
+      "text": "and the joy of returning to movement valley"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        693.3,
+        694.8
+      ],
+      "text": "is something I wouldn't miss."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        694.8,
+        697.0
+      ],
+      "text": "What's not, Ken? I thought..."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        697.0,
+        698.5
+      ],
+      "text": "The time will soon pass,"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        698.5,
+        700.8
+      ],
+      "text": "and you'll be asleep through most of it."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        700.8,
+        702.5
+      ],
+      "text": "You won't notice I'm not here."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        702.5,
+        706.64
+      ],
+      "text": "I'll see you next spring, movement. I'll be back on the first"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        706.64,
+        726.0
+      ],
+      "text": "day as usual, I promise, as soon as the weather waromin. Oh, it's all right. Oh, come on, Moomin."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        726.0,
+        729.0
+      ],
+      "text": "You'll have to tie them a bit tighter than that."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        732.0,
+        736.0
+      ],
+      "text": "It'll be a cold winter, so we'll need lots of water."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        736.0,
+        738.0
+      ],
+      "text": "I'll be right back."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        738.0,
+        740.0
+      ],
+      "text": "I'll be right back."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        740.0,
+        742.0
+      ],
+      "text": "I'll be right back."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        742.0,
+        744.0
+      ],
+      "text": "I'll be right back."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        744.0,
+        747.0
+      ],
+      "text": "I'll be right back. a bit tighter than that."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        750.0,
+        752.0
+      ],
+      "text": "It'll be a cold winter, so we'll need lots of wood to keep us going till spring colors."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        752.0,
+        753.0
+      ],
+      "text": "I know."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        753.0,
+        755.0
+      ],
+      "text": "Now you want to stay warm, don't you?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        756.0,
+        759.0
+      ],
+      "text": "When I grow up, I'll go south on my own, too."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        759.0,
+        779.0
+      ],
+      "text": "Yes, of course you will."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        781.0,
+        783.0
+      ],
+      "text": "Is Mom in home? Yes."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        783.0,
+        786.0
+      ],
+      "text": "How is he? Is he still down in the dumps?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        786.0,
+        789.0
+      ],
+      "text": "I'm afraid so. Grandmoss cheer you up, recipe didn't work."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        789.0,
+        793.0
+      ],
+      "text": "Oh, I think he's being silly just because Snuffkin's going away."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        793.0,
+        795.0
+      ],
+      "text": "I suppose he is."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        795.0,
+        797.0
+      ],
+      "text": "But don't worry, mama."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        797.0,
+        819.5
+      ],
+      "text": "He won't be miserable much longer because I've got a surprise for him. Ah. Hmm."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        822.3,
+        824.1
+      ],
+      "text": "Are you there, Mom? A moment, don't cry."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        824.1,
+        826.0
+      ],
+      "text": "Boys don't cry, I suppose. Of course they do. Well, I'm not crying, so they're..."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        826.0,
+        827.0
+      ],
+      "text": "All right, but I do think you should get up now."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        827.0,
+        828.0
+      ],
+      "text": "Oh, and why should I?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        828.0,
+        830.0
+      ],
+      "text": "I have a surprise for you!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        830.0,
+        831.0
+      ],
+      "text": "I don't want any surprises."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        831.0,
+        834.0
+      ],
+      "text": "Come on, I'm going to go and see Snorkin' his workshop."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        834.0,
+        836.0
+      ],
+      "text": "But you know he won't let us in."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        836.0,
+        838.0
+      ],
+      "text": "I've tried before."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        838.0,
+        840.0
+      ],
+      "text": "Oh yes, he will today."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        840.0,
+        841.0
+      ],
+      "text": "I promise."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        841.0,
+        842.0
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        842.0,
+        843.0
+      ],
+      "text": "You mean Snorko's show is over?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        843.0,
+        847.0
+      ],
+      "text": "I'm not going to let him in. I'm not going to let him in. I'm not going to let him in. I'm not going't let us in. I've tried before. Oh yes, he will today. I promise."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        847.0,
+        851.0
+      ],
+      "text": "What? You mean Snorkel shows his flying ship at last?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        851.0,
+        854.0
+      ],
+      "text": "Yes, he said. Has he really finished it then?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        854.0,
+        858.0
+      ],
+      "text": "No, not yet. There's still a lot of work to do on it."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        858.0,
+        861.0
+      ],
+      "text": "Then I wonder why he's letting us see it. He's always refused before."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        861.0,
+        863.0
+      ],
+      "text": "What's made him change his mind?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        863.0,
+        865.8
+      ],
+      "text": "But I asked him this time."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        865.8,
+        867.44
+      ],
+      "text": "I said I wanted to show it to you."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        867.44,
+        869.16
+      ],
+      "text": "It just needed a woman's touch."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        869.16,
+        871.12
+      ],
+      "text": "What did you say to him?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        871.12,
+        873.12
+      ],
+      "text": "First he said absolutely not."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        873.12,
+        874.68
+      ],
+      "text": "But when I told him how ill you were"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        874.68,
+        877.16
+      ],
+      "text": "and that you probably wouldn't be with us much longer,"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        877.16,
+        879.6
+      ],
+      "text": "he gave in and said we could see it just you and me"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        879.6,
+        880.36
+      ],
+      "text": "of climb up."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        880.36,
+        882.08
+      ],
+      "text": "That little snork maiden."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        882.08,
+        883.2
+      ],
+      "text": "Oh good."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        883.2,
+        885.3
+      ],
+      "text": "Because sometimes, and people are very depressed"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        885.3,
+        886.46
+      ],
+      "text": "and just lying bad."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        886.46,
+        888.1
+      ],
+      "text": "They've done something bad."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        888.1,
+        889.66
+      ],
+      "text": "Oh, stop it snorked, maiden."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        889.66,
+        891.1
+      ],
+      "text": "Don't say things like that."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        894.7,
+        896.58
+      ],
+      "text": "I'm only trying to cheer you up."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        896.58,
+        898.86
+      ],
+      "text": "So remember, don't tell us all."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        898.86,
+        900.82
+      ],
+      "text": "No one else must know anything about it."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        900.82,
+        907.0
+      ],
+      "text": "Okay. Let's go."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        907.0,
+        910.0
+      ],
+      "text": "No."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        910.0,
+        912.0
+      ],
+      "text": "A little my."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        912.0,
+        914.0
+      ],
+      "text": "Little my."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        914.0,
+        926.0
+      ],
+      "text": "Trouble. No. Oh, little my. Little my."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        926.0,
+        927.0
+      ],
+      "text": "Trouble."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        927.0,
+        928.0
+      ],
+      "text": "Big Trouble."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        928.0,
+        929.0
+      ],
+      "text": "We must fool her."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        929.0,
+        930.0
+      ],
+      "text": "Yes, but how?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        930.0,
+        932.0
+      ],
+      "text": "What can we do?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        932.0,
+        934.0
+      ],
+      "text": "I know what we'll do."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        934.0,
+        935.0
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        935.0,
+        936.0
+      ],
+      "text": "Quick, Moomin!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        936.0,
+        939.0
+      ],
+      "text": "You just agree with everything I say, Snork Maiden."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        939.0,
+        940.0
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        940.0,
+        942.0
+      ],
+      "text": "I thought you were in bad Moomin."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        942.0,
+        944.0
+      ],
+      "text": "No, we're going to see Snork."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        944.0,
+        945.0
+      ],
+      "text": "Yes."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        945.0,
+        946.0
+      ],
+      "text": "Really?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        946.0,
+        948.0
+      ],
+      "text": "Yes, he needs to clear a runway for when the fly ship is finished."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        948.0,
+        950.0
+      ],
+      "text": "We're going to help him do it, that's all."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        950.0,
+        951.0
+      ],
+      "text": "Yes."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        951.0,
+        952.0
+      ],
+      "text": "Are you really, mumen?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        952.0,
+        954.0
+      ],
+      "text": "You got out of bad to do that."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        954.0,
+        961.0
+      ],
+      "text": "I'm afraid I find it very strange that snork has asked to go along and help him cut down bushes and dig up roots and things."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        961.0,
+        963.0
+      ],
+      "text": "You might have noticed I'm not a complete fool."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        963.0,
+        965.88
+      ],
+      "text": "But it's true, little migh. Oh, yes things. You might have noticed I'm not a complete fool."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        965.88,
+        967.32
+      ],
+      "text": "But it's true, little mime."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        967.32,
+        968.32
+      ],
+      "text": "Oh, yes."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        968.32,
+        970.68
+      ],
+      "text": "Well, at least you could have invented a better lie."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        970.68,
+        975.12
+      ],
+      "text": "You must think I'm pretty stupid to believe a pathetic story like that."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        975.12,
+        976.84
+      ],
+      "text": "But it's the truth."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        976.84,
+        978.04
+      ],
+      "text": "And we need your help."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        978.04,
+        979.04
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        979.04,
+        980.04
+      ],
+      "text": "Don't bother, don't bother."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        980.04,
+        981.56
+      ],
+      "text": "I don't want to hear anymore."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        981.56,
+        984.16
+      ],
+      "text": "I think it's very sad that you have to pretend."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        984.16,
+        985.4
+      ],
+      "text": "You're trying to hide something from me,"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        985.4,
+        988.48
+      ],
+      "text": "and I'm not interested in what sort of sneaky underhanded thing it is."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        988.48,
+        989.56
+      ],
+      "text": "But little mime?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        989.56,
+        990.32
+      ],
+      "text": "No, but..."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        990.32,
+        994.6
+      ],
+      "text": "And anyway, I'm a little too busy at the moment to take any notice of what's going on."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        994.6,
+        995.6
+      ],
+      "text": "Goodbye!"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        998.6,
+        999.76
+      ],
+      "text": "Come on."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1000.6,
+        1001.84
+      ],
+      "text": "Oh, that was close."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1001.84,
+        1010.0
+      ],
+      "text": "Yeah! Phew, that was close. Yeah."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1013.0,
+        1022.0
+      ],
+      "text": "Ha! Think, thank you. Keep a secret from me, do they?"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1024.0,
+        1026.0
+      ],
+      "text": "Are you alone? Of course we are. I promised, didn't I?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1026.0,
+        1028.0
+      ],
+      "text": "Come in then."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1035.0,
+        1037.0
+      ],
+      "text": "Wow!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1044.0,
+        1047.0
+      ],
+      "text": "It's nearly ready, isn't it?"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1047.0,
+        1049.0
+      ],
+      "text": "Oh no, there's a lot more to do."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1049.0,
+        1051.0
+      ],
+      "text": "The machine isn't half finished yet."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1051.0,
+        1054.0
+      ],
+      "text": "And as you can see, there's a lot to do on the ship itself,"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1054.0,
+        1058.0
+      ],
+      "text": "but I'm getting there slowly."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1058.0,
+        1062.0
+      ],
+      "text": "I never thought it would be so fantastic, smork."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1062.0,
+        1065.0
+      ],
+      "text": "Well, I suppose you could say the design wasn't a complete failure."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1065.0,
+        1069.0
+      ],
+      "text": "I'm quite sure it'll fly beautifully."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1069.0,
+        1073.0
+      ],
+      "text": "Oh, thank you. Do you really think it will, woman?"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1073.0,
+        1077.0
+      ],
+      "text": "I can see it now. High open the air, dodging in and out of the clouds."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1077.0,
+        1079.0
+      ],
+      "text": "Way up above the world."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1079.0,
+        1083.0
+      ],
+      "text": "Well, I'm glad to see that you're so perceptive and quite right."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1083.0,
+        1086.0
+      ],
+      "text": "Oh, how very thoughtful of me."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1086.0,
+        1089.0
+      ],
+      "text": "Shouldn't you sit down and rest? You know your illness?"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1089.0,
+        1091.0
+      ],
+      "text": "It doesn't help to get too excited."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1091.0,
+        1095.0
+      ],
+      "text": "Ha, I shouldn't worry, Snork. There's nothing wrong with him."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1096.0,
+        1099.0
+      ],
+      "text": "Oh, little my, how did you get in here?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1099.0,
+        1101.0
+      ],
+      "text": "Throw that door!"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1101.0,
+        1105.04
+      ],
+      "text": "But I always keep it oh oh oh no I"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1105.64,
+        1110.68
+      ],
+      "text": "Must have forgotten to lock it and it's a bit late to do it now, isn't it?"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1110.68,
+        1114.76
+      ],
+      "text": "But don't worry if I wanted to get in I'd get in locks or no locks"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1114.76,
+        1121.32
+      ],
+      "text": "Oh, you like to us little my of course, but so did you telling me that stupid story now or even right?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1121.96,
+        1126.0
+      ],
+      "text": "Now listen little my don't ever tell anybody what you see over here."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1126.0,
+        1128.0
+      ],
+      "text": "All right!"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1128.0,
+        1130.0
+      ],
+      "text": "Ugh!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1130.0,
+        1133.0
+      ],
+      "text": "This invention contains so many outstanding new features"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1133.0,
+        1137.0
+      ],
+      "text": "it is difficult to know where to begin."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1137.0,
+        1148.0
+      ],
+      "text": "But let me start with the most exciting part of the whole construction."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1152.0,
+        1186.0
+      ],
+      "text": "It could go as a tree or rather the concept of a tree, thrilling, beautiful, impossible, dangerous. Can you take the ship down, Moonman? I'd like you to land at that side of the lake. Oh, why do you want to get off?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1186.0,
+        1189.0
+      ],
+      "text": "Aren't you having fun flying about up here?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1189.0,
+        1191.0
+      ],
+      "text": "I want to be on my own."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1191.0,
+        1193.0
+      ],
+      "text": "Oh, please stay here."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1193.0,
+        1195.0
+      ],
+      "text": "I'll let you steer if you want."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1195.0,
+        1197.0
+      ],
+      "text": "No, really, Moonman, please."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1197.0,
+        1199.0
+      ],
+      "text": "Bye now."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1199.0,
+        1201.0
+      ],
+      "text": "No!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1204.0,
+        1207.0
+      ],
+      "text": "Snowpeer! Bye now. No!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1209.0,
+        1213.0
+      ],
+      "text": "Snuff me!"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1267.0,
+        1281.0
+      ],
+      "text": "Ugh! So long then, Moonman, my friend. I'll see you again next year. The first day of spring. Oh. Go by then, Snuffkin."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1283.0,
+        1285.0
+      ],
+      "text": "Off for the winter, eh, Snuffkin. Yes, goodbye Mr. Hemelin."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1285.0,
+        1288.0
+      ],
+      "text": "We'll be seeing you in the spring."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1288.0,
+        1291.0
+      ],
+      "text": "Yes, when the snow's are gone."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1297.0,
+        1318.0
+      ],
+      "text": "Oh, to be young and winter came to Moomin Valley."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        1318.0,
+        1326.0
+      ],
+      "text": "And in Moomin's heart, snuffing and the spring seemed a long, long way away"
+    },
+    {
+      "speaker": "SPEAKER_15",
+      "timestamp": [
+        1329.0,
+        1332.0
+      ],
+      "text": "They love the laughter and they love the living The movements"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        1333.0,
+        1339.0
+      ],
+      "text": "Believing in sharing and caring and giving the movements"
+    },
+    {
+      "speaker": "SPEAKER_15",
+      "timestamp": [
+        1340.0,
+        1344.0
+      ],
+      "text": "They're always happy and always at play"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1344.0,
+        1347.28
+      ],
+      "text": "The movements are having fun day after day"
+    },
+    {
+      "speaker": "SPEAKER_15",
+      "timestamp": [
+        1347.28,
+        1350.48
+      ],
+      "text": "The movements"
+    },
+    {
+      "speaker": "SPEAKER_14",
+      "timestamp": [
+        1350.48,
+        1354.64
+      ],
+      "text": "The movements"
+    },
+    {
+      "speaker": "SPEAKER_15",
+      "timestamp": [
+        1354.64,
+        1358.32
+      ],
+      "text": "They love the laughter and they love the living"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1358.32,
+        1361.84
+      ],
+      "text": "The movements"
+    },
+    {
+      "speaker": "SPEAKER_14",
+      "timestamp": [
+        1361.84,
+        1364.88
+      ],
+      "text": "They're leaving and sharing and caring"
+    },
+    {
+      "speaker": "SPEAKER_15",
+      "timestamp": [
+        1364.88,
+        1370.0
+      ],
+      "text": "And giving the movements."
+    },
+    {
+      "speaker": "SPEAKER_14",
+      "timestamp": [
+        1370.0,
+        1373.0
+      ],
+      "text": "They're always happy and goes at play."
+    },
+    {
+      "speaker": "SPEAKER_15",
+      "timestamp": [
+        1373.0,
+        1377.0
+      ],
+      "text": "The Moons are having fun day after day."
+    },
+    {
+      "speaker": "SPEAKER_14",
+      "timestamp": [
+        1377.0,
+        1387.0
+      ],
+      "text": "The Moons. The move is the move is"
+    }
+  ],
+  "chunks": [
+    {
+      "timestamp": [
+        0.0,
+        7.0
+      ],
+      "text": "Here they are for one and all."
+    },
+    {
+      "timestamp": [
+        7.0,
+        10.0
+      ],
+      "text": "The movements are about to come."
+    },
+    {
+      "timestamp": [
+        10.0,
+        12.0
+      ],
+      "text": "Come on and sit down here with me."
+    },
+    {
+      "timestamp": [
+        12.0,
+        15.0
+      ],
+      "text": "They're here for you on your TV."
+    },
+    {
+      "timestamp": [
+        15.0,
+        17.0
+      ],
+      "text": "They are the movements."
+    },
+    {
+      "timestamp": [
+        17.0,
+        20.0
+      ],
+      "text": "They are the movements."
+    },
+    {
+      "timestamp": [
+        20.0,
+        22.0
+      ],
+      "text": "So, what do you think?"
+    },
+    {
+      "timestamp": [
+        22.0,
+        28.0
+      ],
+      "text": "I'm going to say that I'm not going to say that. I'm going to say that I'm not going to say that. with me, therefore you are your TV, they are the movements, they are the movements,"
+    },
+    {
+      "timestamp": [
+        28.0,
+        99.0
+      ],
+      "text": "so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, there was a movement, there was a movement, there la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, The fall has come to Moon Valley, and the memory of sunshine filled ours fades as the days"
+    },
+    {
+      "timestamp": [
+        99.0,
+        101.8
+      ],
+      "text": "become shorter and the nights longer."
+    },
+    {
+      "timestamp": [
+        101.8,
+        108.12
+      ],
+      "text": "The wind blows away the falling leaves, and the blue skies of summer are now gray and cloudy."
+    },
+    {
+      "timestamp": [
+        108.12,
+        110.64
+      ],
+      "text": "Winter is just around the corner."
+    },
+    {
+      "timestamp": [
+        111.76,
+        112.92
+      ],
+      "text": "Snork maiden!"
+    },
+    {
+      "timestamp": [
+        118.12,
+        119.56
+      ],
+      "text": "Where are you going?"
+    },
+    {
+      "timestamp": [
+        119.56,
+        122.32
+      ],
+      "text": "Oh, I'm just taking my brother, his lunch little my."
+    },
+    {
+      "timestamp": [
+        122.32,
+        123.52
+      ],
+      "text": "Hmm."
+    },
+    {
+      "timestamp": [
+        123.52,
+        126.12
+      ],
+      "text": "He must have nearly finished the flying ship by now."
+    },
+    {
+      "timestamp": [
+        126.12,
+        129.24
+      ],
+      "text": "Oh no, not even Snork works that quickly."
+    },
+    {
+      "timestamp": [
+        130.6,
+        131.6
+      ],
+      "text": "Well, have you seen it?"
+    },
+    {
+      "timestamp": [
+        131.6,
+        132.8
+      ],
+      "text": "No, I haven't."
+    },
+    {
+      "timestamp": [
+        132.8,
+        135.04
+      ],
+      "text": "He won't even let me come into his workshop."
+    },
+    {
+      "timestamp": [
+        135.04,
+        137.8
+      ],
+      "text": "Is he afraid it'll disappear if someone sees it?"
+    },
+    {
+      "timestamp": [
+        137.8,
+        140.64
+      ],
+      "text": "He hasn't said why, but I suppose all great inventors"
+    },
+    {
+      "timestamp": [
+        140.64,
+        141.96
+      ],
+      "text": "have to be very careful."
+    },
+    {
+      "timestamp": [
+        141.96,
+        144.88
+      ],
+      "text": "Someone might want to steal their ideas."
+    },
+    {
+      "timestamp": [
+        144.88,
+        145.14
+      ],
+      "text": "Moment told me he's dying to have to be very careful. Someone might want to steal their ideas."
+    },
+    {
+      "timestamp": [
+        145.14,
+        166.56
+      ],
+      "text": "Movement told me he's dying to have a look at it. I've got my hands full. Come on, quickly! Look what I've got! It's a record player!"
+    },
+    {
+      "timestamp": [
+        170.4,
+        172.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        177.6,
+        179.8
+      ],
+      "text": "Do you think you can get it working, dear?"
+    },
+    {
+      "timestamp": [
+        179.8,
+        181.8
+      ],
+      "text": "Oh, yes, of course, Mama."
+    },
+    {
+      "timestamp": [
+        181.8,
+        184.4
+      ],
+      "text": "Why did people always give me things that are broken?"
+    },
+    {
+      "timestamp": [
+        184.4,
+        186.92
+      ],
+      "text": "It'd be nice to have something that worked for a change."
+    },
+    {
+      "timestamp": [
+        190.2,
+        192.88
+      ],
+      "text": "Movement, Papa will get it working for you."
+    },
+    {
+      "timestamp": [
+        192.88,
+        195.48
+      ],
+      "text": "My auntie said that the record was all right, though."
+    },
+    {
+      "timestamp": [
+        195.48,
+        196.6
+      ],
+      "text": "It's dance music."
+    },
+    {
+      "timestamp": [
+        196.6,
+        199.08
+      ],
+      "text": "She's had it for ages, but I've never heard it."
+    },
+    {
+      "timestamp": [
+        199.08,
+        200.08
+      ],
+      "text": "Oh, that's nice."
+    },
+    {
+      "timestamp": [
+        200.08,
+        203.6
+      ],
+      "text": "It's years since I danced, but it seems like only yesterday."
+    },
+    {
+      "timestamp": [
+        203.6,
+        206.04
+      ],
+      "text": "Do you remember what funny was Papa?"
+    },
+    {
+      "timestamp": [
+        206.04,
+        208.2
+      ],
+      "text": "Dancing."
+    },
+    {
+      "timestamp": [
+        208.2,
+        209.36
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        209.36,
+        210.68
+      ],
+      "text": "I see."
+    },
+    {
+      "timestamp": [
+        210.68,
+        212.0
+      ],
+      "text": "Have you fixed it, Papa?"
+    },
+    {
+      "timestamp": [
+        221.44,
+        221.72
+      ],
+      "text": "Huh?"
+    },
+    {
+      "timestamp": [
+        221.72,
+        222.88
+      ],
+      "text": "I can hear music."
+    },
+    {
+      "timestamp": [
+        222.88,
+        247.0
+      ],
+      "text": "Doesn't sound like snuffkin! Right, have you got the idea now?"
+    },
+    {
+      "timestamp": [
+        247.0,
+        252.0
+      ],
+      "text": "Yes, I think so. Me too!"
+    },
+    {
+      "timestamp": [
+        252.0,
+        256.0
+      ],
+      "text": "Come on! Let's see you then."
+    },
+    {
+      "timestamp": [
+        256.0,
+        265.0
+      ],
+      "text": "May I? Come on! Well, let's see you then."
+    },
+    {
+      "timestamp": [
+        266.0,
+        268.0
+      ],
+      "text": "Meal?"
+    },
+    {
+      "timestamp": [
+        269.0,
+        271.0
+      ],
+      "text": "Did I eat it?"
+    },
+    {
+      "timestamp": [
+        272.0,
+        279.0
+      ],
+      "text": "Oh, wow!"
+    },
+    {
+      "timestamp": [
+        292.8,
+        294.8
+      ],
+      "text": "Look at Papa Moon and he is a great dancer. Well, man, can you dance, Sniff?"
+    },
+    {
+      "timestamp": [
+        294.8,
+        296.0
+      ],
+      "text": "I've never tried."
+    },
+    {
+      "timestamp": [
+        296.0,
+        306.0
+      ],
+      "text": "Right, well, try now. Oh, yeah. Oh, yeah. Oh, yeah."
+    },
+    {
+      "timestamp": [
+        306.0,
+        308.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        308.0,
+        310.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        310.0,
+        312.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        312.0,
+        314.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        314.0,
+        316.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        316.0,
+        318.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        318.0,
+        320.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        320.0,
+        322.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        322.0,
+        324.0
+      ],
+      "text": "Oh, yeah."
+    },
+    {
+      "timestamp": [
+        324.0,
+        325.0
+      ],
+      "text": "Oh, yeah. Oh, yeah. Oh!"
+    },
+    {
+      "timestamp": [
+        327.0,
+        330.0
+      ],
+      "text": "Baby, baby, baby."
+    },
+    {
+      "timestamp": [
+        332.0,
+        335.0
+      ],
+      "text": "Oh, that was fun. Oh, Dan, you still wear me out like this."
+    },
+    {
+      "timestamp": [
+        335.0,
+        337.0
+      ],
+      "text": "You've got no sense of rhythm at all, Sniff."
+    },
+    {
+      "timestamp": [
+        337.0,
+        340.0
+      ],
+      "text": "I can still dance, though, can I?"
+    },
+    {
+      "timestamp": [
+        341.0,
+        343.0
+      ],
+      "text": "Oh, are you ready, Papa?"
+    },
+    {
+      "timestamp": [
+        343.0,
+        346.0
+      ],
+      "text": "I think I'll have to sit this one out, Mom. All right."
+    },
+    {
+      "timestamp": [
+        350.0,
+        351.0
+      ],
+      "text": "Little Mide, no, thank you."
+    },
+    {
+      "timestamp": [
+        351.0,
+        352.0
+      ],
+      "text": "I'll dance on my own."
+    },
+    {
+      "timestamp": [
+        352.0,
+        355.0
+      ],
+      "text": "Well then, why don't you dance with me and dance, Smith?"
+    },
+    {
+      "timestamp": [
+        355.0,
+        356.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        363.0,
+        364.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "timestamp": [
+        364.0,
+        375.0
+      ],
+      "text": "Oh. Oh, it looks like it's here for the day."
+    },
+    {
+      "timestamp": [
+        375.0,
+        385.0
+      ],
+      "text": "Oh, what horrible weather, Snuffkin."
+    },
+    {
+      "timestamp": [
+        385.0,
+        387.0
+      ],
+      "text": "Yes."
+    },
+    {
+      "timestamp": [
+        387.0,
+        389.0
+      ],
+      "text": "They're having fun."
+    },
+    {
+      "timestamp": [
+        389.0,
+        392.0
+      ],
+      "text": "Well, sniff brought this old record player over,"
+    },
+    {
+      "timestamp": [
+        392.0,
+        393.0
+      ],
+      "text": "and we've been dancing."
+    },
+    {
+      "timestamp": [
+        393.0,
+        395.0
+      ],
+      "text": "I haven't done it for years and years,"
+    },
+    {
+      "timestamp": [
+        395.0,
+        397.0
+      ],
+      "text": "and well, aren't you coming in?"
+    },
+    {
+      "timestamp": [
+        397.0,
+        399.0
+      ],
+      "text": "I can smell winter in the air, Moomin' Papa."
+    },
+    {
+      "timestamp": [
+        399.0,
+        401.0
+      ],
+      "text": "Huh?"
+    },
+    {
+      "timestamp": [
+        401.0,
+        410.0
+      ],
+      "text": "Oh, yes, you're right."
+    },
+    {
+      "timestamp": [
+        412.0,
+        418.0
+      ],
+      "text": "Snuffkin, why?"
+    },
+    {
+      "timestamp": [
+        420.0,
+        428.0
+      ],
+      "text": "Snuffkin, come and answer me! No thanks, it's mine."
+    },
+    {
+      "timestamp": [
+        429.0,
+        431.0
+      ],
+      "text": "Sorry! I'm sorry!"
+    },
+    {
+      "timestamp": [
+        431.0,
+        433.0
+      ],
+      "text": "Oh, you!"
+    },
+    {
+      "timestamp": [
+        438.0,
+        441.0
+      ],
+      "text": "Hmm, what's the matter with this?"
+    },
+    {
+      "timestamp": [
+        446.0,
+        448.0
+      ],
+      "text": "I'm afraid it's broken. Just when we were having so much fun. Will you be able to fix it again, dear? No, even I can't mend it now."
+    },
+    {
+      "timestamp": [
+        448.0,
+        450.0
+      ],
+      "text": "Oh, please, dry papa, will you?"
+    },
+    {
+      "timestamp": [
+        450.0,
+        452.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "timestamp": [
+        452.0,
+        454.0
+      ],
+      "text": "Snuffkin, do you know anything about record players?"
+    },
+    {
+      "timestamp": [
+        454.0,
+        456.0
+      ],
+      "text": "No, I'm afraid not."
+    },
+    {
+      "timestamp": [
+        456.0,
+        458.0
+      ],
+      "text": "Oh, dear."
+    },
+    {
+      "timestamp": [
+        458.0,
+        459.0
+      ],
+      "text": "But what?"
+    },
+    {
+      "timestamp": [
+        459.0,
+        462.0
+      ],
+      "text": "I'll play my harmonic if you want to continue to dance."
+    },
+    {
+      "timestamp": [
+        462.0,
+        464.0
+      ],
+      "text": "And then you can fiddle around with the machine."
+    },
+    {
+      "timestamp": [
+        464.0,
+        467.0
+      ],
+      "text": "How would that be? I'll play my harmonic if you want to continue to dance,"
+    },
+    {
+      "timestamp": [
+        467.0,
+        469.0
+      ],
+      "text": "and then you can fiddle around with the machine."
+    },
+    {
+      "timestamp": [
+        469.0,
+        470.0
+      ],
+      "text": "How would that be?"
+    },
+    {
+      "timestamp": [
+        470.0,
+        471.0
+      ],
+      "text": "Oh, yes, please."
+    },
+    {
+      "timestamp": [
+        471.0,
+        473.0
+      ],
+      "text": "That'd be great, Snuffkin."
+    },
+    {
+      "timestamp": [
+        473.0,
+        474.0
+      ],
+      "text": "Thanks."
+    },
+    {
+      "timestamp": [
+        474.0,
+        476.5
+      ],
+      "text": "Now then, what would be a good tune to dance to?"
+    },
+    {
+      "timestamp": [
+        476.5,
+        507.0
+      ],
+      "text": "Let's see. Oh Now what's this? Oh, no, I give up."
+    },
+    {
+      "timestamp": [
+        507.0,
+        510.0
+      ],
+      "text": "May I?"
+    },
+    {
+      "timestamp": [
+        510.0,
+        513.0
+      ],
+      "text": "Oh, no."
+    },
+    {
+      "timestamp": [
+        513.0,
+        515.0
+      ],
+      "text": "I give up."
+    },
+    {
+      "timestamp": [
+        515.0,
+        518.0
+      ],
+      "text": "May I?"
+    },
+    {
+      "timestamp": [
+        518.0,
+        543.0
+      ],
+      "text": "Oh, no. You're thinking about going away again, aren't you, Snowfken?"
+    },
+    {
+      "timestamp": [
+        543.0,
+        546.78
+      ],
+      "text": "I know that you go south every year when winter comes,"
+    },
+    {
+      "timestamp": [
+        546.78,
+        548.3
+      ],
+      "text": "but I'll still miss you, though,"
+    },
+    {
+      "timestamp": [
+        548.3,
+        551.6
+      ],
+      "text": "and I wish you could stay here in Moomin Valley."
+    },
+    {
+      "timestamp": [
+        551.6,
+        552.38
+      ],
+      "text": "I know, Moomin."
+    },
+    {
+      "timestamp": [
+        561.02,
+        562.82
+      ],
+      "text": "Who are they?"
+    },
+    {
+      "timestamp": [
+        562.82,
+        564.26
+      ],
+      "text": "How do you fathomers, I think?"
+    },
+    {
+      "timestamp": [
+        564.26,
+        566.0
+      ],
+      "text": "I wonder where they're going."
+    },
+    {
+      "timestamp": [
+        566.0,
+        569.0
+      ],
+      "text": "I don't know. A deserted island I expect."
+    },
+    {
+      "timestamp": [
+        569.0,
+        572.0
+      ],
+      "text": "Probably the best place for them."
+    },
+    {
+      "timestamp": [
+        572.0,
+        576.0
+      ],
+      "text": "When are you leaving, self-kin?"
+    },
+    {
+      "timestamp": [
+        576.0,
+        578.0
+      ],
+      "text": "Oh, I haven't decided yet."
+    },
+    {
+      "timestamp": [
+        578.0,
+        581.0
+      ],
+      "text": "So you'll be here for a bit longer then."
+    },
+    {
+      "timestamp": [
+        581.0,
+        583.0
+      ],
+      "text": "Do you know where you're going?"
+    },
+    {
+      "timestamp": [
+        583.0,
+        585.0
+      ],
+      "text": "No. It must be fun traveling."
+    },
+    {
+      "timestamp": [
+        585.0,
+        587.0
+      ],
+      "text": "Yes, most of the time."
+    },
+    {
+      "timestamp": [
+        587.0,
+        592.0
+      ],
+      "text": "It's the best way of meeting new people and still being on your own."
+    },
+    {
+      "timestamp": [
+        592.0,
+        597.0
+      ],
+      "text": "I wish we could do that, but even when we hibernate and go to sleep, we're never really alone."
+    },
+    {
+      "timestamp": [
+        597.0,
+        600.0
+      ],
+      "text": "I guess I'd hibernate too if I had to stay up here a moment."
+    },
+    {
+      "timestamp": [
+        600.0,
+        603.0
+      ],
+      "text": "During all the freezing winter snows."
+    },
+    {
+      "timestamp": [
+        603.0,
+        609.72
+      ],
+      "text": "Do you think we could have a good time? Stay up here, movement. During all the freezing winter snows."
+    },
+    {
+      "timestamp": [
+        612.28,
+        617.52
+      ],
+      "text": "Do you think I could go south with Snuffkin, Papa?"
+    },
+    {
+      "timestamp": [
+        618.12,
+        621.44
+      ],
+      "text": "Not really. It's the moment way to hibernate."
+    },
+    {
+      "timestamp": [
+        621.44,
+        624.4
+      ],
+      "text": "It's a family custom passed down through the years"
+    },
+    {
+      "timestamp": [
+        624.4,
+        625.0
+      ],
+      "text": "by our ancestors."
+    },
+    {
+      "timestamp": [
+        625.0,
+        631.0
+      ],
+      "text": "But Papa, I don't want to go to sleep for months on end. I want to travel south with Snuffkin."
+    },
+    {
+      "timestamp": [
+        631.0,
+        633.0
+      ],
+      "text": "Oh, movement."
+    },
+    {
+      "timestamp": [
+        633.0,
+        636.0
+      ],
+      "text": "You promise you'll be back on the first day of spring."
+    },
+    {
+      "timestamp": [
+        636.0,
+        640.0
+      ],
+      "text": "Oh, Mama! Does that mean I can really go?"
+    },
+    {
+      "timestamp": [
+        640.0,
+        643.0
+      ],
+      "text": "I can't wait to tell Snuffkin. I can, can't I?"
+    },
+    {
+      "timestamp": [
+        643.0,
+        646.74
+      ],
+      "text": "Well, if you really want to, I don't suppose we'll stop you."
+    },
+    {
+      "timestamp": [
+        646.74,
+        648.74
+      ],
+      "text": "We'll be Papa."
+    },
+    {
+      "timestamp": [
+        648.74,
+        652.58
+      ],
+      "text": "Now my parents didn't mind when I traveled around in my youth,"
+    },
+    {
+      "timestamp": [
+        652.58,
+        654.58
+      ],
+      "text": "so yes, or I'd more than..."
+    },
+    {
+      "timestamp": [
+        654.58,
+        658.58
+      ],
+      "text": "Oh, thank you, Papa! Oh, thank you, Mama!"
+    },
+    {
+      "timestamp": [
+        658.58,
+        669.0
+      ],
+      "text": "That's great, but what was Snuffkin say?"
+    },
+    {
+      "timestamp": [
+        671.0,
+        674.0
+      ],
+      "text": "Well, it's a good idea. And I gotta say it'd be fun to have you a long woman."
+    },
+    {
+      "timestamp": [
+        674.0,
+        677.0
+      ],
+      "text": "So I can come with you, Snuffkin?"
+    },
+    {
+      "timestamp": [
+        677.0,
+        678.0
+      ],
+      "text": "No."
+    },
+    {
+      "timestamp": [
+        678.0,
+        679.0
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        679.0,
+        682.0
+      ],
+      "text": "I'm sorry, but I've got to go on my own."
+    },
+    {
+      "timestamp": [
+        682.0,
+        685.8
+      ],
+      "text": "Don't be disappointed, movement. I told you I travel alone."
+    },
+    {
+      "timestamp": [
+        685.8,
+        686.8
+      ],
+      "text": "I need to."
+    },
+    {
+      "timestamp": [
+        686.8,
+        688.3
+      ],
+      "text": "After spending the rest of the year here,"
+    },
+    {
+      "timestamp": [
+        688.3,
+        689.6
+      ],
+      "text": "just as I need to be here,"
+    },
+    {
+      "timestamp": [
+        689.6,
+        691.3
+      ],
+      "text": "after spending the winter alone,"
+    },
+    {
+      "timestamp": [
+        691.3,
+        693.3
+      ],
+      "text": "and the joy of returning to movement valley"
+    },
+    {
+      "timestamp": [
+        693.3,
+        694.8
+      ],
+      "text": "is something I wouldn't miss."
+    },
+    {
+      "timestamp": [
+        694.8,
+        697.0
+      ],
+      "text": "What's not, Ken? I thought..."
+    },
+    {
+      "timestamp": [
+        697.0,
+        698.5
+      ],
+      "text": "The time will soon pass,"
+    },
+    {
+      "timestamp": [
+        698.5,
+        700.8
+      ],
+      "text": "and you'll be asleep through most of it."
+    },
+    {
+      "timestamp": [
+        700.8,
+        702.5
+      ],
+      "text": "You won't notice I'm not here."
+    },
+    {
+      "timestamp": [
+        702.5,
+        706.64
+      ],
+      "text": "I'll see you next spring, movement. I'll be back on the first"
+    },
+    {
+      "timestamp": [
+        706.64,
+        726.0
+      ],
+      "text": "day as usual, I promise, as soon as the weather waromin. Oh, it's all right. Oh, come on, Moomin."
+    },
+    {
+      "timestamp": [
+        726.0,
+        729.0
+      ],
+      "text": "You'll have to tie them a bit tighter than that."
+    },
+    {
+      "timestamp": [
+        732.0,
+        736.0
+      ],
+      "text": "It'll be a cold winter, so we'll need lots of water."
+    },
+    {
+      "timestamp": [
+        736.0,
+        738.0
+      ],
+      "text": "I'll be right back."
+    },
+    {
+      "timestamp": [
+        738.0,
+        740.0
+      ],
+      "text": "I'll be right back."
+    },
+    {
+      "timestamp": [
+        740.0,
+        742.0
+      ],
+      "text": "I'll be right back."
+    },
+    {
+      "timestamp": [
+        742.0,
+        744.0
+      ],
+      "text": "I'll be right back."
+    },
+    {
+      "timestamp": [
+        744.0,
+        747.0
+      ],
+      "text": "I'll be right back. a bit tighter than that."
+    },
+    {
+      "timestamp": [
+        750.0,
+        752.0
+      ],
+      "text": "It'll be a cold winter, so we'll need lots of wood to keep us going till spring colors."
+    },
+    {
+      "timestamp": [
+        752.0,
+        753.0
+      ],
+      "text": "I know."
+    },
+    {
+      "timestamp": [
+        753.0,
+        755.0
+      ],
+      "text": "Now you want to stay warm, don't you?"
+    },
+    {
+      "timestamp": [
+        756.0,
+        759.0
+      ],
+      "text": "When I grow up, I'll go south on my own, too."
+    },
+    {
+      "timestamp": [
+        759.0,
+        779.0
+      ],
+      "text": "Yes, of course you will."
+    },
+    {
+      "timestamp": [
+        781.0,
+        783.0
+      ],
+      "text": "Is Mom in home? Yes."
+    },
+    {
+      "timestamp": [
+        783.0,
+        786.0
+      ],
+      "text": "How is he? Is he still down in the dumps?"
+    },
+    {
+      "timestamp": [
+        786.0,
+        789.0
+      ],
+      "text": "I'm afraid so. Grandmoss cheer you up, recipe didn't work."
+    },
+    {
+      "timestamp": [
+        789.0,
+        793.0
+      ],
+      "text": "Oh, I think he's being silly just because Snuffkin's going away."
+    },
+    {
+      "timestamp": [
+        793.0,
+        795.0
+      ],
+      "text": "I suppose he is."
+    },
+    {
+      "timestamp": [
+        795.0,
+        797.0
+      ],
+      "text": "But don't worry, mama."
+    },
+    {
+      "timestamp": [
+        797.0,
+        819.5
+      ],
+      "text": "He won't be miserable much longer because I've got a surprise for him. Ah. Hmm."
+    },
+    {
+      "timestamp": [
+        822.3,
+        824.1
+      ],
+      "text": "Are you there, Mom? A moment, don't cry."
+    },
+    {
+      "timestamp": [
+        824.1,
+        826.0
+      ],
+      "text": "Boys don't cry, I suppose. Of course they do. Well, I'm not crying, so they're..."
+    },
+    {
+      "timestamp": [
+        826.0,
+        827.0
+      ],
+      "text": "All right, but I do think you should get up now."
+    },
+    {
+      "timestamp": [
+        827.0,
+        828.0
+      ],
+      "text": "Oh, and why should I?"
+    },
+    {
+      "timestamp": [
+        828.0,
+        830.0
+      ],
+      "text": "I have a surprise for you!"
+    },
+    {
+      "timestamp": [
+        830.0,
+        831.0
+      ],
+      "text": "I don't want any surprises."
+    },
+    {
+      "timestamp": [
+        831.0,
+        834.0
+      ],
+      "text": "Come on, I'm going to go and see Snorkin' his workshop."
+    },
+    {
+      "timestamp": [
+        834.0,
+        836.0
+      ],
+      "text": "But you know he won't let us in."
+    },
+    {
+      "timestamp": [
+        836.0,
+        838.0
+      ],
+      "text": "I've tried before."
+    },
+    {
+      "timestamp": [
+        838.0,
+        840.0
+      ],
+      "text": "Oh yes, he will today."
+    },
+    {
+      "timestamp": [
+        840.0,
+        841.0
+      ],
+      "text": "I promise."
+    },
+    {
+      "timestamp": [
+        841.0,
+        842.0
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        842.0,
+        843.0
+      ],
+      "text": "You mean Snorko's show is over?"
+    },
+    {
+      "timestamp": [
+        843.0,
+        847.0
+      ],
+      "text": "I'm not going to let him in. I'm not going to let him in. I'm not going to let him in. I'm not going't let us in. I've tried before. Oh yes, he will today. I promise."
+    },
+    {
+      "timestamp": [
+        847.0,
+        851.0
+      ],
+      "text": "What? You mean Snorkel shows his flying ship at last?"
+    },
+    {
+      "timestamp": [
+        851.0,
+        854.0
+      ],
+      "text": "Yes, he said. Has he really finished it then?"
+    },
+    {
+      "timestamp": [
+        854.0,
+        858.0
+      ],
+      "text": "No, not yet. There's still a lot of work to do on it."
+    },
+    {
+      "timestamp": [
+        858.0,
+        861.0
+      ],
+      "text": "Then I wonder why he's letting us see it. He's always refused before."
+    },
+    {
+      "timestamp": [
+        861.0,
+        863.0
+      ],
+      "text": "What's made him change his mind?"
+    },
+    {
+      "timestamp": [
+        863.0,
+        865.8
+      ],
+      "text": "But I asked him this time."
+    },
+    {
+      "timestamp": [
+        865.8,
+        867.44
+      ],
+      "text": "I said I wanted to show it to you."
+    },
+    {
+      "timestamp": [
+        867.44,
+        869.16
+      ],
+      "text": "It just needed a woman's touch."
+    },
+    {
+      "timestamp": [
+        869.16,
+        871.12
+      ],
+      "text": "What did you say to him?"
+    },
+    {
+      "timestamp": [
+        871.12,
+        873.12
+      ],
+      "text": "First he said absolutely not."
+    },
+    {
+      "timestamp": [
+        873.12,
+        874.68
+      ],
+      "text": "But when I told him how ill you were"
+    },
+    {
+      "timestamp": [
+        874.68,
+        877.16
+      ],
+      "text": "and that you probably wouldn't be with us much longer,"
+    },
+    {
+      "timestamp": [
+        877.16,
+        879.6
+      ],
+      "text": "he gave in and said we could see it just you and me"
+    },
+    {
+      "timestamp": [
+        879.6,
+        880.36
+      ],
+      "text": "of climb up."
+    },
+    {
+      "timestamp": [
+        880.36,
+        882.08
+      ],
+      "text": "That little snork maiden."
+    },
+    {
+      "timestamp": [
+        882.08,
+        883.2
+      ],
+      "text": "Oh good."
+    },
+    {
+      "timestamp": [
+        883.2,
+        885.3
+      ],
+      "text": "Because sometimes, and people are very depressed"
+    },
+    {
+      "timestamp": [
+        885.3,
+        886.46
+      ],
+      "text": "and just lying bad."
+    },
+    {
+      "timestamp": [
+        886.46,
+        888.1
+      ],
+      "text": "They've done something bad."
+    },
+    {
+      "timestamp": [
+        888.1,
+        889.66
+      ],
+      "text": "Oh, stop it snorked, maiden."
+    },
+    {
+      "timestamp": [
+        889.66,
+        891.1
+      ],
+      "text": "Don't say things like that."
+    },
+    {
+      "timestamp": [
+        894.7,
+        896.58
+      ],
+      "text": "I'm only trying to cheer you up."
+    },
+    {
+      "timestamp": [
+        896.58,
+        898.86
+      ],
+      "text": "So remember, don't tell us all."
+    },
+    {
+      "timestamp": [
+        898.86,
+        900.82
+      ],
+      "text": "No one else must know anything about it."
+    },
+    {
+      "timestamp": [
+        900.82,
+        907.0
+      ],
+      "text": "Okay. Let's go."
+    },
+    {
+      "timestamp": [
+        907.0,
+        910.0
+      ],
+      "text": "No."
+    },
+    {
+      "timestamp": [
+        910.0,
+        912.0
+      ],
+      "text": "A little my."
+    },
+    {
+      "timestamp": [
+        912.0,
+        914.0
+      ],
+      "text": "Little my."
+    },
+    {
+      "timestamp": [
+        914.0,
+        926.0
+      ],
+      "text": "Trouble. No. Oh, little my. Little my."
+    },
+    {
+      "timestamp": [
+        926.0,
+        927.0
+      ],
+      "text": "Trouble."
+    },
+    {
+      "timestamp": [
+        927.0,
+        928.0
+      ],
+      "text": "Big Trouble."
+    },
+    {
+      "timestamp": [
+        928.0,
+        929.0
+      ],
+      "text": "We must fool her."
+    },
+    {
+      "timestamp": [
+        929.0,
+        930.0
+      ],
+      "text": "Yes, but how?"
+    },
+    {
+      "timestamp": [
+        930.0,
+        932.0
+      ],
+      "text": "What can we do?"
+    },
+    {
+      "timestamp": [
+        932.0,
+        934.0
+      ],
+      "text": "I know what we'll do."
+    },
+    {
+      "timestamp": [
+        934.0,
+        935.0
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        935.0,
+        936.0
+      ],
+      "text": "Quick, Moomin!"
+    },
+    {
+      "timestamp": [
+        936.0,
+        939.0
+      ],
+      "text": "You just agree with everything I say, Snork Maiden."
+    },
+    {
+      "timestamp": [
+        939.0,
+        940.0
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        940.0,
+        942.0
+      ],
+      "text": "I thought you were in bad Moomin."
+    },
+    {
+      "timestamp": [
+        942.0,
+        944.0
+      ],
+      "text": "No, we're going to see Snork."
+    },
+    {
+      "timestamp": [
+        944.0,
+        945.0
+      ],
+      "text": "Yes."
+    },
+    {
+      "timestamp": [
+        945.0,
+        946.0
+      ],
+      "text": "Really?"
+    },
+    {
+      "timestamp": [
+        946.0,
+        948.0
+      ],
+      "text": "Yes, he needs to clear a runway for when the fly ship is finished."
+    },
+    {
+      "timestamp": [
+        948.0,
+        950.0
+      ],
+      "text": "We're going to help him do it, that's all."
+    },
+    {
+      "timestamp": [
+        950.0,
+        951.0
+      ],
+      "text": "Yes."
+    },
+    {
+      "timestamp": [
+        951.0,
+        952.0
+      ],
+      "text": "Are you really, mumen?"
+    },
+    {
+      "timestamp": [
+        952.0,
+        954.0
+      ],
+      "text": "You got out of bad to do that."
+    },
+    {
+      "timestamp": [
+        954.0,
+        961.0
+      ],
+      "text": "I'm afraid I find it very strange that snork has asked to go along and help him cut down bushes and dig up roots and things."
+    },
+    {
+      "timestamp": [
+        961.0,
+        963.0
+      ],
+      "text": "You might have noticed I'm not a complete fool."
+    },
+    {
+      "timestamp": [
+        963.0,
+        965.88
+      ],
+      "text": "But it's true, little migh. Oh, yes things. You might have noticed I'm not a complete fool."
+    },
+    {
+      "timestamp": [
+        965.88,
+        967.32
+      ],
+      "text": "But it's true, little mime."
+    },
+    {
+      "timestamp": [
+        967.32,
+        968.32
+      ],
+      "text": "Oh, yes."
+    },
+    {
+      "timestamp": [
+        968.32,
+        970.68
+      ],
+      "text": "Well, at least you could have invented a better lie."
+    },
+    {
+      "timestamp": [
+        970.68,
+        975.12
+      ],
+      "text": "You must think I'm pretty stupid to believe a pathetic story like that."
+    },
+    {
+      "timestamp": [
+        975.12,
+        976.84
+      ],
+      "text": "But it's the truth."
+    },
+    {
+      "timestamp": [
+        976.84,
+        978.04
+      ],
+      "text": "And we need your help."
+    },
+    {
+      "timestamp": [
+        978.04,
+        979.04
+      ],
+      "text": "Yeah."
+    },
+    {
+      "timestamp": [
+        979.04,
+        980.04
+      ],
+      "text": "Don't bother, don't bother."
+    },
+    {
+      "timestamp": [
+        980.04,
+        981.56
+      ],
+      "text": "I don't want to hear anymore."
+    },
+    {
+      "timestamp": [
+        981.56,
+        984.16
+      ],
+      "text": "I think it's very sad that you have to pretend."
+    },
+    {
+      "timestamp": [
+        984.16,
+        985.4
+      ],
+      "text": "You're trying to hide something from me,"
+    },
+    {
+      "timestamp": [
+        985.4,
+        988.48
+      ],
+      "text": "and I'm not interested in what sort of sneaky underhanded thing it is."
+    },
+    {
+      "timestamp": [
+        988.48,
+        989.56
+      ],
+      "text": "But little mime?"
+    },
+    {
+      "timestamp": [
+        989.56,
+        990.32
+      ],
+      "text": "No, but..."
+    },
+    {
+      "timestamp": [
+        990.32,
+        994.6
+      ],
+      "text": "And anyway, I'm a little too busy at the moment to take any notice of what's going on."
+    },
+    {
+      "timestamp": [
+        994.6,
+        995.6
+      ],
+      "text": "Goodbye!"
+    },
+    {
+      "timestamp": [
+        998.6,
+        999.76
+      ],
+      "text": "Come on."
+    },
+    {
+      "timestamp": [
+        1000.6,
+        1001.84
+      ],
+      "text": "Oh, that was close."
+    },
+    {
+      "timestamp": [
+        1001.84,
+        1010.0
+      ],
+      "text": "Yeah! Phew, that was close. Yeah."
+    },
+    {
+      "timestamp": [
+        1013.0,
+        1022.0
+      ],
+      "text": "Ha! Think, thank you. Keep a secret from me, do they?"
+    },
+    {
+      "timestamp": [
+        1024.0,
+        1026.0
+      ],
+      "text": "Are you alone? Of course we are. I promised, didn't I?"
+    },
+    {
+      "timestamp": [
+        1026.0,
+        1028.0
+      ],
+      "text": "Come in then."
+    },
+    {
+      "timestamp": [
+        1035.0,
+        1037.0
+      ],
+      "text": "Wow!"
+    },
+    {
+      "timestamp": [
+        1044.0,
+        1047.0
+      ],
+      "text": "It's nearly ready, isn't it?"
+    },
+    {
+      "timestamp": [
+        1047.0,
+        1049.0
+      ],
+      "text": "Oh no, there's a lot more to do."
+    },
+    {
+      "timestamp": [
+        1049.0,
+        1051.0
+      ],
+      "text": "The machine isn't half finished yet."
+    },
+    {
+      "timestamp": [
+        1051.0,
+        1054.0
+      ],
+      "text": "And as you can see, there's a lot to do on the ship itself,"
+    },
+    {
+      "timestamp": [
+        1054.0,
+        1058.0
+      ],
+      "text": "but I'm getting there slowly."
+    },
+    {
+      "timestamp": [
+        1058.0,
+        1062.0
+      ],
+      "text": "I never thought it would be so fantastic, smork."
+    },
+    {
+      "timestamp": [
+        1062.0,
+        1065.0
+      ],
+      "text": "Well, I suppose you could say the design wasn't a complete failure."
+    },
+    {
+      "timestamp": [
+        1065.0,
+        1069.0
+      ],
+      "text": "I'm quite sure it'll fly beautifully."
+    },
+    {
+      "timestamp": [
+        1069.0,
+        1073.0
+      ],
+      "text": "Oh, thank you. Do you really think it will, woman?"
+    },
+    {
+      "timestamp": [
+        1073.0,
+        1077.0
+      ],
+      "text": "I can see it now. High open the air, dodging in and out of the clouds."
+    },
+    {
+      "timestamp": [
+        1077.0,
+        1079.0
+      ],
+      "text": "Way up above the world."
+    },
+    {
+      "timestamp": [
+        1079.0,
+        1083.0
+      ],
+      "text": "Well, I'm glad to see that you're so perceptive and quite right."
+    },
+    {
+      "timestamp": [
+        1083.0,
+        1086.0
+      ],
+      "text": "Oh, how very thoughtful of me."
+    },
+    {
+      "timestamp": [
+        1086.0,
+        1089.0
+      ],
+      "text": "Shouldn't you sit down and rest? You know your illness?"
+    },
+    {
+      "timestamp": [
+        1089.0,
+        1091.0
+      ],
+      "text": "It doesn't help to get too excited."
+    },
+    {
+      "timestamp": [
+        1091.0,
+        1095.0
+      ],
+      "text": "Ha, I shouldn't worry, Snork. There's nothing wrong with him."
+    },
+    {
+      "timestamp": [
+        1096.0,
+        1099.0
+      ],
+      "text": "Oh, little my, how did you get in here?"
+    },
+    {
+      "timestamp": [
+        1099.0,
+        1101.0
+      ],
+      "text": "Throw that door!"
+    },
+    {
+      "timestamp": [
+        1101.0,
+        1105.04
+      ],
+      "text": "But I always keep it oh oh oh no I"
+    },
+    {
+      "timestamp": [
+        1105.64,
+        1110.68
+      ],
+      "text": "Must have forgotten to lock it and it's a bit late to do it now, isn't it?"
+    },
+    {
+      "timestamp": [
+        1110.68,
+        1114.76
+      ],
+      "text": "But don't worry if I wanted to get in I'd get in locks or no locks"
+    },
+    {
+      "timestamp": [
+        1114.76,
+        1121.32
+      ],
+      "text": "Oh, you like to us little my of course, but so did you telling me that stupid story now or even right?"
+    },
+    {
+      "timestamp": [
+        1121.96,
+        1126.0
+      ],
+      "text": "Now listen little my don't ever tell anybody what you see over here."
+    },
+    {
+      "timestamp": [
+        1126.0,
+        1128.0
+      ],
+      "text": "All right!"
+    },
+    {
+      "timestamp": [
+        1128.0,
+        1130.0
+      ],
+      "text": "Ugh!"
+    },
+    {
+      "timestamp": [
+        1130.0,
+        1133.0
+      ],
+      "text": "This invention contains so many outstanding new features"
+    },
+    {
+      "timestamp": [
+        1133.0,
+        1137.0
+      ],
+      "text": "it is difficult to know where to begin."
+    },
+    {
+      "timestamp": [
+        1137.0,
+        1148.0
+      ],
+      "text": "But let me start with the most exciting part of the whole construction."
+    },
+    {
+      "timestamp": [
+        1152.0,
+        1186.0
+      ],
+      "text": "It could go as a tree or rather the concept of a tree, thrilling, beautiful, impossible, dangerous. Can you take the ship down, Moonman? I'd like you to land at that side of the lake. Oh, why do you want to get off?"
+    },
+    {
+      "timestamp": [
+        1186.0,
+        1189.0
+      ],
+      "text": "Aren't you having fun flying about up here?"
+    },
+    {
+      "timestamp": [
+        1189.0,
+        1191.0
+      ],
+      "text": "I want to be on my own."
+    },
+    {
+      "timestamp": [
+        1191.0,
+        1193.0
+      ],
+      "text": "Oh, please stay here."
+    },
+    {
+      "timestamp": [
+        1193.0,
+        1195.0
+      ],
+      "text": "I'll let you steer if you want."
+    },
+    {
+      "timestamp": [
+        1195.0,
+        1197.0
+      ],
+      "text": "No, really, Moonman, please."
+    },
+    {
+      "timestamp": [
+        1197.0,
+        1199.0
+      ],
+      "text": "Bye now."
+    },
+    {
+      "timestamp": [
+        1199.0,
+        1201.0
+      ],
+      "text": "No!"
+    },
+    {
+      "timestamp": [
+        1204.0,
+        1207.0
+      ],
+      "text": "Snowpeer! Bye now. No!"
+    },
+    {
+      "timestamp": [
+        1209.0,
+        1213.0
+      ],
+      "text": "Snuff me!"
+    },
+    {
+      "timestamp": [
+        1267.0,
+        1281.0
+      ],
+      "text": "Ugh! So long then, Moonman, my friend. I'll see you again next year. The first day of spring. Oh. Go by then, Snuffkin."
+    },
+    {
+      "timestamp": [
+        1283.0,
+        1285.0
+      ],
+      "text": "Off for the winter, eh, Snuffkin. Yes, goodbye Mr. Hemelin."
+    },
+    {
+      "timestamp": [
+        1285.0,
+        1288.0
+      ],
+      "text": "We'll be seeing you in the spring."
+    },
+    {
+      "timestamp": [
+        1288.0,
+        1291.0
+      ],
+      "text": "Yes, when the snow's are gone."
+    },
+    {
+      "timestamp": [
+        1297.0,
+        1318.0
+      ],
+      "text": "Oh, to be young and winter came to Moomin Valley."
+    },
+    {
+      "timestamp": [
+        1318.0,
+        1326.0
+      ],
+      "text": "And in Moomin's heart, snuffing and the spring seemed a long, long way away"
+    },
+    {
+      "timestamp": [
+        1329.0,
+        1332.0
+      ],
+      "text": "They love the laughter and they love the living The movements"
+    },
+    {
+      "timestamp": [
+        1333.0,
+        1339.0
+      ],
+      "text": "Believing in sharing and caring and giving the movements"
+    },
+    {
+      "timestamp": [
+        1340.0,
+        1344.0
+      ],
+      "text": "They're always happy and always at play"
+    },
+    {
+      "timestamp": [
+        1344.0,
+        1347.28
+      ],
+      "text": "The movements are having fun day after day"
+    },
+    {
+      "timestamp": [
+        1347.28,
+        1350.48
+      ],
+      "text": "The movements"
+    },
+    {
+      "timestamp": [
+        1350.48,
+        1354.64
+      ],
+      "text": "The movements"
+    },
+    {
+      "timestamp": [
+        1354.64,
+        1358.32
+      ],
+      "text": "They love the laughter and they love the living"
+    },
+    {
+      "timestamp": [
+        1358.32,
+        1361.84
+      ],
+      "text": "The movements"
+    },
+    {
+      "timestamp": [
+        1361.84,
+        1364.88
+      ],
+      "text": "They're leaving and sharing and caring"
+    },
+    {
+      "timestamp": [
+        1364.88,
+        1370.0
+      ],
+      "text": "And giving the movements."
+    },
+    {
+      "timestamp": [
+        1370.0,
+        1373.0
+      ],
+      "text": "They're always happy and goes at play."
+    },
+    {
+      "timestamp": [
+        1373.0,
+        1377.0
+      ],
+      "text": "The Moons are having fun day after day."
+    },
+    {
+      "timestamp": [
+        1377.0,
+        1387.0
+      ],
+      "text": "The Moons. The move is the move is"
+    }
+  ],
+  "text": "Here they are for one and all. The movements are about to come. Come on and sit down here with me. They're here for you on your TV. They are the movements. They are the movements. So, what do you think? I'm going to say that I'm not going to say that. I'm going to say that I'm not going to say that. with me, therefore you are your TV, they are the movements, they are the movements, so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, there was a movement, there was a movement, there la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la, The fall has come to Moon Valley, and the memory of sunshine filled ours fades as the days become shorter and the nights longer. The wind blows away the falling leaves, and the blue skies of summer are now gray and cloudy. Winter is just around the corner. Snork maiden! Where are you going? Oh, I'm just taking my brother, his lunch little my. Hmm. He must have nearly finished the flying ship by now. Oh no, not even Snork works that quickly. Well, have you seen it? No, I haven't. He won't even let me come into his workshop. Is he afraid it'll disappear if someone sees it? He hasn't said why, but I suppose all great inventors have to be very careful. Someone might want to steal their ideas. Moment told me he's dying to have to be very careful. Someone might want to steal their ideas. Movement told me he's dying to have a look at it. I've got my hands full. Come on, quickly! Look what I've got! It's a record player! Ah! Do you think you can get it working, dear? Oh, yes, of course, Mama. Why did people always give me things that are broken? It'd be nice to have something that worked for a change. Movement, Papa will get it working for you. My auntie said that the record was all right, though. It's dance music. She's had it for ages, but I've never heard it. Oh, that's nice. It's years since I danced, but it seems like only yesterday. Do you remember what funny was Papa? Dancing. Oh, yeah. I see. Have you fixed it, Papa? Huh? I can hear music. Doesn't sound like snuffkin! Right, have you got the idea now? Yes, I think so. Me too! Come on! Let's see you then. May I? Come on! Well, let's see you then. Meal? Did I eat it? Oh, wow! Look at Papa Moon and he is a great dancer. Well, man, can you dance, Sniff? I've never tried. Right, well, try now. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh! Baby, baby, baby. Oh, that was fun. Oh, Dan, you still wear me out like this. You've got no sense of rhythm at all, Sniff. I can still dance, though, can I? Oh, are you ready, Papa? I think I'll have to sit this one out, Mom. All right. Little Mide, no, thank you. I'll dance on my own. Well then, why don't you dance with me and dance, Smith? Ah! Hmm. Oh. Oh, it looks like it's here for the day. Oh, what horrible weather, Snuffkin. Yes. They're having fun. Well, sniff brought this old record player over, and we've been dancing. I haven't done it for years and years, and well, aren't you coming in? I can smell winter in the air, Moomin' Papa. Huh? Oh, yes, you're right. Snuffkin, why? Snuffkin, come and answer me! No thanks, it's mine. Sorry! I'm sorry! Oh, you! Hmm, what's the matter with this? I'm afraid it's broken. Just when we were having so much fun. Will you be able to fix it again, dear? No, even I can't mend it now. Oh, please, dry papa, will you? Hmm. Snuffkin, do you know anything about record players? No, I'm afraid not. Oh, dear. But what? I'll play my harmonic if you want to continue to dance. And then you can fiddle around with the machine. How would that be? I'll play my harmonic if you want to continue to dance, and then you can fiddle around with the machine. How would that be? Oh, yes, please. That'd be great, Snuffkin. Thanks. Now then, what would be a good tune to dance to? Let's see. Oh Now what's this? Oh, no, I give up. May I? Oh, no. I give up. May I? Oh, no. You're thinking about going away again, aren't you, Snowfken? I know that you go south every year when winter comes, but I'll still miss you, though, and I wish you could stay here in Moomin Valley. I know, Moomin. Who are they? How do you fathomers, I think? I wonder where they're going. I don't know. A deserted island I expect. Probably the best place for them. When are you leaving, self-kin? Oh, I haven't decided yet. So you'll be here for a bit longer then. Do you know where you're going? No. It must be fun traveling. Yes, most of the time. It's the best way of meeting new people and still being on your own. I wish we could do that, but even when we hibernate and go to sleep, we're never really alone. I guess I'd hibernate too if I had to stay up here a moment. During all the freezing winter snows. Do you think we could have a good time? Stay up here, movement. During all the freezing winter snows. Do you think I could go south with Snuffkin, Papa? Not really. It's the moment way to hibernate. It's a family custom passed down through the years by our ancestors. But Papa, I don't want to go to sleep for months on end. I want to travel south with Snuffkin. Oh, movement. You promise you'll be back on the first day of spring. Oh, Mama! Does that mean I can really go? I can't wait to tell Snuffkin. I can, can't I? Well, if you really want to, I don't suppose we'll stop you. We'll be Papa. Now my parents didn't mind when I traveled around in my youth, so yes, or I'd more than... Oh, thank you, Papa! Oh, thank you, Mama! That's great, but what was Snuffkin say? Well, it's a good idea. And I gotta say it'd be fun to have you a long woman. So I can come with you, Snuffkin? No. What? I'm sorry, but I've got to go on my own. Don't be disappointed, movement. I told you I travel alone. I need to. After spending the rest of the year here, just as I need to be here, after spending the winter alone, and the joy of returning to movement valley is something I wouldn't miss. What's not, Ken? I thought... The time will soon pass, and you'll be asleep through most of it. You won't notice I'm not here. I'll see you next spring, movement. I'll be back on the first day as usual, I promise, as soon as the weather waromin. Oh, it's all right. Oh, come on, Moomin. You'll have to tie them a bit tighter than that. It'll be a cold winter, so we'll need lots of water. I'll be right back. I'll be right back. I'll be right back. I'll be right back. I'll be right back. a bit tighter than that. It'll be a cold winter, so we'll need lots of wood to keep us going till spring colors. I know. Now you want to stay warm, don't you? When I grow up, I'll go south on my own, too. Yes, of course you will. Is Mom in home? Yes. How is he? Is he still down in the dumps? I'm afraid so. Grandmoss cheer you up, recipe didn't work. Oh, I think he's being silly just because Snuffkin's going away. I suppose he is. But don't worry, mama. He won't be miserable much longer because I've got a surprise for him. Ah. Hmm. Are you there, Mom? A moment, don't cry. Boys don't cry, I suppose. Of course they do. Well, I'm not crying, so they're... All right, but I do think you should get up now. Oh, and why should I? I have a surprise for you! I don't want any surprises. Come on, I'm going to go and see Snorkin' his workshop. But you know he won't let us in. I've tried before. Oh yes, he will today. I promise. What? You mean Snorko's show is over? I'm not going to let him in. I'm not going to let him in. I'm not going to let him in. I'm not going't let us in. I've tried before. Oh yes, he will today. I promise. What? You mean Snorkel shows his flying ship at last? Yes, he said. Has he really finished it then? No, not yet. There's still a lot of work to do on it. Then I wonder why he's letting us see it. He's always refused before. What's made him change his mind? But I asked him this time. I said I wanted to show it to you. It just needed a woman's touch. What did you say to him? First he said absolutely not. But when I told him how ill you were and that you probably wouldn't be with us much longer, he gave in and said we could see it just you and me of climb up. That little snork maiden. Oh good. Because sometimes, and people are very depressed and just lying bad. They've done something bad. Oh, stop it snorked, maiden. Don't say things like that. I'm only trying to cheer you up. So remember, don't tell us all. No one else must know anything about it. Okay. Let's go. No. A little my. Little my. Trouble. No. Oh, little my. Little my. Trouble. Big Trouble. We must fool her. Yes, but how? What can we do? I know what we'll do. What? Quick, Moomin! You just agree with everything I say, Snork Maiden. Oh. I thought you were in bad Moomin. No, we're going to see Snork. Yes. Really? Yes, he needs to clear a runway for when the fly ship is finished. We're going to help him do it, that's all. Yes. Are you really, mumen? You got out of bad to do that. I'm afraid I find it very strange that snork has asked to go along and help him cut down bushes and dig up roots and things. You might have noticed I'm not a complete fool. But it's true, little migh. Oh, yes things. You might have noticed I'm not a complete fool. But it's true, little mime. Oh, yes. Well, at least you could have invented a better lie. You must think I'm pretty stupid to believe a pathetic story like that. But it's the truth. And we need your help. Yeah. Don't bother, don't bother. I don't want to hear anymore. I think it's very sad that you have to pretend. You're trying to hide something from me, and I'm not interested in what sort of sneaky underhanded thing it is. But little mime? No, but... And anyway, I'm a little too busy at the moment to take any notice of what's going on. Goodbye! Come on. Oh, that was close. Yeah! Phew, that was close. Yeah. Ha! Think, thank you. Keep a secret from me, do they? Are you alone? Of course we are. I promised, didn't I? Come in then. Wow! It's nearly ready, isn't it? Oh no, there's a lot more to do. The machine isn't half finished yet. And as you can see, there's a lot to do on the ship itself, but I'm getting there slowly. I never thought it would be so fantastic, smork. Well, I suppose you could say the design wasn't a complete failure. I'm quite sure it'll fly beautifully. Oh, thank you. Do you really think it will, woman? I can see it now. High open the air, dodging in and out of the clouds. Way up above the world. Well, I'm glad to see that you're so perceptive and quite right. Oh, how very thoughtful of me. Shouldn't you sit down and rest? You know your illness? It doesn't help to get too excited. Ha, I shouldn't worry, Snork. There's nothing wrong with him. Oh, little my, how did you get in here? Throw that door! But I always keep it oh oh oh no I Must have forgotten to lock it and it's a bit late to do it now, isn't it? But don't worry if I wanted to get in I'd get in locks or no locks Oh, you like to us little my of course, but so did you telling me that stupid story now or even right? Now listen little my don't ever tell anybody what you see over here. All right! Ugh! This invention contains so many outstanding new features it is difficult to know where to begin. But let me start with the most exciting part of the whole construction. It could go as a tree or rather the concept of a tree, thrilling, beautiful, impossible, dangerous. Can you take the ship down, Moonman? I'd like you to land at that side of the lake. Oh, why do you want to get off? Aren't you having fun flying about up here? I want to be on my own. Oh, please stay here. I'll let you steer if you want. No, really, Moonman, please. Bye now. No! Snowpeer! Bye now. No! Snuff me! Ugh! So long then, Moonman, my friend. I'll see you again next year. The first day of spring. Oh. Go by then, Snuffkin. Off for the winter, eh, Snuffkin. Yes, goodbye Mr. Hemelin. We'll be seeing you in the spring. Yes, when the snow's are gone. Oh, to be young and winter came to Moomin Valley. And in Moomin's heart, snuffing and the spring seemed a long, long way away They love the laughter and they love the living The movements Believing in sharing and caring and giving the movements They're always happy and always at play The movements are having fun day after day The movements The movements They love the laughter and they love the living The movements They're leaving and sharing and caring And giving the movements. They're always happy and goes at play. The Moons are having fun day after day. The Moons. The move is the move is"
+}

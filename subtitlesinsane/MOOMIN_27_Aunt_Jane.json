@@ -1,0 +1,5767 @@
+{
+  "speakers": [
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        0.0,
+        28.0
+      ],
+      "text": "Here they are for one and all. The movements are about to come. Come on and sit down here with me, therefore you are your TV, they are the movements, they are the movements,"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        28.0,
+        47.0
+      ],
+      "text": "so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, there was a moment"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        47.0,
+        55.0
+      ],
+      "text": "There was a moment, there was a moment"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        55.0,
+        65.0
+      ],
+      "text": "There was a moment Oh, my God."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        67.0,
+        71.0
+      ],
+      "text": "Mom."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        73.0,
+        74.0
+      ],
+      "text": "Everything's so boring. Let's go something, then."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        74.0,
+        78.0
+      ],
+      "text": "Like what, your instance. I think we've done everything one could possibly do."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        80.0,
+        84.0
+      ],
+      "text": "None of you three can think of a single thing to do. You're useless, aren't you?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        84.0,
+        85.9
+      ],
+      "text": "Well, can you think of anything"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        85.9,
+        87.9
+      ],
+      "text": "except catching grasshoppers?"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        87.9,
+        90.7
+      ],
+      "text": "Hmm, there must be something we can do."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        90.7,
+        93.5
+      ],
+      "text": "Now, we've all had times like this, haven't we?"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        93.5,
+        98.5
+      ],
+      "text": "Fortunately, right then, the mailman arrived."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        98.5,
+        101.5
+      ],
+      "text": "Hello, a letter for you."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        101.5,
+        104.7
+      ],
+      "text": "Oh, a letter! That must be from my sister for me!"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        104.7,
+        107.0
+      ],
+      "text": "Oh, no, it's from Oomoppa this time."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        107.0,
+        110.0
+      ],
+      "text": "That's so. Who would write to him?"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        110.0,
+        112.0
+      ],
+      "text": "A woman? Someone called Jane?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        112.0,
+        115.0
+      ],
+      "text": "What? See that he gets it now."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        115.0,
+        117.0
+      ],
+      "text": "Who could this Jane possibly be?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        117.0,
+        120.0
+      ],
+      "text": "It's your father's old girlfriend, of course."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        120.0,
+        123.0
+      ],
+      "text": "Never. Oh, I'm sure he had dozens and dozens."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        123.0,
+        126.76
+      ],
+      "text": "Oomoppa was very kind and handsome young man."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        126.76,
+        128.4
+      ],
+      "text": "A voice from the past."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        129.52,
+        131.68
+      ],
+      "text": "Moomin' Papa, liquid, I've got for you."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        134.84,
+        136.04
+      ],
+      "text": "Moomin' Papa."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        136.04,
+        137.56
+      ],
+      "text": "Oh, no."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        137.56,
+        138.4
+      ],
+      "text": "I was right."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        138.4,
+        139.24
+      ],
+      "text": "Yes, you were."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        142.28,
+        144.76
+      ],
+      "text": "Moomin' Mama, I think you should go back to the kitchen."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        144.76,
+        147.0
+      ],
+      "text": "Whatever for a little bit. Because Moomin' Papa's stormy youth is catching up with him."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        147.0,
+        150.0
+      ],
+      "text": "Please, Papa, tell us it's not that kind of letter."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        150.0,
+        152.0
+      ],
+      "text": "Oh, what do you have?"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        152.0,
+        155.0
+      ],
+      "text": "Oh, what a hurry."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        155.0,
+        159.0
+      ],
+      "text": "Whatever it was, it was a long time ago, long before I ever met you."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        159.0,
+        163.0
+      ],
+      "text": "No, it's not that kind of letter."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        163.0,
+        171.6
+      ],
+      "text": "What sort of letter is it then? Oh, much worse it's from Aunt Jane. Who's that?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        171.6,
+        178.88
+      ],
+      "text": "Mine, my dear, is on my father's side. Oh, how boring. You look very pale suddenly, dear."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        179.52,
+        185.4
+      ],
+      "text": "Yes, because she's coming for a visit tomorrow. Oh, don't worry. There's plenty of time"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        185.4,
+        187.6
+      ],
+      "text": "for arranging a welcome party."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        187.6,
+        191.6
+      ],
+      "text": "But I don't like her, and I don't want it to come for a visit."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        191.6,
+        193.2
+      ],
+      "text": "Lumen, Papa, why not?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        193.2,
+        196.0
+      ],
+      "text": "Well, you'll soon see. She's very rich."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        196.0,
+        197.6
+      ],
+      "text": "Very rich?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        197.6,
+        199.4
+      ],
+      "text": "Yes, and she bosses everyone."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        199.4,
+        201.4
+      ],
+      "text": "We won't have a moment of peace."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        201.4,
+        203.2
+      ],
+      "text": "Oh, maybe she's so rich."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        203.2,
+        205.68
+      ],
+      "text": "She'll give us all wonderful presents."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        205.68,
+        210.64
+      ],
+      "text": "Goodness, this is so unexpected. Why is she coming here all of a sudden?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        210.64,
+        216.88
+      ],
+      "text": "Oh, she says she wants to discuss money matters. Good heavens with me. She says there's no one else."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        216.88,
+        221.2
+      ],
+      "text": "So you see, I'm in a very difficult situation. Oh, why can't you tell if you're not an expert."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        222.24,
+        225.0
+      ],
+      "text": "You don't tell Aunt Jane things."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        225.0,
+        227.0
+      ],
+      "text": "She tells you when that's that."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        227.0,
+        228.0
+      ],
+      "text": "Is that what explained?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        228.0,
+        230.0
+      ],
+      "text": "When you meet her, you'll know exactly what I mean."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        230.0,
+        233.0
+      ],
+      "text": "What do I know about money matters?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        233.0,
+        234.0
+      ],
+      "text": "Nothing."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        234.0,
+        236.0
+      ],
+      "text": "Not surprising since we've never had any."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        236.0,
+        240.0
+      ],
+      "text": "How can she expect a poor creature like you to know anything about money?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        240.0,
+        243.0
+      ],
+      "text": "Also, she's very, very suspicious."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        243.0,
+        245.0
+      ],
+      "text": "And she says money is a terrible burden."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        245.0,
+        248.0
+      ],
+      "text": "Oh, I wouldn't mind children her burden."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        248.0,
+        250.0
+      ],
+      "text": "Maybe you'll inherit it,"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        250.0,
+        251.0
+      ],
+      "text": "and then we could share the money"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        251.0,
+        253.0
+      ],
+      "text": "and have a wonderful time together."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        253.0,
+        254.0
+      ],
+      "text": "Eh?"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        263.0,
+        287.0
+      ],
+      "text": "Help! This time I almost did it. We love it brother, we love it!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        292.0,
+        297.0
+      ],
+      "text": "So moving Papa has a rich aunt. Very interesting. Yes, she's got so much money she doesn't know what to do with it all."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        297.0,
+        298.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        298.0,
+        302.0
+      ],
+      "text": "So snorke, why don't you ask her to invest in your flying ship?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        302.0,
+        306.56
+      ],
+      "text": "You'll need money to rebuild, won't you? It would be a great investment for her."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        306.56,
+        309.84
+      ],
+      "text": "It certainly would be. I'm sure she jump at it."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        309.84,
+        339.8
+      ],
+      "text": "Hmm. There'd be no harm in asking, I guess. What's the matter, Mr. Hemiellen? You look so unhappy."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        339.8,
+        341.88
+      ],
+      "text": "I'm stuck, that's my problem."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        341.88,
+        343.64
+      ],
+      "text": "How's that?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        343.64,
+        345.48
+      ],
+      "text": "Stuck in my research."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        345.48,
+        348.56
+      ],
+      "text": "This magnifying glass is very good, of course."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        348.56,
+        350.24
+      ],
+      "text": "But I just can't get any further"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        350.24,
+        354.48
+      ],
+      "text": "with my botanical research with this old-fashioned equipment."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        354.48,
+        359.12
+      ],
+      "text": "What I really need is a microscope and a laboratory."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        359.12,
+        360.64
+      ],
+      "text": "And they're expensive, I guess."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        360.64,
+        363.68
+      ],
+      "text": "Yes, they are, and I don't have any money."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        363.68,
+        366.0
+      ],
+      "text": "Well, moment Papa's aunt is coming over tomorrow,"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        366.0,
+        369.0
+      ],
+      "text": "and I know she's got any amount of money."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        369.0,
+        371.0
+      ],
+      "text": "Any amount, now?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        371.0,
+        373.0
+      ],
+      "text": "I'll get her to finance you, Hamilton,"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        373.0,
+        375.0
+      ],
+      "text": "and we'll get a big greenhouse,"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        375.0,
+        377.0
+      ],
+      "text": "and you'll grow orchids and roses and other things,"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        377.0,
+        380.0
+      ],
+      "text": "and then we'll sell them, oh, oh, I'll get rich."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        380.0,
+        407.0
+      ],
+      "text": "You too! Rich, are you two? Hey, you over there. Hmm? Are you talking to me? Of course I am. Who else?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        409.0,
+        413.0
+      ],
+      "text": "I said you know the way to move in a house young man."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        413.0,
+        415.0
+      ],
+      "text": "Yes, she might say I do."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        415.0,
+        417.0
+      ],
+      "text": "Show me where it is then."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        417.0,
+        419.0
+      ],
+      "text": "Over there, it's tall and blue."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        419.0,
+        422.0
+      ],
+      "text": "Just follow that stream and you can't miss it."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        422.0,
+        427.96
+      ],
+      "text": "Good. Would you be kind enough to take my suit? I'm not sure. I do. Show me where it is, then. Over there, it's tall and blue. Just follow that stream, and you can't miss it."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        427.96,
+        428.46
+      ],
+      "text": "Good."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        428.46,
+        431.08
+      ],
+      "text": "Would you be kind enough to take my suitcase?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        431.08,
+        432.16
+      ],
+      "text": "I'm sorry, I can't."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        432.16,
+        433.4
+      ],
+      "text": "I'm too busy."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        433.4,
+        435.4
+      ],
+      "text": "I'll reward you handsomely for your efforts."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        435.4,
+        437.16
+      ],
+      "text": "Think again, young man."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        437.16,
+        439.2
+      ],
+      "text": "But all I want to do is fish."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        439.2,
+        439.92
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        439.92,
+        441.44
+      ],
+      "text": "You don't want money?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        441.44,
+        445.0
+      ],
+      "text": "I heard you were coming to visit more than probably. You're in Jane, aren't you? You don't want money?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        449.0,
+        450.0
+      ],
+      "text": "I heard you were coming to visit Moment Papa here in Jane, aren't you? Ooh, ow."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        450.0,
+        453.0
+      ],
+      "text": "Please, to meet you, I'm here to take you to Moment House."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        453.0,
+        455.0
+      ],
+      "text": "Is this your suitcase?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        458.0,
+        459.0
+      ],
+      "text": "Wow!"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        459.0,
+        461.0
+      ],
+      "text": "This suitcase is very heavy!"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        461.0,
+        465.0
+      ],
+      "text": "Should be. It's full of golden coins. Huh?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        465.0,
+        467.0
+      ],
+      "text": "I'll take care of this."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        467.0,
+        468.0
+      ],
+      "text": "Let's go, eh?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        468.0,
+        469.0
+      ],
+      "text": "Kate!"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        469.0,
+        472.0
+      ],
+      "text": "I can't stay in this house."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        472.0,
+        475.0
+      ],
+      "text": "I don't think I can take Aunt Jane."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        475.0,
+        480.0
+      ],
+      "text": "I'm going to hide out in the cave until she's gone."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        480.0,
+        483.0
+      ],
+      "text": "I'm going to hide out in the cave."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        483.0,
+        486.6
+      ],
+      "text": "I'm going to hide out in the cave. I'm going to hide out in the cave. I'm going to hide out take Aunt Jane. I'm going to hide out in the cave until she's gone."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        492.14,
+        494.24
+      ],
+      "text": "Bye, bye, Linda here."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        494.24,
+        496.32
+      ],
+      "text": "Careful, now Aunt Jane."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        496.32,
+        498.84
+      ],
+      "text": "The banks have been slippery here and there."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        498.84,
+        525.0
+      ],
+      "text": "Uh, uh, what? Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! She's very small for a daughter. Oh, little Mai isn't ours. She just lives here."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        525.0,
+        527.0
+      ],
+      "text": "And I won't get any bigger, either."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        527.0,
+        529.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        529.0,
+        531.0
+      ],
+      "text": "She's like a member of the family."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        531.0,
+        534.0
+      ],
+      "text": "And where's my worthless nephew? Why isn't he here?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        534.0,
+        539.0
+      ],
+      "text": "Oh, well, he's not at home."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        539.0,
+        542.0
+      ],
+      "text": "Well, no. When will he be back?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        542.0,
+        543.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        543.0,
+        545.14
+      ],
+      "text": "He's away looking for inspiration for his work. So he won't home? Well, no. When will he be back?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        545.14,
+        546.1
+      ],
+      "text": "I don't know."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        546.1,
+        548.62
+      ],
+      "text": "He's away looking for inspiration for his work,"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        548.62,
+        550.26
+      ],
+      "text": "so he won't be back for a while."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        550.26,
+        551.9
+      ],
+      "text": "Since when has he worked?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        551.9,
+        553.38
+      ],
+      "text": "I'm here to see him."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        553.38,
+        555.42
+      ],
+      "text": "Maybe you can see me instead."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        555.42,
+        557.02
+      ],
+      "text": "What a splendid idea."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        557.02,
+        558.86
+      ],
+      "text": "How clever of you, Mument."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        558.86,
+        559.74
+      ],
+      "text": "Ridiculous."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        559.74,
+        561.18
+      ],
+      "text": "He knows nothing about money."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        561.18,
+        564.02
+      ],
+      "text": "In that case, it is high time he learned."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        564.02,
+        565.92
+      ],
+      "text": "As for his father, I may still"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        565.92,
+        573.2
+      ],
+      "text": "disinherit him. I'm a member of his family too. I could talk to you about money matters. Really?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        573.2,
+        586.0
+      ],
+      "text": "Oh, sniff is a great friend of mine. But hardly a member of the family. Hello, Moon. And you must be on Jane."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        586.0,
+        589.0
+      ],
+      "text": "I brought my brother to snorke with me."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        589.0,
+        591.0
+      ],
+      "text": "He wanted to meet you."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        591.0,
+        595.0
+      ],
+      "text": "This is a Jane Be nice to her."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        595.0,
+        598.0
+      ],
+      "text": "Welcome to Moon in Valley and Jane."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        598.0,
+        600.0
+      ],
+      "text": "This is my lovely sister, Snorke Maiden,"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        600.0,
+        602.0
+      ],
+      "text": "who is Moon in special friend."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        602.0,
+        605.5
+      ],
+      "text": "The Snorkes and the Moon movements may one day be related,"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        605.5,
+        608.5
+      ],
+      "text": "so in a way we're all really family."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        608.5,
+        611.5
+      ],
+      "text": "You, baby, but not to me."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        611.5,
+        614.0
+      ],
+      "text": "I'm an inventor, and due to an accident,"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        614.0,
+        616.5
+      ],
+      "text": "I'm looking around for a sponsor."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        616.5,
+        620.0
+      ],
+      "text": "A golden opportunity for anyone with some loose capital."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        620.0,
+        623.5
+      ],
+      "text": "Welcome to Woman Valley and Chain."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        623.5,
+        626.4
+      ],
+      "text": "I'm Hemmielin, a botanist of note."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        626.4,
+        630.4
+      ],
+      "text": "I heard that you might be willing to fund my scientific research and Chain."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        630.4,
+        634.0
+      ],
+      "text": "A bold and opportunity for anyone with some spare money."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        634.0,
+        634.5
+      ],
+      "text": "Eh?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        634.5,
+        636.5
+      ],
+      "text": "You'd like me to fund your research?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        636.5,
+        638.5
+      ],
+      "text": "It was my idea."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        638.5,
+        643.5
+      ],
+      "text": "If we built a greenhouse and grow rare orchids and roses, we can make a lot of money."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        643.5,
+        645.08
+      ],
+      "text": "You'll make a lot of money. Young man, can make a lot of money. And you'll make a lot of money."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        645.08,
+        647.68
+      ],
+      "text": "Young man, I have a lot of money already."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        647.68,
+        650.32
+      ],
+      "text": "Oh, hasn't Sniff discussed this with you, ma'am?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        650.32,
+        651.32
+      ],
+      "text": "Sniff."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        651.32,
+        653.68
+      ],
+      "text": "Well, I was just getting around to it, Hamulun."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        653.68,
+        654.72
+      ],
+      "text": "Confusing."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        654.72,
+        658.52
+      ],
+      "text": "When I am famous for my botanical research, Angie, I..."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        658.52,
+        659.32
+      ],
+      "text": "I doubt it."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        659.32,
+        660.32
+      ],
+      "text": "That will ever happen."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        660.32,
+        662.36
+      ],
+      "text": "This is very confusing indeed for me."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        662.36,
+        665.0
+      ],
+      "text": "Now, you're Snorkmaid and a friend of Movin' is that right?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        665.0,
+        668.0
+      ],
+      "text": "Oh, no, I'm the snorkemaid's brother."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        668.0,
+        670.0
+      ],
+      "text": "I'm a friend of Movin' Ad-Jane."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        670.0,
+        673.0
+      ],
+      "text": "Did you really explain about my important research, Sniff?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        673.0,
+        676.0
+      ],
+      "text": "Did you really explain that I'm a member of the family?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        676.0,
+        677.0
+      ],
+      "text": "Hey, she got it!"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        677.0,
+        696.0
+      ],
+      "text": "So, and, Jane, it would be great if you were a member to make your way to Movin' Ad-Jane! We need your help! We need your help!"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        698.0,
+        699.0
+      ],
+      "text": "Here's your rule, Vaget."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        712.0,
+        713.0
+      ],
+      "text": "I do hope you'll be comfortable here. Just call if you need anything. Come out."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        718.0,
+        721.0
+      ],
+      "text": "Here's your suitcase. It was very heavy."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        721.0,
+        722.0
+      ],
+      "text": "Thank you."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        725.0,
+        726.0
+      ],
+      "text": "Him. What is it? You want a reward? Very heavy. Thank you. And him."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        727.0,
+        728.0
+      ],
+      "text": "What is it?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        728.0,
+        729.0
+      ],
+      "text": "You want a reward?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        729.0,
+        731.0
+      ],
+      "text": "No, no, Aunt Jane."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        732.0,
+        734.0
+      ],
+      "text": "I mean, yes, I do, but..."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        737.0,
+        739.0
+      ],
+      "text": "Which is it? Will you make up your mind, young man?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        740.0,
+        742.0
+      ],
+      "text": "I know where a moment Papa is right now."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        743.0,
+        744.0
+      ],
+      "text": "He's a whale on a trip, I know."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        746.92,
+        748.56
+      ],
+      "text": "No, no. He's somewhere quite near. Quite near, here."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        748.56,
+        750.16
+      ],
+      "text": "Well, where is he?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        750.16,
+        752.88
+      ],
+      "text": "Moment Papa said not to tell you where he's hiding."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        752.88,
+        753.92
+      ],
+      "text": "It's a secret."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        753.92,
+        754.92
+      ],
+      "text": "A secret?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        754.92,
+        755.88
+      ],
+      "text": "Yes."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        755.88,
+        758.8
+      ],
+      "text": "I suppose I can tell you, but he'll be very angry."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        758.8,
+        759.64
+      ],
+      "text": "Where is he?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        759.64,
+        760.68
+      ],
+      "text": "Tell me now."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        760.68,
+        767.0
+      ],
+      "text": "Oh, well, if I tell you I'm taking a big risk. Hmm. Oh, very well. How much do you want?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        767.0,
+        786.0
+      ],
+      "text": "I'll leave that to you. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        786.0,
+        788.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        788.0,
+        790.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        790.0,
+        792.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        792.0,
+        794.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        794.0,
+        796.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        796.0,
+        798.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        798.0,
+        800.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        800.0,
+        802.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        802.0,
+        804.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        804.0,
+        806.0
+      ],
+      "text": "I'm not sure if I can get it. I'm not sure if I can get it. Oh, is that all? Until I've seen him for myself with my own eyes, yes!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        812.0,
+        813.0
+      ],
+      "text": "Huh?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        813.0,
+        814.0
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        814.0,
+        817.0
+      ],
+      "text": "Oh, there's nobody here."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        817.0,
+        819.0
+      ],
+      "text": "Where is my worthless nephew?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        819.0,
+        821.0
+      ],
+      "text": "This is very strange."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        822.0,
+        824.0
+      ],
+      "text": "You tricked me, haven't you?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        824.0,
+        827.0
+      ],
+      "text": "Well, no, I swear I would never do that."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        827.0,
+        831.0
+      ],
+      "text": "You certainly deserve no reward."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        831.0,
+        833.0
+      ],
+      "text": "But no, wait!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        833.0,
+        835.0
+      ],
+      "text": "If we just look around, we'll find him."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        835.0,
+        837.0
+      ],
+      "text": "He's in here somewhere I know it!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        837.0,
+        846.0
+      ],
+      "text": "Hey, moment Papa, what is it? Tell me where my nephew is hiding."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        846.0,
+        849.0
+      ],
+      "text": "Well, as I said before, I want to know the truth."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        849.0,
+        850.0
+      ],
+      "text": "Dear, he's..."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        850.0,
+        851.0
+      ],
+      "text": "Now let me see..."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        851.0,
+        852.0
+      ],
+      "text": "Come on, hurry up."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        852.0,
+        857.0
+      ],
+      "text": "He's hiding in the cave down by the beach."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        857.0,
+        861.0
+      ],
+      "text": "I've just been there, Mom and Mama, and I can't find him."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        861.0,
+        864.0
+      ],
+      "text": "Then he really must have gone away on a trip."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        864.0,
+        866.4
+      ],
+      "text": "I'm not going to I can't find him."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        866.4,
+        869.8
+      ],
+      "text": "Then he really must have gone away on a trip."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        869.8,
+        872.4
+      ],
+      "text": "And why should he want to hide from me anyway?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        872.4,
+        875.6
+      ],
+      "text": "I think he might be a little bit afraid of you."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        875.6,
+        877.0
+      ],
+      "text": "Afraid of me?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        877.0,
+        878.8
+      ],
+      "text": "Afraid of his own aunt?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        878.8,
+        880.6
+      ],
+      "text": "But why?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        880.6,
+        882.6
+      ],
+      "text": "Mostly he's afraid of money matters."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        882.6,
+        883.8
+      ],
+      "text": "Incredible."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        883.8,
+        887.44
+      ],
+      "text": "Afraid of me because of money matters?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        887.44,
+        890.48
+      ],
+      "text": "He must be utterly mad."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        890.48,
+        892.48
+      ],
+      "text": "What a family."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        892.48,
+        894.64
+      ],
+      "text": "I don't understand."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        894.64,
+        897.36
+      ],
+      "text": "It seems that only Smith knows anything about money."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        900.4,
+        902.76
+      ],
+      "text": "I know where Moomin' Poppy is right now."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        902.76,
+        905.8
+      ],
+      "text": "So you want some of my gold, who do you young lady?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        905.8,
+        908.6
+      ],
+      "text": "I couldn't care less about your silly gold."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        908.6,
+        910.6
+      ],
+      "text": "My silly gold indeed."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        910.6,
+        914.2
+      ],
+      "text": "With silly gold, I assure you you can do just anything you want."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        914.2,
+        919.6
+      ],
+      "text": "Seems to me, your silly gold doesn't even help you to find Moomin' Poppy."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        919.6,
+        920.6
+      ],
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        920.6,
+        922.8
+      ],
+      "text": "I think you should forget about your money."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        922.8,
+        926.8
+      ],
+      "text": "Young lady, money isn't something you can just forget about."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        926.8,
+        928.84
+      ],
+      "text": "It needs constant looking after."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        928.84,
+        931.44
+      ],
+      "text": "That's why I must talk to Moom and Papa at once."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        931.44,
+        933.88
+      ],
+      "text": "Now take me to that rascal nephew of mine."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        933.88,
+        945.0
+      ],
+      "text": "If you really know where he is. Do you have me? Of course. Oh, wow, frivolous. Not really."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        945.0,
+        949.0
+      ],
+      "text": "If I could find a small enough boyfriend, I'd be frivolous just like them too."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        949.0,
+        952.0
+      ],
+      "text": "Oh, well, Frederick and I were frivolous once."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        952.0,
+        953.0
+      ],
+      "text": "Really?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        953.0,
+        956.0
+      ],
+      "text": "If you say so, I suppose I have to believe you."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        956.0,
+        958.0
+      ],
+      "text": "Ooh, ooh, ooh."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        958.0,
+        959.0
+      ],
+      "text": "Huh?"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        959.0,
+        965.0
+      ],
+      "text": "Huh? Really? If you say so, I suppose I have to believe you."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        965.0,
+        967.0
+      ],
+      "text": "Ooh, ooh, ooh."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        967.0,
+        969.0
+      ],
+      "text": "Huh?"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        969.0,
+        970.0
+      ],
+      "text": "Look!"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        970.0,
+        971.0
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        971.0,
+        974.0
+      ],
+      "text": "Little May and Anne Jane walking together."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        974.0,
+        978.0
+      ],
+      "text": "What are they doing?"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        978.0,
+        980.0
+      ],
+      "text": "Little May is plotting something."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        980.0,
+        981.0
+      ],
+      "text": "Really?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        981.0,
+        988.9
+      ],
+      "text": "No, man!"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        990.9,
+        995.4
+      ],
+      "text": "Sniff's all right, really. But sometimes he just can't withstand the lure of gold."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        995.4,
+        997.4
+      ],
+      "text": "Check me!"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        997.4,
+        999.4
+      ],
+      "text": "No!"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        999.4,
+        1000.9
+      ],
+      "text": "Wait, it can't be right!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1000.9,
+        1002.2
+      ],
+      "text": "Let's go back then."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1002.2,
+        1003.2
+      ],
+      "text": "Hmm, hmm."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1003.2,
+        1005.46
+      ],
+      "text": "Fine, just take your time. Hi, guys! Little mind! You can't be right. Let's go back then. Mm-hmm. Fine."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1005.46,
+        1007.8
+      ],
+      "text": "Just take your time."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        1007.8,
+        1009.1
+      ],
+      "text": "Hi, guys."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1009.1,
+        1010.04
+      ],
+      "text": "Little Mai."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1010.04,
+        1011.08
+      ],
+      "text": "What's the matter?"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        1011.08,
+        1012.28
+      ],
+      "text": "We have a guest."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1012.28,
+        1013.04
+      ],
+      "text": "A guest."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1016.24,
+        1018.08
+      ],
+      "text": "Movement, papa."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1018.08,
+        1019.4
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1019.4,
+        1020.04
+      ],
+      "text": "Movement, papa."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1027.0,
+        1030.0
+      ],
+      "text": "So this is where you've been hiding. Oh, you just wait."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1030.0,
+        1032.0
+      ],
+      "text": "Oh, you shoot."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1032.0,
+        1035.0
+      ],
+      "text": "I'm a single man."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1035.0,
+        1037.0
+      ],
+      "text": "Wait a minute."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1037.0,
+        1040.0
+      ],
+      "text": "No, you wait first."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1040.0,
+        1044.0
+      ],
+      "text": "Wait, please."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1044.0,
+        1045.0
+      ],
+      "text": "Moomin Papa was sort of on his way back from a trip and then stopped by to play chess with me. Oh! Wait, please."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1045.0,
+        1047.0
+      ],
+      "text": "Mumin' Papa was sort of on his way back from a trip"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1047.0,
+        1049.0
+      ],
+      "text": "and then stopped by to play chess with me."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1049.0,
+        1051.0
+      ],
+      "text": "Yes, exactly."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        1051.0,
+        1052.0
+      ],
+      "text": "No, yes."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1052.0,
+        1054.0
+      ],
+      "text": "Mumin' Mama told her the truth."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1054.0,
+        1057.0
+      ],
+      "text": "Oh, I sort of stopped by."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1057.0,
+        1059.0
+      ],
+      "text": "Why are you so afraid of me, young man?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1059.0,
+        1061.0
+      ],
+      "text": "Well, I'm not really."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1061.0,
+        1063.0
+      ],
+      "text": "I mean, it's not you."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1063.0,
+        1065.74
+      ],
+      "text": "It's your money. I'm afraid of it. Really scared. Scared of my money? Well, I'm not, not really. I mean, it's not you. It's your money. I'm afraid of it really scares me."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1065.74,
+        1067.24
+      ],
+      "text": "Scared of my money?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1067.58,
+        1068.58
+      ],
+      "text": "Well, I'm..."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1070.42,
+        1073.22
+      ],
+      "text": "It's perfectly good money at all in gold coins."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1073.42,
+        1076.78
+      ],
+      "text": "Listen, nephew, I'm depending on you as my only relative."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1076.78,
+        1079.12
+      ],
+      "text": "Yes, yes, please depend."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1079.12,
+        1084.06
+      ],
+      "text": "When I get too old to do it, you must look after my gold for me. I'm relying on you."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1084.06,
+        1088.0
+      ],
+      "text": "No, that's not possible. I know, Anne Jane. We can give it all away."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1088.0,
+        1092.0
+      ],
+      "text": "Must be those who'd love to have it. Must be those who need it more than we do."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1092.0,
+        1096.0
+      ],
+      "text": "Oh, a green pearl!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1100.0,
+        1104.0
+      ],
+      "text": "Grrrr!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1104.0,
+        1105.0
+      ],
+      "text": "She's crazy. Don't worry, we'll think of something."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1105.0,
+        1109.0
+      ],
+      "text": "Oh, you would throw my money away without a cut."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1109.0,
+        1111.0
+      ],
+      "text": "Why didn't mean to hurt you, Aunt Jane?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1111.0,
+        1113.0
+      ],
+      "text": "I know, let's put it all in the bank."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1113.0,
+        1115.0
+      ],
+      "text": "Money likes being in a bank."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1115.0,
+        1120.0
+      ],
+      "text": "My money would hate being in a back of a terrible idea."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1120.0,
+        1122.0
+      ],
+      "text": "Oh no."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1122.0,
+        1124.0
+      ],
+      "text": "I'm not going to be a good man."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1124.0,
+        1131.44
+      ],
+      "text": "I'm not going to of a terrible idea. Oh, no banks are so nice nowadays"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1134.4,
+        1140.12
+      ],
+      "text": "They are of course they have flowers and shiny piggy banks and pretty paintings on the wall"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1141.36,
+        1143.36
+      ],
+      "text": "Is that really true?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1144.0,
+        1146.0
+      ],
+      "text": "Right come on everybody."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1146.0,
+        1149.0
+      ],
+      "text": "Let's hurry home and fix a welcoming party for At Jane."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1149.0,
+        1151.0
+      ],
+      "text": "A party!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1151.0,
+        1153.0
+      ],
+      "text": "Yes, any reason is good enough."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        1167.0,
+        1173.0
+      ],
+      "text": "This was Grandma's best cake recipe. Welcome at Jane. Let's drink a toast to the only millionaire in our small circle."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        1173.0,
+        1178.0
+      ],
+      "text": "Nayshy live a long and healthy life. Cheers! Cheers!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1178.0,
+        1179.0
+      ],
+      "text": "Cheers!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1179.0,
+        1187.0
+      ],
+      "text": "Cheers!"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        1190.0,
+        1191.0
+      ],
+      "text": "Now, this is your welcoming party at Jane. What's the matter?"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        1191.0,
+        1195.0
+      ],
+      "text": "Never in my life of I and my money felt ourselves as welcome before."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1195.0,
+        1198.0
+      ],
+      "text": "I'm so happy I could cry."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1198.0,
+        1202.0
+      ],
+      "text": "Oh, and once you start crying, you just want to go on."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1202.0,
+        1203.0
+      ],
+      "text": "Not again."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        1203.0,
+        1205.0
+      ],
+      "text": "Please don't be unhappy, Jane."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        1205.0,
+        1206.0
+      ],
+      "text": "Don't cry."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1206.0,
+        1209.0
+      ],
+      "text": "Dear, oh dear, moment papa."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1209.0,
+        1212.0
+      ],
+      "text": "Moment papa."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1212.0,
+        1214.0
+      ],
+      "text": "Yes, Aunt Jane, what is it?"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1214.0,
+        1216.0
+      ],
+      "text": "I'll put some of my gold in a bag,"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1216.0,
+        1219.0
+      ],
+      "text": "but you must look after the rest when I'm too old."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1219.0,
+        1221.0
+      ],
+      "text": "Oh, hmm."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1221.0,
+        1222.0
+      ],
+      "text": "And why not?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1222.0,
+        1224.0
+      ],
+      "text": "All right."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1224.0,
+        1226.12
+      ],
+      "text": "We'll keep it in the cellar and make a nice little niche"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1226.12,
+        1228.28
+      ],
+      "text": "for it with seashells and moss."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1228.28,
+        1230.76
+      ],
+      "text": "And I'll have someone go down and look at it every week."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1230.76,
+        1232.0
+      ],
+      "text": "Don't you worry, Anjane."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1232.0,
+        1233.84
+      ],
+      "text": "Your money will be in safe hands."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1233.84,
+        1235.92
+      ],
+      "text": "Not quite, but I had in mind."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1235.92,
+        1237.12
+      ],
+      "text": "I know."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1237.12,
+        1240.08
+      ],
+      "text": "But I suppose it can't be helped."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1240.08,
+        1244.32
+      ],
+      "text": "It sounds rather nice, a cozy little niche down in the cellar."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1244.32,
+        1248.96
+      ],
+      "text": "And if you take a look every week, but oh dear, it will miss me."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1249.8,
+        1251.28
+      ],
+      "text": "Oh, and shame."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1251.28,
+        1254.0
+      ],
+      "text": "Very well. I have made up my mind."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1254.0,
+        1256.88
+      ],
+      "text": "I'm leaving this sickest with you now."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1256.88,
+        1259.76
+      ],
+      "text": "So you and my goal can get certain used to each other."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1259.76,
+        1261.12
+      ],
+      "text": "Do what you want with it."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1261.12,
+        1264.0
+      ],
+      "text": "Your friends seem to have ideas about how to spend it,"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1264.0,
+        1266.04
+      ],
+      "text": "flying ships and botanical research"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1266.04,
+        1267.36
+      ],
+      "text": "sound rather splendid."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1267.36,
+        1268.36
+      ],
+      "text": "Oh, boy!"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1268.36,
+        1269.36
+      ],
+      "text": "Wonderful!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        1269.36,
+        1273.36
+      ],
+      "text": "I'm so happy for you."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1273.36,
+        1282.48
+      ],
+      "text": "Darn, I should have let us up better than flowers."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1282.48,
+        1285.0
+      ],
+      "text": "So ended the visit of the dreaded Aunt Jane."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1285.0,
+        1290.0
+      ],
+      "text": "And I'm sure Sniff will be able to think of some other use for the call."
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        1290.0,
+        1299.0
+      ],
+      "text": "They love the laughter and they love the living, the movements."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1299.0,
+        1307.0
+      ],
+      "text": "We're leaving and sharing and caring and giving the movements"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        1307.0,
+        1311.0
+      ],
+      "text": "They're always happy and always at play"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        1311.0,
+        1318.0
+      ],
+      "text": "The moments are having fun day after day, the movements"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1318.0,
+        1328.0
+      ],
+      "text": "The movements, the movements The most"
+    }
+  ],
+  "chunks": [
+    {
+      "timestamp": [
+        0.0,
+        28.0
+      ],
+      "text": "Here they are for one and all. The movements are about to come. Come on and sit down here with me, therefore you are your TV, they are the movements, they are the movements,"
+    },
+    {
+      "timestamp": [
+        28.0,
+        47.0
+      ],
+      "text": "so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, there was a moment"
+    },
+    {
+      "timestamp": [
+        47.0,
+        55.0
+      ],
+      "text": "There was a moment, there was a moment"
+    },
+    {
+      "timestamp": [
+        55.0,
+        65.0
+      ],
+      "text": "There was a moment Oh, my God."
+    },
+    {
+      "timestamp": [
+        67.0,
+        71.0
+      ],
+      "text": "Mom."
+    },
+    {
+      "timestamp": [
+        73.0,
+        74.0
+      ],
+      "text": "Everything's so boring. Let's go something, then."
+    },
+    {
+      "timestamp": [
+        74.0,
+        78.0
+      ],
+      "text": "Like what, your instance. I think we've done everything one could possibly do."
+    },
+    {
+      "timestamp": [
+        80.0,
+        84.0
+      ],
+      "text": "None of you three can think of a single thing to do. You're useless, aren't you?"
+    },
+    {
+      "timestamp": [
+        84.0,
+        85.9
+      ],
+      "text": "Well, can you think of anything"
+    },
+    {
+      "timestamp": [
+        85.9,
+        87.9
+      ],
+      "text": "except catching grasshoppers?"
+    },
+    {
+      "timestamp": [
+        87.9,
+        90.7
+      ],
+      "text": "Hmm, there must be something we can do."
+    },
+    {
+      "timestamp": [
+        90.7,
+        93.5
+      ],
+      "text": "Now, we've all had times like this, haven't we?"
+    },
+    {
+      "timestamp": [
+        93.5,
+        98.5
+      ],
+      "text": "Fortunately, right then, the mailman arrived."
+    },
+    {
+      "timestamp": [
+        98.5,
+        101.5
+      ],
+      "text": "Hello, a letter for you."
+    },
+    {
+      "timestamp": [
+        101.5,
+        104.7
+      ],
+      "text": "Oh, a letter! That must be from my sister for me!"
+    },
+    {
+      "timestamp": [
+        104.7,
+        107.0
+      ],
+      "text": "Oh, no, it's from Oomoppa this time."
+    },
+    {
+      "timestamp": [
+        107.0,
+        110.0
+      ],
+      "text": "That's so. Who would write to him?"
+    },
+    {
+      "timestamp": [
+        110.0,
+        112.0
+      ],
+      "text": "A woman? Someone called Jane?"
+    },
+    {
+      "timestamp": [
+        112.0,
+        115.0
+      ],
+      "text": "What? See that he gets it now."
+    },
+    {
+      "timestamp": [
+        115.0,
+        117.0
+      ],
+      "text": "Who could this Jane possibly be?"
+    },
+    {
+      "timestamp": [
+        117.0,
+        120.0
+      ],
+      "text": "It's your father's old girlfriend, of course."
+    },
+    {
+      "timestamp": [
+        120.0,
+        123.0
+      ],
+      "text": "Never. Oh, I'm sure he had dozens and dozens."
+    },
+    {
+      "timestamp": [
+        123.0,
+        126.76
+      ],
+      "text": "Oomoppa was very kind and handsome young man."
+    },
+    {
+      "timestamp": [
+        126.76,
+        128.4
+      ],
+      "text": "A voice from the past."
+    },
+    {
+      "timestamp": [
+        129.52,
+        131.68
+      ],
+      "text": "Moomin' Papa, liquid, I've got for you."
+    },
+    {
+      "timestamp": [
+        134.84,
+        136.04
+      ],
+      "text": "Moomin' Papa."
+    },
+    {
+      "timestamp": [
+        136.04,
+        137.56
+      ],
+      "text": "Oh, no."
+    },
+    {
+      "timestamp": [
+        137.56,
+        138.4
+      ],
+      "text": "I was right."
+    },
+    {
+      "timestamp": [
+        138.4,
+        139.24
+      ],
+      "text": "Yes, you were."
+    },
+    {
+      "timestamp": [
+        142.28,
+        144.76
+      ],
+      "text": "Moomin' Mama, I think you should go back to the kitchen."
+    },
+    {
+      "timestamp": [
+        144.76,
+        147.0
+      ],
+      "text": "Whatever for a little bit. Because Moomin' Papa's stormy youth is catching up with him."
+    },
+    {
+      "timestamp": [
+        147.0,
+        150.0
+      ],
+      "text": "Please, Papa, tell us it's not that kind of letter."
+    },
+    {
+      "timestamp": [
+        150.0,
+        152.0
+      ],
+      "text": "Oh, what do you have?"
+    },
+    {
+      "timestamp": [
+        152.0,
+        155.0
+      ],
+      "text": "Oh, what a hurry."
+    },
+    {
+      "timestamp": [
+        155.0,
+        159.0
+      ],
+      "text": "Whatever it was, it was a long time ago, long before I ever met you."
+    },
+    {
+      "timestamp": [
+        159.0,
+        163.0
+      ],
+      "text": "No, it's not that kind of letter."
+    },
+    {
+      "timestamp": [
+        163.0,
+        171.6
+      ],
+      "text": "What sort of letter is it then? Oh, much worse it's from Aunt Jane. Who's that?"
+    },
+    {
+      "timestamp": [
+        171.6,
+        178.88
+      ],
+      "text": "Mine, my dear, is on my father's side. Oh, how boring. You look very pale suddenly, dear."
+    },
+    {
+      "timestamp": [
+        179.52,
+        185.4
+      ],
+      "text": "Yes, because she's coming for a visit tomorrow. Oh, don't worry. There's plenty of time"
+    },
+    {
+      "timestamp": [
+        185.4,
+        187.6
+      ],
+      "text": "for arranging a welcome party."
+    },
+    {
+      "timestamp": [
+        187.6,
+        191.6
+      ],
+      "text": "But I don't like her, and I don't want it to come for a visit."
+    },
+    {
+      "timestamp": [
+        191.6,
+        193.2
+      ],
+      "text": "Lumen, Papa, why not?"
+    },
+    {
+      "timestamp": [
+        193.2,
+        196.0
+      ],
+      "text": "Well, you'll soon see. She's very rich."
+    },
+    {
+      "timestamp": [
+        196.0,
+        197.6
+      ],
+      "text": "Very rich?"
+    },
+    {
+      "timestamp": [
+        197.6,
+        199.4
+      ],
+      "text": "Yes, and she bosses everyone."
+    },
+    {
+      "timestamp": [
+        199.4,
+        201.4
+      ],
+      "text": "We won't have a moment of peace."
+    },
+    {
+      "timestamp": [
+        201.4,
+        203.2
+      ],
+      "text": "Oh, maybe she's so rich."
+    },
+    {
+      "timestamp": [
+        203.2,
+        205.68
+      ],
+      "text": "She'll give us all wonderful presents."
+    },
+    {
+      "timestamp": [
+        205.68,
+        210.64
+      ],
+      "text": "Goodness, this is so unexpected. Why is she coming here all of a sudden?"
+    },
+    {
+      "timestamp": [
+        210.64,
+        216.88
+      ],
+      "text": "Oh, she says she wants to discuss money matters. Good heavens with me. She says there's no one else."
+    },
+    {
+      "timestamp": [
+        216.88,
+        221.2
+      ],
+      "text": "So you see, I'm in a very difficult situation. Oh, why can't you tell if you're not an expert."
+    },
+    {
+      "timestamp": [
+        222.24,
+        225.0
+      ],
+      "text": "You don't tell Aunt Jane things."
+    },
+    {
+      "timestamp": [
+        225.0,
+        227.0
+      ],
+      "text": "She tells you when that's that."
+    },
+    {
+      "timestamp": [
+        227.0,
+        228.0
+      ],
+      "text": "Is that what explained?"
+    },
+    {
+      "timestamp": [
+        228.0,
+        230.0
+      ],
+      "text": "When you meet her, you'll know exactly what I mean."
+    },
+    {
+      "timestamp": [
+        230.0,
+        233.0
+      ],
+      "text": "What do I know about money matters?"
+    },
+    {
+      "timestamp": [
+        233.0,
+        234.0
+      ],
+      "text": "Nothing."
+    },
+    {
+      "timestamp": [
+        234.0,
+        236.0
+      ],
+      "text": "Not surprising since we've never had any."
+    },
+    {
+      "timestamp": [
+        236.0,
+        240.0
+      ],
+      "text": "How can she expect a poor creature like you to know anything about money?"
+    },
+    {
+      "timestamp": [
+        240.0,
+        243.0
+      ],
+      "text": "Also, she's very, very suspicious."
+    },
+    {
+      "timestamp": [
+        243.0,
+        245.0
+      ],
+      "text": "And she says money is a terrible burden."
+    },
+    {
+      "timestamp": [
+        245.0,
+        248.0
+      ],
+      "text": "Oh, I wouldn't mind children her burden."
+    },
+    {
+      "timestamp": [
+        248.0,
+        250.0
+      ],
+      "text": "Maybe you'll inherit it,"
+    },
+    {
+      "timestamp": [
+        250.0,
+        251.0
+      ],
+      "text": "and then we could share the money"
+    },
+    {
+      "timestamp": [
+        251.0,
+        253.0
+      ],
+      "text": "and have a wonderful time together."
+    },
+    {
+      "timestamp": [
+        253.0,
+        254.0
+      ],
+      "text": "Eh?"
+    },
+    {
+      "timestamp": [
+        263.0,
+        287.0
+      ],
+      "text": "Help! This time I almost did it. We love it brother, we love it!"
+    },
+    {
+      "timestamp": [
+        292.0,
+        297.0
+      ],
+      "text": "So moving Papa has a rich aunt. Very interesting. Yes, she's got so much money she doesn't know what to do with it all."
+    },
+    {
+      "timestamp": [
+        297.0,
+        298.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        298.0,
+        302.0
+      ],
+      "text": "So snorke, why don't you ask her to invest in your flying ship?"
+    },
+    {
+      "timestamp": [
+        302.0,
+        306.56
+      ],
+      "text": "You'll need money to rebuild, won't you? It would be a great investment for her."
+    },
+    {
+      "timestamp": [
+        306.56,
+        309.84
+      ],
+      "text": "It certainly would be. I'm sure she jump at it."
+    },
+    {
+      "timestamp": [
+        309.84,
+        339.8
+      ],
+      "text": "Hmm. There'd be no harm in asking, I guess. What's the matter, Mr. Hemiellen? You look so unhappy."
+    },
+    {
+      "timestamp": [
+        339.8,
+        341.88
+      ],
+      "text": "I'm stuck, that's my problem."
+    },
+    {
+      "timestamp": [
+        341.88,
+        343.64
+      ],
+      "text": "How's that?"
+    },
+    {
+      "timestamp": [
+        343.64,
+        345.48
+      ],
+      "text": "Stuck in my research."
+    },
+    {
+      "timestamp": [
+        345.48,
+        348.56
+      ],
+      "text": "This magnifying glass is very good, of course."
+    },
+    {
+      "timestamp": [
+        348.56,
+        350.24
+      ],
+      "text": "But I just can't get any further"
+    },
+    {
+      "timestamp": [
+        350.24,
+        354.48
+      ],
+      "text": "with my botanical research with this old-fashioned equipment."
+    },
+    {
+      "timestamp": [
+        354.48,
+        359.12
+      ],
+      "text": "What I really need is a microscope and a laboratory."
+    },
+    {
+      "timestamp": [
+        359.12,
+        360.64
+      ],
+      "text": "And they're expensive, I guess."
+    },
+    {
+      "timestamp": [
+        360.64,
+        363.68
+      ],
+      "text": "Yes, they are, and I don't have any money."
+    },
+    {
+      "timestamp": [
+        363.68,
+        366.0
+      ],
+      "text": "Well, moment Papa's aunt is coming over tomorrow,"
+    },
+    {
+      "timestamp": [
+        366.0,
+        369.0
+      ],
+      "text": "and I know she's got any amount of money."
+    },
+    {
+      "timestamp": [
+        369.0,
+        371.0
+      ],
+      "text": "Any amount, now?"
+    },
+    {
+      "timestamp": [
+        371.0,
+        373.0
+      ],
+      "text": "I'll get her to finance you, Hamilton,"
+    },
+    {
+      "timestamp": [
+        373.0,
+        375.0
+      ],
+      "text": "and we'll get a big greenhouse,"
+    },
+    {
+      "timestamp": [
+        375.0,
+        377.0
+      ],
+      "text": "and you'll grow orchids and roses and other things,"
+    },
+    {
+      "timestamp": [
+        377.0,
+        380.0
+      ],
+      "text": "and then we'll sell them, oh, oh, I'll get rich."
+    },
+    {
+      "timestamp": [
+        380.0,
+        407.0
+      ],
+      "text": "You too! Rich, are you two? Hey, you over there. Hmm? Are you talking to me? Of course I am. Who else?"
+    },
+    {
+      "timestamp": [
+        409.0,
+        413.0
+      ],
+      "text": "I said you know the way to move in a house young man."
+    },
+    {
+      "timestamp": [
+        413.0,
+        415.0
+      ],
+      "text": "Yes, she might say I do."
+    },
+    {
+      "timestamp": [
+        415.0,
+        417.0
+      ],
+      "text": "Show me where it is then."
+    },
+    {
+      "timestamp": [
+        417.0,
+        419.0
+      ],
+      "text": "Over there, it's tall and blue."
+    },
+    {
+      "timestamp": [
+        419.0,
+        422.0
+      ],
+      "text": "Just follow that stream and you can't miss it."
+    },
+    {
+      "timestamp": [
+        422.0,
+        427.96
+      ],
+      "text": "Good. Would you be kind enough to take my suit? I'm not sure. I do. Show me where it is, then. Over there, it's tall and blue. Just follow that stream, and you can't miss it."
+    },
+    {
+      "timestamp": [
+        427.96,
+        428.46
+      ],
+      "text": "Good."
+    },
+    {
+      "timestamp": [
+        428.46,
+        431.08
+      ],
+      "text": "Would you be kind enough to take my suitcase?"
+    },
+    {
+      "timestamp": [
+        431.08,
+        432.16
+      ],
+      "text": "I'm sorry, I can't."
+    },
+    {
+      "timestamp": [
+        432.16,
+        433.4
+      ],
+      "text": "I'm too busy."
+    },
+    {
+      "timestamp": [
+        433.4,
+        435.4
+      ],
+      "text": "I'll reward you handsomely for your efforts."
+    },
+    {
+      "timestamp": [
+        435.4,
+        437.16
+      ],
+      "text": "Think again, young man."
+    },
+    {
+      "timestamp": [
+        437.16,
+        439.2
+      ],
+      "text": "But all I want to do is fish."
+    },
+    {
+      "timestamp": [
+        439.2,
+        439.92
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        439.92,
+        441.44
+      ],
+      "text": "You don't want money?"
+    },
+    {
+      "timestamp": [
+        441.44,
+        445.0
+      ],
+      "text": "I heard you were coming to visit more than probably. You're in Jane, aren't you? You don't want money?"
+    },
+    {
+      "timestamp": [
+        449.0,
+        450.0
+      ],
+      "text": "I heard you were coming to visit Moment Papa here in Jane, aren't you? Ooh, ow."
+    },
+    {
+      "timestamp": [
+        450.0,
+        453.0
+      ],
+      "text": "Please, to meet you, I'm here to take you to Moment House."
+    },
+    {
+      "timestamp": [
+        453.0,
+        455.0
+      ],
+      "text": "Is this your suitcase?"
+    },
+    {
+      "timestamp": [
+        458.0,
+        459.0
+      ],
+      "text": "Wow!"
+    },
+    {
+      "timestamp": [
+        459.0,
+        461.0
+      ],
+      "text": "This suitcase is very heavy!"
+    },
+    {
+      "timestamp": [
+        461.0,
+        465.0
+      ],
+      "text": "Should be. It's full of golden coins. Huh?"
+    },
+    {
+      "timestamp": [
+        465.0,
+        467.0
+      ],
+      "text": "I'll take care of this."
+    },
+    {
+      "timestamp": [
+        467.0,
+        468.0
+      ],
+      "text": "Let's go, eh?"
+    },
+    {
+      "timestamp": [
+        468.0,
+        469.0
+      ],
+      "text": "Kate!"
+    },
+    {
+      "timestamp": [
+        469.0,
+        472.0
+      ],
+      "text": "I can't stay in this house."
+    },
+    {
+      "timestamp": [
+        472.0,
+        475.0
+      ],
+      "text": "I don't think I can take Aunt Jane."
+    },
+    {
+      "timestamp": [
+        475.0,
+        480.0
+      ],
+      "text": "I'm going to hide out in the cave until she's gone."
+    },
+    {
+      "timestamp": [
+        480.0,
+        483.0
+      ],
+      "text": "I'm going to hide out in the cave."
+    },
+    {
+      "timestamp": [
+        483.0,
+        486.6
+      ],
+      "text": "I'm going to hide out in the cave. I'm going to hide out in the cave. I'm going to hide out take Aunt Jane. I'm going to hide out in the cave until she's gone."
+    },
+    {
+      "timestamp": [
+        492.14,
+        494.24
+      ],
+      "text": "Bye, bye, Linda here."
+    },
+    {
+      "timestamp": [
+        494.24,
+        496.32
+      ],
+      "text": "Careful, now Aunt Jane."
+    },
+    {
+      "timestamp": [
+        496.32,
+        498.84
+      ],
+      "text": "The banks have been slippery here and there."
+    },
+    {
+      "timestamp": [
+        498.84,
+        525.0
+      ],
+      "text": "Uh, uh, what? Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! She's very small for a daughter. Oh, little Mai isn't ours. She just lives here."
+    },
+    {
+      "timestamp": [
+        525.0,
+        527.0
+      ],
+      "text": "And I won't get any bigger, either."
+    },
+    {
+      "timestamp": [
+        527.0,
+        529.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "timestamp": [
+        529.0,
+        531.0
+      ],
+      "text": "She's like a member of the family."
+    },
+    {
+      "timestamp": [
+        531.0,
+        534.0
+      ],
+      "text": "And where's my worthless nephew? Why isn't he here?"
+    },
+    {
+      "timestamp": [
+        534.0,
+        539.0
+      ],
+      "text": "Oh, well, he's not at home."
+    },
+    {
+      "timestamp": [
+        539.0,
+        542.0
+      ],
+      "text": "Well, no. When will he be back?"
+    },
+    {
+      "timestamp": [
+        542.0,
+        543.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "timestamp": [
+        543.0,
+        545.14
+      ],
+      "text": "He's away looking for inspiration for his work. So he won't home? Well, no. When will he be back?"
+    },
+    {
+      "timestamp": [
+        545.14,
+        546.1
+      ],
+      "text": "I don't know."
+    },
+    {
+      "timestamp": [
+        546.1,
+        548.62
+      ],
+      "text": "He's away looking for inspiration for his work,"
+    },
+    {
+      "timestamp": [
+        548.62,
+        550.26
+      ],
+      "text": "so he won't be back for a while."
+    },
+    {
+      "timestamp": [
+        550.26,
+        551.9
+      ],
+      "text": "Since when has he worked?"
+    },
+    {
+      "timestamp": [
+        551.9,
+        553.38
+      ],
+      "text": "I'm here to see him."
+    },
+    {
+      "timestamp": [
+        553.38,
+        555.42
+      ],
+      "text": "Maybe you can see me instead."
+    },
+    {
+      "timestamp": [
+        555.42,
+        557.02
+      ],
+      "text": "What a splendid idea."
+    },
+    {
+      "timestamp": [
+        557.02,
+        558.86
+      ],
+      "text": "How clever of you, Mument."
+    },
+    {
+      "timestamp": [
+        558.86,
+        559.74
+      ],
+      "text": "Ridiculous."
+    },
+    {
+      "timestamp": [
+        559.74,
+        561.18
+      ],
+      "text": "He knows nothing about money."
+    },
+    {
+      "timestamp": [
+        561.18,
+        564.02
+      ],
+      "text": "In that case, it is high time he learned."
+    },
+    {
+      "timestamp": [
+        564.02,
+        565.92
+      ],
+      "text": "As for his father, I may still"
+    },
+    {
+      "timestamp": [
+        565.92,
+        573.2
+      ],
+      "text": "disinherit him. I'm a member of his family too. I could talk to you about money matters. Really?"
+    },
+    {
+      "timestamp": [
+        573.2,
+        586.0
+      ],
+      "text": "Oh, sniff is a great friend of mine. But hardly a member of the family. Hello, Moon. And you must be on Jane."
+    },
+    {
+      "timestamp": [
+        586.0,
+        589.0
+      ],
+      "text": "I brought my brother to snorke with me."
+    },
+    {
+      "timestamp": [
+        589.0,
+        591.0
+      ],
+      "text": "He wanted to meet you."
+    },
+    {
+      "timestamp": [
+        591.0,
+        595.0
+      ],
+      "text": "This is a Jane Be nice to her."
+    },
+    {
+      "timestamp": [
+        595.0,
+        598.0
+      ],
+      "text": "Welcome to Moon in Valley and Jane."
+    },
+    {
+      "timestamp": [
+        598.0,
+        600.0
+      ],
+      "text": "This is my lovely sister, Snorke Maiden,"
+    },
+    {
+      "timestamp": [
+        600.0,
+        602.0
+      ],
+      "text": "who is Moon in special friend."
+    },
+    {
+      "timestamp": [
+        602.0,
+        605.5
+      ],
+      "text": "The Snorkes and the Moon movements may one day be related,"
+    },
+    {
+      "timestamp": [
+        605.5,
+        608.5
+      ],
+      "text": "so in a way we're all really family."
+    },
+    {
+      "timestamp": [
+        608.5,
+        611.5
+      ],
+      "text": "You, baby, but not to me."
+    },
+    {
+      "timestamp": [
+        611.5,
+        614.0
+      ],
+      "text": "I'm an inventor, and due to an accident,"
+    },
+    {
+      "timestamp": [
+        614.0,
+        616.5
+      ],
+      "text": "I'm looking around for a sponsor."
+    },
+    {
+      "timestamp": [
+        616.5,
+        620.0
+      ],
+      "text": "A golden opportunity for anyone with some loose capital."
+    },
+    {
+      "timestamp": [
+        620.0,
+        623.5
+      ],
+      "text": "Welcome to Woman Valley and Chain."
+    },
+    {
+      "timestamp": [
+        623.5,
+        626.4
+      ],
+      "text": "I'm Hemmielin, a botanist of note."
+    },
+    {
+      "timestamp": [
+        626.4,
+        630.4
+      ],
+      "text": "I heard that you might be willing to fund my scientific research and Chain."
+    },
+    {
+      "timestamp": [
+        630.4,
+        634.0
+      ],
+      "text": "A bold and opportunity for anyone with some spare money."
+    },
+    {
+      "timestamp": [
+        634.0,
+        634.5
+      ],
+      "text": "Eh?"
+    },
+    {
+      "timestamp": [
+        634.5,
+        636.5
+      ],
+      "text": "You'd like me to fund your research?"
+    },
+    {
+      "timestamp": [
+        636.5,
+        638.5
+      ],
+      "text": "It was my idea."
+    },
+    {
+      "timestamp": [
+        638.5,
+        643.5
+      ],
+      "text": "If we built a greenhouse and grow rare orchids and roses, we can make a lot of money."
+    },
+    {
+      "timestamp": [
+        643.5,
+        645.08
+      ],
+      "text": "You'll make a lot of money. Young man, can make a lot of money. And you'll make a lot of money."
+    },
+    {
+      "timestamp": [
+        645.08,
+        647.68
+      ],
+      "text": "Young man, I have a lot of money already."
+    },
+    {
+      "timestamp": [
+        647.68,
+        650.32
+      ],
+      "text": "Oh, hasn't Sniff discussed this with you, ma'am?"
+    },
+    {
+      "timestamp": [
+        650.32,
+        651.32
+      ],
+      "text": "Sniff."
+    },
+    {
+      "timestamp": [
+        651.32,
+        653.68
+      ],
+      "text": "Well, I was just getting around to it, Hamulun."
+    },
+    {
+      "timestamp": [
+        653.68,
+        654.72
+      ],
+      "text": "Confusing."
+    },
+    {
+      "timestamp": [
+        654.72,
+        658.52
+      ],
+      "text": "When I am famous for my botanical research, Angie, I..."
+    },
+    {
+      "timestamp": [
+        658.52,
+        659.32
+      ],
+      "text": "I doubt it."
+    },
+    {
+      "timestamp": [
+        659.32,
+        660.32
+      ],
+      "text": "That will ever happen."
+    },
+    {
+      "timestamp": [
+        660.32,
+        662.36
+      ],
+      "text": "This is very confusing indeed for me."
+    },
+    {
+      "timestamp": [
+        662.36,
+        665.0
+      ],
+      "text": "Now, you're Snorkmaid and a friend of Movin' is that right?"
+    },
+    {
+      "timestamp": [
+        665.0,
+        668.0
+      ],
+      "text": "Oh, no, I'm the snorkemaid's brother."
+    },
+    {
+      "timestamp": [
+        668.0,
+        670.0
+      ],
+      "text": "I'm a friend of Movin' Ad-Jane."
+    },
+    {
+      "timestamp": [
+        670.0,
+        673.0
+      ],
+      "text": "Did you really explain about my important research, Sniff?"
+    },
+    {
+      "timestamp": [
+        673.0,
+        676.0
+      ],
+      "text": "Did you really explain that I'm a member of the family?"
+    },
+    {
+      "timestamp": [
+        676.0,
+        677.0
+      ],
+      "text": "Hey, she got it!"
+    },
+    {
+      "timestamp": [
+        677.0,
+        696.0
+      ],
+      "text": "So, and, Jane, it would be great if you were a member to make your way to Movin' Ad-Jane! We need your help! We need your help!"
+    },
+    {
+      "timestamp": [
+        698.0,
+        699.0
+      ],
+      "text": "Here's your rule, Vaget."
+    },
+    {
+      "timestamp": [
+        712.0,
+        713.0
+      ],
+      "text": "I do hope you'll be comfortable here. Just call if you need anything. Come out."
+    },
+    {
+      "timestamp": [
+        718.0,
+        721.0
+      ],
+      "text": "Here's your suitcase. It was very heavy."
+    },
+    {
+      "timestamp": [
+        721.0,
+        722.0
+      ],
+      "text": "Thank you."
+    },
+    {
+      "timestamp": [
+        725.0,
+        726.0
+      ],
+      "text": "Him. What is it? You want a reward? Very heavy. Thank you. And him."
+    },
+    {
+      "timestamp": [
+        727.0,
+        728.0
+      ],
+      "text": "What is it?"
+    },
+    {
+      "timestamp": [
+        728.0,
+        729.0
+      ],
+      "text": "You want a reward?"
+    },
+    {
+      "timestamp": [
+        729.0,
+        731.0
+      ],
+      "text": "No, no, Aunt Jane."
+    },
+    {
+      "timestamp": [
+        732.0,
+        734.0
+      ],
+      "text": "I mean, yes, I do, but..."
+    },
+    {
+      "timestamp": [
+        737.0,
+        739.0
+      ],
+      "text": "Which is it? Will you make up your mind, young man?"
+    },
+    {
+      "timestamp": [
+        740.0,
+        742.0
+      ],
+      "text": "I know where a moment Papa is right now."
+    },
+    {
+      "timestamp": [
+        743.0,
+        744.0
+      ],
+      "text": "He's a whale on a trip, I know."
+    },
+    {
+      "timestamp": [
+        746.92,
+        748.56
+      ],
+      "text": "No, no. He's somewhere quite near. Quite near, here."
+    },
+    {
+      "timestamp": [
+        748.56,
+        750.16
+      ],
+      "text": "Well, where is he?"
+    },
+    {
+      "timestamp": [
+        750.16,
+        752.88
+      ],
+      "text": "Moment Papa said not to tell you where he's hiding."
+    },
+    {
+      "timestamp": [
+        752.88,
+        753.92
+      ],
+      "text": "It's a secret."
+    },
+    {
+      "timestamp": [
+        753.92,
+        754.92
+      ],
+      "text": "A secret?"
+    },
+    {
+      "timestamp": [
+        754.92,
+        755.88
+      ],
+      "text": "Yes."
+    },
+    {
+      "timestamp": [
+        755.88,
+        758.8
+      ],
+      "text": "I suppose I can tell you, but he'll be very angry."
+    },
+    {
+      "timestamp": [
+        758.8,
+        759.64
+      ],
+      "text": "Where is he?"
+    },
+    {
+      "timestamp": [
+        759.64,
+        760.68
+      ],
+      "text": "Tell me now."
+    },
+    {
+      "timestamp": [
+        760.68,
+        767.0
+      ],
+      "text": "Oh, well, if I tell you I'm taking a big risk. Hmm. Oh, very well. How much do you want?"
+    },
+    {
+      "timestamp": [
+        767.0,
+        786.0
+      ],
+      "text": "I'll leave that to you. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        786.0,
+        788.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        788.0,
+        790.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        790.0,
+        792.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        792.0,
+        794.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        794.0,
+        796.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        796.0,
+        798.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        798.0,
+        800.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        800.0,
+        802.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        802.0,
+        804.0
+      ],
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "timestamp": [
+        804.0,
+        806.0
+      ],
+      "text": "I'm not sure if I can get it. I'm not sure if I can get it. Oh, is that all? Until I've seen him for myself with my own eyes, yes!"
+    },
+    {
+      "timestamp": [
+        812.0,
+        813.0
+      ],
+      "text": "Huh?"
+    },
+    {
+      "timestamp": [
+        813.0,
+        814.0
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        814.0,
+        817.0
+      ],
+      "text": "Oh, there's nobody here."
+    },
+    {
+      "timestamp": [
+        817.0,
+        819.0
+      ],
+      "text": "Where is my worthless nephew?"
+    },
+    {
+      "timestamp": [
+        819.0,
+        821.0
+      ],
+      "text": "This is very strange."
+    },
+    {
+      "timestamp": [
+        822.0,
+        824.0
+      ],
+      "text": "You tricked me, haven't you?"
+    },
+    {
+      "timestamp": [
+        824.0,
+        827.0
+      ],
+      "text": "Well, no, I swear I would never do that."
+    },
+    {
+      "timestamp": [
+        827.0,
+        831.0
+      ],
+      "text": "You certainly deserve no reward."
+    },
+    {
+      "timestamp": [
+        831.0,
+        833.0
+      ],
+      "text": "But no, wait!"
+    },
+    {
+      "timestamp": [
+        833.0,
+        835.0
+      ],
+      "text": "If we just look around, we'll find him."
+    },
+    {
+      "timestamp": [
+        835.0,
+        837.0
+      ],
+      "text": "He's in here somewhere I know it!"
+    },
+    {
+      "timestamp": [
+        837.0,
+        846.0
+      ],
+      "text": "Hey, moment Papa, what is it? Tell me where my nephew is hiding."
+    },
+    {
+      "timestamp": [
+        846.0,
+        849.0
+      ],
+      "text": "Well, as I said before, I want to know the truth."
+    },
+    {
+      "timestamp": [
+        849.0,
+        850.0
+      ],
+      "text": "Dear, he's..."
+    },
+    {
+      "timestamp": [
+        850.0,
+        851.0
+      ],
+      "text": "Now let me see..."
+    },
+    {
+      "timestamp": [
+        851.0,
+        852.0
+      ],
+      "text": "Come on, hurry up."
+    },
+    {
+      "timestamp": [
+        852.0,
+        857.0
+      ],
+      "text": "He's hiding in the cave down by the beach."
+    },
+    {
+      "timestamp": [
+        857.0,
+        861.0
+      ],
+      "text": "I've just been there, Mom and Mama, and I can't find him."
+    },
+    {
+      "timestamp": [
+        861.0,
+        864.0
+      ],
+      "text": "Then he really must have gone away on a trip."
+    },
+    {
+      "timestamp": [
+        864.0,
+        866.4
+      ],
+      "text": "I'm not going to I can't find him."
+    },
+    {
+      "timestamp": [
+        866.4,
+        869.8
+      ],
+      "text": "Then he really must have gone away on a trip."
+    },
+    {
+      "timestamp": [
+        869.8,
+        872.4
+      ],
+      "text": "And why should he want to hide from me anyway?"
+    },
+    {
+      "timestamp": [
+        872.4,
+        875.6
+      ],
+      "text": "I think he might be a little bit afraid of you."
+    },
+    {
+      "timestamp": [
+        875.6,
+        877.0
+      ],
+      "text": "Afraid of me?"
+    },
+    {
+      "timestamp": [
+        877.0,
+        878.8
+      ],
+      "text": "Afraid of his own aunt?"
+    },
+    {
+      "timestamp": [
+        878.8,
+        880.6
+      ],
+      "text": "But why?"
+    },
+    {
+      "timestamp": [
+        880.6,
+        882.6
+      ],
+      "text": "Mostly he's afraid of money matters."
+    },
+    {
+      "timestamp": [
+        882.6,
+        883.8
+      ],
+      "text": "Incredible."
+    },
+    {
+      "timestamp": [
+        883.8,
+        887.44
+      ],
+      "text": "Afraid of me because of money matters?"
+    },
+    {
+      "timestamp": [
+        887.44,
+        890.48
+      ],
+      "text": "He must be utterly mad."
+    },
+    {
+      "timestamp": [
+        890.48,
+        892.48
+      ],
+      "text": "What a family."
+    },
+    {
+      "timestamp": [
+        892.48,
+        894.64
+      ],
+      "text": "I don't understand."
+    },
+    {
+      "timestamp": [
+        894.64,
+        897.36
+      ],
+      "text": "It seems that only Smith knows anything about money."
+    },
+    {
+      "timestamp": [
+        900.4,
+        902.76
+      ],
+      "text": "I know where Moomin' Poppy is right now."
+    },
+    {
+      "timestamp": [
+        902.76,
+        905.8
+      ],
+      "text": "So you want some of my gold, who do you young lady?"
+    },
+    {
+      "timestamp": [
+        905.8,
+        908.6
+      ],
+      "text": "I couldn't care less about your silly gold."
+    },
+    {
+      "timestamp": [
+        908.6,
+        910.6
+      ],
+      "text": "My silly gold indeed."
+    },
+    {
+      "timestamp": [
+        910.6,
+        914.2
+      ],
+      "text": "With silly gold, I assure you you can do just anything you want."
+    },
+    {
+      "timestamp": [
+        914.2,
+        919.6
+      ],
+      "text": "Seems to me, your silly gold doesn't even help you to find Moomin' Poppy."
+    },
+    {
+      "timestamp": [
+        919.6,
+        920.6
+      ],
+      "text": "Hmm?"
+    },
+    {
+      "timestamp": [
+        920.6,
+        922.8
+      ],
+      "text": "I think you should forget about your money."
+    },
+    {
+      "timestamp": [
+        922.8,
+        926.8
+      ],
+      "text": "Young lady, money isn't something you can just forget about."
+    },
+    {
+      "timestamp": [
+        926.8,
+        928.84
+      ],
+      "text": "It needs constant looking after."
+    },
+    {
+      "timestamp": [
+        928.84,
+        931.44
+      ],
+      "text": "That's why I must talk to Moom and Papa at once."
+    },
+    {
+      "timestamp": [
+        931.44,
+        933.88
+      ],
+      "text": "Now take me to that rascal nephew of mine."
+    },
+    {
+      "timestamp": [
+        933.88,
+        945.0
+      ],
+      "text": "If you really know where he is. Do you have me? Of course. Oh, wow, frivolous. Not really."
+    },
+    {
+      "timestamp": [
+        945.0,
+        949.0
+      ],
+      "text": "If I could find a small enough boyfriend, I'd be frivolous just like them too."
+    },
+    {
+      "timestamp": [
+        949.0,
+        952.0
+      ],
+      "text": "Oh, well, Frederick and I were frivolous once."
+    },
+    {
+      "timestamp": [
+        952.0,
+        953.0
+      ],
+      "text": "Really?"
+    },
+    {
+      "timestamp": [
+        953.0,
+        956.0
+      ],
+      "text": "If you say so, I suppose I have to believe you."
+    },
+    {
+      "timestamp": [
+        956.0,
+        958.0
+      ],
+      "text": "Ooh, ooh, ooh."
+    },
+    {
+      "timestamp": [
+        958.0,
+        959.0
+      ],
+      "text": "Huh?"
+    },
+    {
+      "timestamp": [
+        959.0,
+        965.0
+      ],
+      "text": "Huh? Really? If you say so, I suppose I have to believe you."
+    },
+    {
+      "timestamp": [
+        965.0,
+        967.0
+      ],
+      "text": "Ooh, ooh, ooh."
+    },
+    {
+      "timestamp": [
+        967.0,
+        969.0
+      ],
+      "text": "Huh?"
+    },
+    {
+      "timestamp": [
+        969.0,
+        970.0
+      ],
+      "text": "Look!"
+    },
+    {
+      "timestamp": [
+        970.0,
+        971.0
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        971.0,
+        974.0
+      ],
+      "text": "Little May and Anne Jane walking together."
+    },
+    {
+      "timestamp": [
+        974.0,
+        978.0
+      ],
+      "text": "What are they doing?"
+    },
+    {
+      "timestamp": [
+        978.0,
+        980.0
+      ],
+      "text": "Little May is plotting something."
+    },
+    {
+      "timestamp": [
+        980.0,
+        981.0
+      ],
+      "text": "Really?"
+    },
+    {
+      "timestamp": [
+        981.0,
+        988.9
+      ],
+      "text": "No, man!"
+    },
+    {
+      "timestamp": [
+        990.9,
+        995.4
+      ],
+      "text": "Sniff's all right, really. But sometimes he just can't withstand the lure of gold."
+    },
+    {
+      "timestamp": [
+        995.4,
+        997.4
+      ],
+      "text": "Check me!"
+    },
+    {
+      "timestamp": [
+        997.4,
+        999.4
+      ],
+      "text": "No!"
+    },
+    {
+      "timestamp": [
+        999.4,
+        1000.9
+      ],
+      "text": "Wait, it can't be right!"
+    },
+    {
+      "timestamp": [
+        1000.9,
+        1002.2
+      ],
+      "text": "Let's go back then."
+    },
+    {
+      "timestamp": [
+        1002.2,
+        1003.2
+      ],
+      "text": "Hmm, hmm."
+    },
+    {
+      "timestamp": [
+        1003.2,
+        1005.46
+      ],
+      "text": "Fine, just take your time. Hi, guys! Little mind! You can't be right. Let's go back then. Mm-hmm. Fine."
+    },
+    {
+      "timestamp": [
+        1005.46,
+        1007.8
+      ],
+      "text": "Just take your time."
+    },
+    {
+      "timestamp": [
+        1007.8,
+        1009.1
+      ],
+      "text": "Hi, guys."
+    },
+    {
+      "timestamp": [
+        1009.1,
+        1010.04
+      ],
+      "text": "Little Mai."
+    },
+    {
+      "timestamp": [
+        1010.04,
+        1011.08
+      ],
+      "text": "What's the matter?"
+    },
+    {
+      "timestamp": [
+        1011.08,
+        1012.28
+      ],
+      "text": "We have a guest."
+    },
+    {
+      "timestamp": [
+        1012.28,
+        1013.04
+      ],
+      "text": "A guest."
+    },
+    {
+      "timestamp": [
+        1016.24,
+        1018.08
+      ],
+      "text": "Movement, papa."
+    },
+    {
+      "timestamp": [
+        1018.08,
+        1019.4
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        1019.4,
+        1020.04
+      ],
+      "text": "Movement, papa."
+    },
+    {
+      "timestamp": [
+        1027.0,
+        1030.0
+      ],
+      "text": "So this is where you've been hiding. Oh, you just wait."
+    },
+    {
+      "timestamp": [
+        1030.0,
+        1032.0
+      ],
+      "text": "Oh, you shoot."
+    },
+    {
+      "timestamp": [
+        1032.0,
+        1035.0
+      ],
+      "text": "I'm a single man."
+    },
+    {
+      "timestamp": [
+        1035.0,
+        1037.0
+      ],
+      "text": "Wait a minute."
+    },
+    {
+      "timestamp": [
+        1037.0,
+        1040.0
+      ],
+      "text": "No, you wait first."
+    },
+    {
+      "timestamp": [
+        1040.0,
+        1044.0
+      ],
+      "text": "Wait, please."
+    },
+    {
+      "timestamp": [
+        1044.0,
+        1045.0
+      ],
+      "text": "Moomin Papa was sort of on his way back from a trip and then stopped by to play chess with me. Oh! Wait, please."
+    },
+    {
+      "timestamp": [
+        1045.0,
+        1047.0
+      ],
+      "text": "Mumin' Papa was sort of on his way back from a trip"
+    },
+    {
+      "timestamp": [
+        1047.0,
+        1049.0
+      ],
+      "text": "and then stopped by to play chess with me."
+    },
+    {
+      "timestamp": [
+        1049.0,
+        1051.0
+      ],
+      "text": "Yes, exactly."
+    },
+    {
+      "timestamp": [
+        1051.0,
+        1052.0
+      ],
+      "text": "No, yes."
+    },
+    {
+      "timestamp": [
+        1052.0,
+        1054.0
+      ],
+      "text": "Mumin' Mama told her the truth."
+    },
+    {
+      "timestamp": [
+        1054.0,
+        1057.0
+      ],
+      "text": "Oh, I sort of stopped by."
+    },
+    {
+      "timestamp": [
+        1057.0,
+        1059.0
+      ],
+      "text": "Why are you so afraid of me, young man?"
+    },
+    {
+      "timestamp": [
+        1059.0,
+        1061.0
+      ],
+      "text": "Well, I'm not really."
+    },
+    {
+      "timestamp": [
+        1061.0,
+        1063.0
+      ],
+      "text": "I mean, it's not you."
+    },
+    {
+      "timestamp": [
+        1063.0,
+        1065.74
+      ],
+      "text": "It's your money. I'm afraid of it. Really scared. Scared of my money? Well, I'm not, not really. I mean, it's not you. It's your money. I'm afraid of it really scares me."
+    },
+    {
+      "timestamp": [
+        1065.74,
+        1067.24
+      ],
+      "text": "Scared of my money?"
+    },
+    {
+      "timestamp": [
+        1067.58,
+        1068.58
+      ],
+      "text": "Well, I'm..."
+    },
+    {
+      "timestamp": [
+        1070.42,
+        1073.22
+      ],
+      "text": "It's perfectly good money at all in gold coins."
+    },
+    {
+      "timestamp": [
+        1073.42,
+        1076.78
+      ],
+      "text": "Listen, nephew, I'm depending on you as my only relative."
+    },
+    {
+      "timestamp": [
+        1076.78,
+        1079.12
+      ],
+      "text": "Yes, yes, please depend."
+    },
+    {
+      "timestamp": [
+        1079.12,
+        1084.06
+      ],
+      "text": "When I get too old to do it, you must look after my gold for me. I'm relying on you."
+    },
+    {
+      "timestamp": [
+        1084.06,
+        1088.0
+      ],
+      "text": "No, that's not possible. I know, Anne Jane. We can give it all away."
+    },
+    {
+      "timestamp": [
+        1088.0,
+        1092.0
+      ],
+      "text": "Must be those who'd love to have it. Must be those who need it more than we do."
+    },
+    {
+      "timestamp": [
+        1092.0,
+        1096.0
+      ],
+      "text": "Oh, a green pearl!"
+    },
+    {
+      "timestamp": [
+        1100.0,
+        1104.0
+      ],
+      "text": "Grrrr!"
+    },
+    {
+      "timestamp": [
+        1104.0,
+        1105.0
+      ],
+      "text": "She's crazy. Don't worry, we'll think of something."
+    },
+    {
+      "timestamp": [
+        1105.0,
+        1109.0
+      ],
+      "text": "Oh, you would throw my money away without a cut."
+    },
+    {
+      "timestamp": [
+        1109.0,
+        1111.0
+      ],
+      "text": "Why didn't mean to hurt you, Aunt Jane?"
+    },
+    {
+      "timestamp": [
+        1111.0,
+        1113.0
+      ],
+      "text": "I know, let's put it all in the bank."
+    },
+    {
+      "timestamp": [
+        1113.0,
+        1115.0
+      ],
+      "text": "Money likes being in a bank."
+    },
+    {
+      "timestamp": [
+        1115.0,
+        1120.0
+      ],
+      "text": "My money would hate being in a back of a terrible idea."
+    },
+    {
+      "timestamp": [
+        1120.0,
+        1122.0
+      ],
+      "text": "Oh no."
+    },
+    {
+      "timestamp": [
+        1122.0,
+        1124.0
+      ],
+      "text": "I'm not going to be a good man."
+    },
+    {
+      "timestamp": [
+        1124.0,
+        1131.44
+      ],
+      "text": "I'm not going to of a terrible idea. Oh, no banks are so nice nowadays"
+    },
+    {
+      "timestamp": [
+        1134.4,
+        1140.12
+      ],
+      "text": "They are of course they have flowers and shiny piggy banks and pretty paintings on the wall"
+    },
+    {
+      "timestamp": [
+        1141.36,
+        1143.36
+      ],
+      "text": "Is that really true?"
+    },
+    {
+      "timestamp": [
+        1144.0,
+        1146.0
+      ],
+      "text": "Right come on everybody."
+    },
+    {
+      "timestamp": [
+        1146.0,
+        1149.0
+      ],
+      "text": "Let's hurry home and fix a welcoming party for At Jane."
+    },
+    {
+      "timestamp": [
+        1149.0,
+        1151.0
+      ],
+      "text": "A party!"
+    },
+    {
+      "timestamp": [
+        1151.0,
+        1153.0
+      ],
+      "text": "Yes, any reason is good enough."
+    },
+    {
+      "timestamp": [
+        1167.0,
+        1173.0
+      ],
+      "text": "This was Grandma's best cake recipe. Welcome at Jane. Let's drink a toast to the only millionaire in our small circle."
+    },
+    {
+      "timestamp": [
+        1173.0,
+        1178.0
+      ],
+      "text": "Nayshy live a long and healthy life. Cheers! Cheers!"
+    },
+    {
+      "timestamp": [
+        1178.0,
+        1179.0
+      ],
+      "text": "Cheers!"
+    },
+    {
+      "timestamp": [
+        1179.0,
+        1187.0
+      ],
+      "text": "Cheers!"
+    },
+    {
+      "timestamp": [
+        1190.0,
+        1191.0
+      ],
+      "text": "Now, this is your welcoming party at Jane. What's the matter?"
+    },
+    {
+      "timestamp": [
+        1191.0,
+        1195.0
+      ],
+      "text": "Never in my life of I and my money felt ourselves as welcome before."
+    },
+    {
+      "timestamp": [
+        1195.0,
+        1198.0
+      ],
+      "text": "I'm so happy I could cry."
+    },
+    {
+      "timestamp": [
+        1198.0,
+        1202.0
+      ],
+      "text": "Oh, and once you start crying, you just want to go on."
+    },
+    {
+      "timestamp": [
+        1202.0,
+        1203.0
+      ],
+      "text": "Not again."
+    },
+    {
+      "timestamp": [
+        1203.0,
+        1205.0
+      ],
+      "text": "Please don't be unhappy, Jane."
+    },
+    {
+      "timestamp": [
+        1205.0,
+        1206.0
+      ],
+      "text": "Don't cry."
+    },
+    {
+      "timestamp": [
+        1206.0,
+        1209.0
+      ],
+      "text": "Dear, oh dear, moment papa."
+    },
+    {
+      "timestamp": [
+        1209.0,
+        1212.0
+      ],
+      "text": "Moment papa."
+    },
+    {
+      "timestamp": [
+        1212.0,
+        1214.0
+      ],
+      "text": "Yes, Aunt Jane, what is it?"
+    },
+    {
+      "timestamp": [
+        1214.0,
+        1216.0
+      ],
+      "text": "I'll put some of my gold in a bag,"
+    },
+    {
+      "timestamp": [
+        1216.0,
+        1219.0
+      ],
+      "text": "but you must look after the rest when I'm too old."
+    },
+    {
+      "timestamp": [
+        1219.0,
+        1221.0
+      ],
+      "text": "Oh, hmm."
+    },
+    {
+      "timestamp": [
+        1221.0,
+        1222.0
+      ],
+      "text": "And why not?"
+    },
+    {
+      "timestamp": [
+        1222.0,
+        1224.0
+      ],
+      "text": "All right."
+    },
+    {
+      "timestamp": [
+        1224.0,
+        1226.12
+      ],
+      "text": "We'll keep it in the cellar and make a nice little niche"
+    },
+    {
+      "timestamp": [
+        1226.12,
+        1228.28
+      ],
+      "text": "for it with seashells and moss."
+    },
+    {
+      "timestamp": [
+        1228.28,
+        1230.76
+      ],
+      "text": "And I'll have someone go down and look at it every week."
+    },
+    {
+      "timestamp": [
+        1230.76,
+        1232.0
+      ],
+      "text": "Don't you worry, Anjane."
+    },
+    {
+      "timestamp": [
+        1232.0,
+        1233.84
+      ],
+      "text": "Your money will be in safe hands."
+    },
+    {
+      "timestamp": [
+        1233.84,
+        1235.92
+      ],
+      "text": "Not quite, but I had in mind."
+    },
+    {
+      "timestamp": [
+        1235.92,
+        1237.12
+      ],
+      "text": "I know."
+    },
+    {
+      "timestamp": [
+        1237.12,
+        1240.08
+      ],
+      "text": "But I suppose it can't be helped."
+    },
+    {
+      "timestamp": [
+        1240.08,
+        1244.32
+      ],
+      "text": "It sounds rather nice, a cozy little niche down in the cellar."
+    },
+    {
+      "timestamp": [
+        1244.32,
+        1248.96
+      ],
+      "text": "And if you take a look every week, but oh dear, it will miss me."
+    },
+    {
+      "timestamp": [
+        1249.8,
+        1251.28
+      ],
+      "text": "Oh, and shame."
+    },
+    {
+      "timestamp": [
+        1251.28,
+        1254.0
+      ],
+      "text": "Very well. I have made up my mind."
+    },
+    {
+      "timestamp": [
+        1254.0,
+        1256.88
+      ],
+      "text": "I'm leaving this sickest with you now."
+    },
+    {
+      "timestamp": [
+        1256.88,
+        1259.76
+      ],
+      "text": "So you and my goal can get certain used to each other."
+    },
+    {
+      "timestamp": [
+        1259.76,
+        1261.12
+      ],
+      "text": "Do what you want with it."
+    },
+    {
+      "timestamp": [
+        1261.12,
+        1264.0
+      ],
+      "text": "Your friends seem to have ideas about how to spend it,"
+    },
+    {
+      "timestamp": [
+        1264.0,
+        1266.04
+      ],
+      "text": "flying ships and botanical research"
+    },
+    {
+      "timestamp": [
+        1266.04,
+        1267.36
+      ],
+      "text": "sound rather splendid."
+    },
+    {
+      "timestamp": [
+        1267.36,
+        1268.36
+      ],
+      "text": "Oh, boy!"
+    },
+    {
+      "timestamp": [
+        1268.36,
+        1269.36
+      ],
+      "text": "Wonderful!"
+    },
+    {
+      "timestamp": [
+        1269.36,
+        1273.36
+      ],
+      "text": "I'm so happy for you."
+    },
+    {
+      "timestamp": [
+        1273.36,
+        1282.48
+      ],
+      "text": "Darn, I should have let us up better than flowers."
+    },
+    {
+      "timestamp": [
+        1282.48,
+        1285.0
+      ],
+      "text": "So ended the visit of the dreaded Aunt Jane."
+    },
+    {
+      "timestamp": [
+        1285.0,
+        1290.0
+      ],
+      "text": "And I'm sure Sniff will be able to think of some other use for the call."
+    },
+    {
+      "timestamp": [
+        1290.0,
+        1299.0
+      ],
+      "text": "They love the laughter and they love the living, the movements."
+    },
+    {
+      "timestamp": [
+        1299.0,
+        1307.0
+      ],
+      "text": "We're leaving and sharing and caring and giving the movements"
+    },
+    {
+      "timestamp": [
+        1307.0,
+        1311.0
+      ],
+      "text": "They're always happy and always at play"
+    },
+    {
+      "timestamp": [
+        1311.0,
+        1318.0
+      ],
+      "text": "The moments are having fun day after day, the movements"
+    },
+    {
+      "timestamp": [
+        1318.0,
+        1328.0
+      ],
+      "text": "The movements, the movements The most"
+    }
+  ],
+  "text": "Here they are for one and all. The movements are about to come. Come on and sit down here with me, therefore you are your TV, they are the movements, they are the movements, so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, there was a moment There was a moment, there was a moment There was a moment Oh, my God. Mom. Everything's so boring. Let's go something, then. Like what, your instance. I think we've done everything one could possibly do. None of you three can think of a single thing to do. You're useless, aren't you? Well, can you think of anything except catching grasshoppers? Hmm, there must be something we can do. Now, we've all had times like this, haven't we? Fortunately, right then, the mailman arrived. Hello, a letter for you. Oh, a letter! That must be from my sister for me! Oh, no, it's from Oomoppa this time. That's so. Who would write to him? A woman? Someone called Jane? What? See that he gets it now. Who could this Jane possibly be? It's your father's old girlfriend, of course. Never. Oh, I'm sure he had dozens and dozens. Oomoppa was very kind and handsome young man. A voice from the past. Moomin' Papa, liquid, I've got for you. Moomin' Papa. Oh, no. I was right. Yes, you were. Moomin' Mama, I think you should go back to the kitchen. Whatever for a little bit. Because Moomin' Papa's stormy youth is catching up with him. Please, Papa, tell us it's not that kind of letter. Oh, what do you have? Oh, what a hurry. Whatever it was, it was a long time ago, long before I ever met you. No, it's not that kind of letter. What sort of letter is it then? Oh, much worse it's from Aunt Jane. Who's that? Mine, my dear, is on my father's side. Oh, how boring. You look very pale suddenly, dear. Yes, because she's coming for a visit tomorrow. Oh, don't worry. There's plenty of time for arranging a welcome party. But I don't like her, and I don't want it to come for a visit. Lumen, Papa, why not? Well, you'll soon see. She's very rich. Very rich? Yes, and she bosses everyone. We won't have a moment of peace. Oh, maybe she's so rich. She'll give us all wonderful presents. Goodness, this is so unexpected. Why is she coming here all of a sudden? Oh, she says she wants to discuss money matters. Good heavens with me. She says there's no one else. So you see, I'm in a very difficult situation. Oh, why can't you tell if you're not an expert. You don't tell Aunt Jane things. She tells you when that's that. Is that what explained? When you meet her, you'll know exactly what I mean. What do I know about money matters? Nothing. Not surprising since we've never had any. How can she expect a poor creature like you to know anything about money? Also, she's very, very suspicious. And she says money is a terrible burden. Oh, I wouldn't mind children her burden. Maybe you'll inherit it, and then we could share the money and have a wonderful time together. Eh? Help! This time I almost did it. We love it brother, we love it! So moving Papa has a rich aunt. Very interesting. Yes, she's got so much money she doesn't know what to do with it all. Oh! So snorke, why don't you ask her to invest in your flying ship? You'll need money to rebuild, won't you? It would be a great investment for her. It certainly would be. I'm sure she jump at it. Hmm. There'd be no harm in asking, I guess. What's the matter, Mr. Hemiellen? You look so unhappy. I'm stuck, that's my problem. How's that? Stuck in my research. This magnifying glass is very good, of course. But I just can't get any further with my botanical research with this old-fashioned equipment. What I really need is a microscope and a laboratory. And they're expensive, I guess. Yes, they are, and I don't have any money. Well, moment Papa's aunt is coming over tomorrow, and I know she's got any amount of money. Any amount, now? I'll get her to finance you, Hamilton, and we'll get a big greenhouse, and you'll grow orchids and roses and other things, and then we'll sell them, oh, oh, I'll get rich. You too! Rich, are you two? Hey, you over there. Hmm? Are you talking to me? Of course I am. Who else? I said you know the way to move in a house young man. Yes, she might say I do. Show me where it is then. Over there, it's tall and blue. Just follow that stream and you can't miss it. Good. Would you be kind enough to take my suit? I'm not sure. I do. Show me where it is, then. Over there, it's tall and blue. Just follow that stream, and you can't miss it. Good. Would you be kind enough to take my suitcase? I'm sorry, I can't. I'm too busy. I'll reward you handsomely for your efforts. Think again, young man. But all I want to do is fish. What? You don't want money? I heard you were coming to visit more than probably. You're in Jane, aren't you? You don't want money? I heard you were coming to visit Moment Papa here in Jane, aren't you? Ooh, ow. Please, to meet you, I'm here to take you to Moment House. Is this your suitcase? Wow! This suitcase is very heavy! Should be. It's full of golden coins. Huh? I'll take care of this. Let's go, eh? Kate! I can't stay in this house. I don't think I can take Aunt Jane. I'm going to hide out in the cave until she's gone. I'm going to hide out in the cave. I'm going to hide out in the cave. I'm going to hide out in the cave. I'm going to hide out take Aunt Jane. I'm going to hide out in the cave until she's gone. Bye, bye, Linda here. Careful, now Aunt Jane. The banks have been slippery here and there. Uh, uh, what? Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! Uh-huh! She's very small for a daughter. Oh, little Mai isn't ours. She just lives here. And I won't get any bigger, either. Hmm. She's like a member of the family. And where's my worthless nephew? Why isn't he here? Oh, well, he's not at home. Well, no. When will he be back? I don't know. He's away looking for inspiration for his work. So he won't home? Well, no. When will he be back? I don't know. He's away looking for inspiration for his work, so he won't be back for a while. Since when has he worked? I'm here to see him. Maybe you can see me instead. What a splendid idea. How clever of you, Mument. Ridiculous. He knows nothing about money. In that case, it is high time he learned. As for his father, I may still disinherit him. I'm a member of his family too. I could talk to you about money matters. Really? Oh, sniff is a great friend of mine. But hardly a member of the family. Hello, Moon. And you must be on Jane. I brought my brother to snorke with me. He wanted to meet you. This is a Jane Be nice to her. Welcome to Moon in Valley and Jane. This is my lovely sister, Snorke Maiden, who is Moon in special friend. The Snorkes and the Moon movements may one day be related, so in a way we're all really family. You, baby, but not to me. I'm an inventor, and due to an accident, I'm looking around for a sponsor. A golden opportunity for anyone with some loose capital. Welcome to Woman Valley and Chain. I'm Hemmielin, a botanist of note. I heard that you might be willing to fund my scientific research and Chain. A bold and opportunity for anyone with some spare money. Eh? You'd like me to fund your research? It was my idea. If we built a greenhouse and grow rare orchids and roses, we can make a lot of money. You'll make a lot of money. Young man, can make a lot of money. And you'll make a lot of money. Young man, I have a lot of money already. Oh, hasn't Sniff discussed this with you, ma'am? Sniff. Well, I was just getting around to it, Hamulun. Confusing. When I am famous for my botanical research, Angie, I... I doubt it. That will ever happen. This is very confusing indeed for me. Now, you're Snorkmaid and a friend of Movin' is that right? Oh, no, I'm the snorkemaid's brother. I'm a friend of Movin' Ad-Jane. Did you really explain about my important research, Sniff? Did you really explain that I'm a member of the family? Hey, she got it! So, and, Jane, it would be great if you were a member to make your way to Movin' Ad-Jane! We need your help! We need your help! Here's your rule, Vaget. I do hope you'll be comfortable here. Just call if you need anything. Come out. Here's your suitcase. It was very heavy. Thank you. Him. What is it? You want a reward? Very heavy. Thank you. And him. What is it? You want a reward? No, no, Aunt Jane. I mean, yes, I do, but... Which is it? Will you make up your mind, young man? I know where a moment Papa is right now. He's a whale on a trip, I know. No, no. He's somewhere quite near. Quite near, here. Well, where is he? Moment Papa said not to tell you where he's hiding. It's a secret. A secret? Yes. I suppose I can tell you, but he'll be very angry. Where is he? Tell me now. Oh, well, if I tell you I'm taking a big risk. Hmm. Oh, very well. How much do you want? I'll leave that to you. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. I'm not sure if I can get it. Oh, is that all? Until I've seen him for myself with my own eyes, yes! Huh? What? Oh, there's nobody here. Where is my worthless nephew? This is very strange. You tricked me, haven't you? Well, no, I swear I would never do that. You certainly deserve no reward. But no, wait! If we just look around, we'll find him. He's in here somewhere I know it! Hey, moment Papa, what is it? Tell me where my nephew is hiding. Well, as I said before, I want to know the truth. Dear, he's... Now let me see... Come on, hurry up. He's hiding in the cave down by the beach. I've just been there, Mom and Mama, and I can't find him. Then he really must have gone away on a trip. I'm not going to I can't find him. Then he really must have gone away on a trip. And why should he want to hide from me anyway? I think he might be a little bit afraid of you. Afraid of me? Afraid of his own aunt? But why? Mostly he's afraid of money matters. Incredible. Afraid of me because of money matters? He must be utterly mad. What a family. I don't understand. It seems that only Smith knows anything about money. I know where Moomin' Poppy is right now. So you want some of my gold, who do you young lady? I couldn't care less about your silly gold. My silly gold indeed. With silly gold, I assure you you can do just anything you want. Seems to me, your silly gold doesn't even help you to find Moomin' Poppy. Hmm? I think you should forget about your money. Young lady, money isn't something you can just forget about. It needs constant looking after. That's why I must talk to Moom and Papa at once. Now take me to that rascal nephew of mine. If you really know where he is. Do you have me? Of course. Oh, wow, frivolous. Not really. If I could find a small enough boyfriend, I'd be frivolous just like them too. Oh, well, Frederick and I were frivolous once. Really? If you say so, I suppose I have to believe you. Ooh, ooh, ooh. Huh? Huh? Really? If you say so, I suppose I have to believe you. Ooh, ooh, ooh. Huh? Look! What? Little May and Anne Jane walking together. What are they doing? Little May is plotting something. Really? No, man! Sniff's all right, really. But sometimes he just can't withstand the lure of gold. Check me! No! Wait, it can't be right! Let's go back then. Hmm, hmm. Fine, just take your time. Hi, guys! Little mind! You can't be right. Let's go back then. Mm-hmm. Fine. Just take your time. Hi, guys. Little Mai. What's the matter? We have a guest. A guest. Movement, papa. What? Movement, papa. So this is where you've been hiding. Oh, you just wait. Oh, you shoot. I'm a single man. Wait a minute. No, you wait first. Wait, please. Moomin Papa was sort of on his way back from a trip and then stopped by to play chess with me. Oh! Wait, please. Mumin' Papa was sort of on his way back from a trip and then stopped by to play chess with me. Yes, exactly. No, yes. Mumin' Mama told her the truth. Oh, I sort of stopped by. Why are you so afraid of me, young man? Well, I'm not really. I mean, it's not you. It's your money. I'm afraid of it. Really scared. Scared of my money? Well, I'm not, not really. I mean, it's not you. It's your money. I'm afraid of it really scares me. Scared of my money? Well, I'm... It's perfectly good money at all in gold coins. Listen, nephew, I'm depending on you as my only relative. Yes, yes, please depend. When I get too old to do it, you must look after my gold for me. I'm relying on you. No, that's not possible. I know, Anne Jane. We can give it all away. Must be those who'd love to have it. Must be those who need it more than we do. Oh, a green pearl! Grrrr! She's crazy. Don't worry, we'll think of something. Oh, you would throw my money away without a cut. Why didn't mean to hurt you, Aunt Jane? I know, let's put it all in the bank. Money likes being in a bank. My money would hate being in a back of a terrible idea. Oh no. I'm not going to be a good man. I'm not going to of a terrible idea. Oh, no banks are so nice nowadays They are of course they have flowers and shiny piggy banks and pretty paintings on the wall Is that really true? Right come on everybody. Let's hurry home and fix a welcoming party for At Jane. A party! Yes, any reason is good enough. This was Grandma's best cake recipe. Welcome at Jane. Let's drink a toast to the only millionaire in our small circle. Nayshy live a long and healthy life. Cheers! Cheers! Cheers! Cheers! Now, this is your welcoming party at Jane. What's the matter? Never in my life of I and my money felt ourselves as welcome before. I'm so happy I could cry. Oh, and once you start crying, you just want to go on. Not again. Please don't be unhappy, Jane. Don't cry. Dear, oh dear, moment papa. Moment papa. Yes, Aunt Jane, what is it? I'll put some of my gold in a bag, but you must look after the rest when I'm too old. Oh, hmm. And why not? All right. We'll keep it in the cellar and make a nice little niche for it with seashells and moss. And I'll have someone go down and look at it every week. Don't you worry, Anjane. Your money will be in safe hands. Not quite, but I had in mind. I know. But I suppose it can't be helped. It sounds rather nice, a cozy little niche down in the cellar. And if you take a look every week, but oh dear, it will miss me. Oh, and shame. Very well. I have made up my mind. I'm leaving this sickest with you now. So you and my goal can get certain used to each other. Do what you want with it. Your friends seem to have ideas about how to spend it, flying ships and botanical research sound rather splendid. Oh, boy! Wonderful! I'm so happy for you. Darn, I should have let us up better than flowers. So ended the visit of the dreaded Aunt Jane. And I'm sure Sniff will be able to think of some other use for the call. They love the laughter and they love the living, the movements. We're leaving and sharing and caring and giving the movements They're always happy and always at play The moments are having fun day after day, the movements The movements, the movements The most"
+}

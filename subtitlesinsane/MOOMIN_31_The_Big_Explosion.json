@@ -1,0 +1,6022 @@
+{
+  "speakers": [
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        0.0,
+        7.0
+      ],
+      "text": "Here they are for one and all."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        7.0,
+        10.0
+      ],
+      "text": "The movements are about to come."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        10.0,
+        12.0
+      ],
+      "text": "Come on and sit down here with me."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        12.0,
+        15.0
+      ],
+      "text": "They're here for you on your TV."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        15.0,
+        17.0
+      ],
+      "text": "They are the movements."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        17.0,
+        20.0
+      ],
+      "text": "They are the movements."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        20.0,
+        22.0
+      ],
+      "text": "So, what do you think?"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        22.0,
+        28.0
+      ],
+      "text": "I'm going to say that I'm not going to say it. I'm going to say it. with me, therefore you are your TV, they are the movements, they are the movements,"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        28.0,
+        50.0
+      ],
+      "text": "so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, sing that song ever, There was the moment, there was the moments"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        50.0,
+        70.0
+      ],
+      "text": "There was the moments, there was the moments One night, the moment was having a dream."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        70.0,
+        76.0
+      ],
+      "text": "What a wonderful feeling to be flying like this!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        76.0,
+        79.0
+      ],
+      "text": "Look over there, woman! What a beautiful lake!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        79.0,
+        83.0
+      ],
+      "text": "This is one of the most fantastic experiences I've ever had!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        83.0,
+        87.8
+      ],
+      "text": "Me too! I never knew birds had such a marvelous life."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        87.8,
+        91.6
+      ],
+      "text": "Seeing things from a completely different point of view."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        91.6,
+        94.8
+      ],
+      "text": "We're flying pretty high aren't we?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        94.8,
+        96.8
+      ],
+      "text": "I'm scared."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        96.8,
+        98.6
+      ],
+      "text": "We're much too high."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        98.6,
+        102.8
+      ],
+      "text": "Let's go down please. Let's go down at once."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        102.8,
+        106.4
+      ],
+      "text": "I'm not scared of heights."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        109.6,
+        110.2
+      ],
+      "text": "Oh, Snork, this time you really have succeeded."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        113.2,
+        114.8
+      ],
+      "text": "Will I could build hundreds of these if you wanted me to?"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        117.6,
+        118.8
+      ],
+      "text": "Snork, can I steer it just for a little while? Now you can."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        118.8,
+        119.8
+      ],
+      "text": "Huh?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        119.8,
+        126.0
+      ],
+      "text": "Oh, stinky. Do you really know how to steer this thing? Yeah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        127.0,
+        129.0
+      ],
+      "text": "Hey! Stop it, stinky!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        130.0,
+        132.0
+      ],
+      "text": "That's dangerous!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        142.0,
+        144.0
+      ],
+      "text": "This is okay, really! It's just a dream!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        144.0,
+        167.0
+      ],
+      "text": "Oh, right. Oh gosh, my head hurt so..."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        167.0,
+        169.0
+      ],
+      "text": "What a strange dream!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        169.0,
+        172.0
+      ],
+      "text": "Why would my brother let stinky stare his flying ship?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        172.0,
+        174.0
+      ],
+      "text": "Surely not."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        174.0,
+        179.0
+      ],
+      "text": "I was talking to a snork while I looked away, suddenly stinky took his place."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        179.0,
+        181.0
+      ],
+      "text": "Oh, and then the thing began tilting?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        181.0,
+        184.0
+      ],
+      "text": "Hmm, but it was just a dream."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        184.0,
+        186.0
+      ],
+      "text": "I don't care, I don't like it."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        186.0,
+        190.0
+      ],
+      "text": "You shouldn't have dreams like that just when my brother's flying ship is almost ready."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        190.0,
+        192.0
+      ],
+      "text": "Dreams often come true, you know."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        192.0,
+        196.0
+      ],
+      "text": "But it was nothing like the ship your brother's building, it was totally different."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        196.0,
+        200.0
+      ],
+      "text": "But tell me what happened to it in the end. Did it fall down?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        200.0,
+        204.0
+      ],
+      "text": "I don't know. I lost sight of it when I fell off and I didn't see it again."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        204.0,
+        207.0
+      ],
+      "text": "Well, surely you could have turned your hat to take a look."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        207.0,
+        209.0
+      ],
+      "text": "Well, I didn't."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        210.0,
+        213.0
+      ],
+      "text": "Listen, Mum, and don't say a word to the snork about this."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        213.0,
+        215.0
+      ],
+      "text": "He's nervous enough as it is."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        215.0,
+        220.0
+      ],
+      "text": "Of course not. Why don't we just forget about it? Pretend it never happened, eh?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        222.0,
+        225.0
+      ],
+      "text": "Oh, snork, it's finally completed."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        225.0,
+        229.0
+      ],
+      "text": "Sure it is, but it hasn't been flown yet, of course."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        229.0,
+        232.0
+      ],
+      "text": "But it will, I won't, Snork. You don't think there's anything wrong with it?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        232.0,
+        234.0
+      ],
+      "text": "Of course not, but it's just..."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        234.0,
+        236.0
+      ],
+      "text": "Is there some problem, Snork?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        236.0,
+        238.0
+      ],
+      "text": "Well, there might be."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        238.0,
+        240.0
+      ],
+      "text": "So, what is it?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        240.0,
+        241.0
+      ],
+      "text": "Fuel."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        241.0,
+        242.0
+      ],
+      "text": "Fuel?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        242.0,
+        247.44
+      ],
+      "text": "But you said you had developed a new fuel that was really good. It's good,"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        247.44,
+        253.08
+      ],
+      "text": "but you see you see it might not be powerful enough. You mean it might not be able to"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        253.08,
+        259.62
+      ],
+      "text": "fly? No it won't. You're quite right. Or it will just be an ordinary ship, not a flying"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        259.62,
+        269.44
+      ],
+      "text": "ship. Oh that would be nice. What can't go up can't possibly fall down. But that's not the point if it won't fly. Everyone will laugh at me. I know they will."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        270.56,
+        272.2
+      ],
+      "text": "I won't laugh, I promise."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        272.2,
+        274.52
+      ],
+      "text": "Maybe not. Others will."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        274.52,
+        278.8
+      ],
+      "text": "But you wouldn't care about that, would you? Who cares what other people think?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        279.2,
+        284.64
+      ],
+      "text": "The thing is, I've already told people that the test flight will be quite soon. In public."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        284.64,
+        289.86
+      ],
+      "text": "But I'm sure people will be very nice about it even if it doesn't get off the ground."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        289.86,
+        292.22
+      ],
+      "text": "That's hardly what I want."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        292.22,
+        295.54
+      ],
+      "text": "Moomin, I'd like to ask you a favor."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        295.54,
+        298.7
+      ],
+      "text": "That's why I sent for you. Will you help me?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        298.7,
+        301.3
+      ],
+      "text": "I'll do anything you ask, Snork, of course."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        301.3,
+        305.0
+      ],
+      "text": "What I would like is for you, Moomin, my friend, to be test pilot for me tomorrow."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        305.0,
+        343.0
+      ],
+      "text": "You want me to be a pilot? Hey, stinky stinky! Oh, Mom! Listen, stinky, I'm going to steer that shivers up perfectly clear."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        343.0,
+        347.0
+      ],
+      "text": "You're not to touch the wheel. I'm the pilot now."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        353.0,
+        355.0
+      ],
+      "text": "What on earth was that a bird?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        357.0,
+        359.0
+      ],
+      "text": "Wouldn't you find it difficult to steer it?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        359.0,
+        364.0
+      ],
+      "text": "Oh no, it's real easy. But of course, I'd need to practice before the public demonstration."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        364.0,
+        367.0
+      ],
+      "text": "Is the snorke going to fly his own ship?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        367.0,
+        371.0
+      ],
+      "text": "He'll be there but he has to stay down in the engine room snuff can."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        371.0,
+        374.0
+      ],
+      "text": "I wonder if this ship will really fly."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        374.0,
+        376.0
+      ],
+      "text": "The only problem is the fuel."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        376.0,
+        380.0
+      ],
+      "text": "Only the fuel you say. That's a big problem."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        380.0,
+        382.0
+      ],
+      "text": "I suppose so."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        382.0,
+        388.0
+      ],
+      "text": "Listen, Roman. Suppose now the snorke's flying ship really gets off the ground."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        388.0,
+        390.0
+      ],
+      "text": "Well, of course it's going to, Papa."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        390.0,
+        392.0
+      ],
+      "text": "That something could happen, something could break,"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        392.0,
+        394.0
+      ],
+      "text": "or you could fall into an air pocket."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        394.0,
+        397.0
+      ],
+      "text": "It's such a dangerous undertaking, think, moment."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        397.0,
+        398.0
+      ],
+      "text": "Papa!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        398.0,
+        402.0
+      ],
+      "text": "Now, listen, it's not natural for the moment to fly about up in the air."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        402.0,
+        404.0
+      ],
+      "text": "Is it snuffkin'?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        404.0,
+        405.1
+      ],
+      "text": "Quite right."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        405.1,
+        407.7
+      ],
+      "text": "Well, when do you and the snorke do if things went wrong?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        407.7,
+        410.2
+      ],
+      "text": "We will be wearing parachutes, you know?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        410.2,
+        411.7
+      ],
+      "text": "Parachutes."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        411.7,
+        414.2
+      ],
+      "text": "You do know what they are, don't you, Papa?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        414.2,
+        415.5
+      ],
+      "text": "Of course I do."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        415.5,
+        419.5
+      ],
+      "text": "They come down from the sky like this, like this."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        419.5,
+        420.7
+      ],
+      "text": "Exactly."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        420.7,
+        423.1
+      ],
+      "text": "But of course, we won't need a parachute."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        423.1,
+        425.6
+      ],
+      "text": "Because nothing will go wrong."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        425.6,
+        430.14
+      ],
+      "text": "And I will be the first flying ship pilot ever."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        430.14,
+        431.62
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        431.62,
+        432.54
+      ],
+      "text": "Hi there."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        432.54,
+        434.86
+      ],
+      "text": "Hello, my young man."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        434.86,
+        435.82
+      ],
+      "text": "Hello."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        435.82,
+        436.62
+      ],
+      "text": "How do you do?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        436.62,
+        438.3
+      ],
+      "text": "How do you do everybody?"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        438.3,
+        439.1
+      ],
+      "text": "Hello, sir."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        439.1,
+        440.1
+      ],
+      "text": "Hello, sir."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        440.1,
+        442.1
+      ],
+      "text": "I wonder if you can help me."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        442.1,
+        445.0
+      ],
+      "text": "Do you happen to know where the snorks factory is?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        445.0,
+        446.6
+      ],
+      "text": "Eh? You mean the sherd?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        446.6,
+        448.2
+      ],
+      "text": "I must see him."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        448.2,
+        451.6
+      ],
+      "text": "I'm most eager to have a look at his famous flying ship."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        451.6,
+        453.6
+      ],
+      "text": "How do you know about that?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        453.6,
+        455.8
+      ],
+      "text": "It's supposed to be very secret."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        455.8,
+        458.4
+      ],
+      "text": "The information must have leaked out somehow."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        458.4,
+        462.0
+      ],
+      "text": "Oh well, all inventors know about what he is trying to do."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        462.0,
+        466.4
+      ],
+      "text": "He's famous throughout Moomin Valley this snork."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        468.64,
+        474.48
+      ],
+      "text": "Really? Are you an inventor too? Indeed I am. One of the more famous. I think maybe the most famous of them all."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        474.48,
+        478.48
+      ],
+      "text": "I am Moomin Papa. How do you do sir? I'm Snuffkin."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        478.48,
+        486.0
+      ],
+      "text": "And my name is Moomin. Please to meet you. A very good date you won and all. The muffles, my name."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        489.0,
+        492.0
+      ],
+      "text": "I said I'm the muffled."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        493.0,
+        497.0
+      ],
+      "text": "You mean you've never even heard of me the most famous inventor."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        497.0,
+        502.0
+      ],
+      "text": "Oh yes, I'm sure I am. The muffled isn't it? Yes, it is the muffled."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        502.0,
+        506.3
+      ],
+      "text": "Have you invented anything exciting, muffuffle? Mr. Muffle?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        506.3,
+        511.3
+      ],
+      "text": "Ah, it would be much easier to tell you what I haven't invented young man."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        511.3,
+        514.78
+      ],
+      "text": "For instance, the pin that can't prick because it has two heads."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        514.78,
+        519.56
+      ],
+      "text": "The newspaper that reads itself, the purse that moans and groans if you take money from"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        519.56,
+        522.78
+      ],
+      "text": "it, the adhesive tape that sticks only to itself."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        522.78,
+        526.62
+      ],
+      "text": "This is perhaps the greatest of all my latest inventions."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        526.62,
+        528.84
+      ],
+      "text": "Whatever is that?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        528.84,
+        531.86
+      ],
+      "text": "This is proper self a man powered fan."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        531.86,
+        533.86
+      ],
+      "text": "Infanible in muddy weather."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        533.86,
+        534.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        534.86,
+        535.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        535.86,
+        536.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        536.86,
+        537.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        537.86,
+        538.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        538.86,
+        539.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        539.86,
+        540.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        540.86,
+        541.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        541.86,
+        542.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        542.86,
+        543.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        543.86,
+        544.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        544.86,
+        547.0
+      ],
+      "text": "Oh! Oh! Oh! Oh! Oh! Oh, these are my latest inventions."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        547.0,
+        549.0
+      ],
+      "text": "You didn't know that did you?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        549.0,
+        551.0
+      ],
+      "text": "No, it isn't."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        551.0,
+        555.0
+      ],
+      "text": "But try and give her handkerchief, the square balloon,"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        555.0,
+        558.0
+      ],
+      "text": "the five wheeled car, the hexagonal frying pan,"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        558.0,
+        561.0
+      ],
+      "text": "the seven hole button, and a host of others."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        561.0,
+        563.0
+      ],
+      "text": "Indeed, how interesting."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        563.0,
+        566.0
+      ],
+      "text": "What did you want to see the snork about?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        566.0,
+        568.0
+      ],
+      "text": "I thought I might be able to help him out"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        568.0,
+        570.0
+      ],
+      "text": "with one of my inventions. That's what?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        570.0,
+        572.0
+      ],
+      "text": "Oh, Jill, which one?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        572.0,
+        574.0
+      ],
+      "text": "My new?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        574.0,
+        577.0
+      ],
+      "text": "No, it's very top-sequence stuff I can tell you."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        577.0,
+        580.0
+      ],
+      "text": "Now, where is the snork's factory?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        580.0,
+        582.0
+      ],
+      "text": "I'll take you right there."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        582.0,
+        583.0
+      ],
+      "text": "Very kind of you."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        583.0,
+        585.6
+      ],
+      "text": "Come, he'll be so surprised."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        585.6,
+        587.6
+      ],
+      "text": "Must be off. See you again."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        587.6,
+        589.8
+      ],
+      "text": "It's a pleasure to help these buddy inventors."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        589.8,
+        591.8
+      ],
+      "text": "Snurker will be so excited."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        591.8,
+        594.3
+      ],
+      "text": "A famous inventor, eh?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        594.3,
+        596.3
+      ],
+      "text": "What is your opinion, Snurfkin?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        596.3,
+        599.3
+      ],
+      "text": "Have you ever seen a triangular hanker chief, Moomin Papa?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        599.3,
+        602.1
+      ],
+      "text": "No, and I don't want to either."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        602.1,
+        605.44
+      ],
+      "text": "I do wonder what he's cooked up for the snork, though."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        605.44,
+        607.16
+      ],
+      "text": "It is sort of intriguing."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        607.16,
+        608.28
+      ],
+      "text": "Yes, indeed."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        608.28,
+        610.68
+      ],
+      "text": "We'll be able to tell us later, I suppose."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        610.68,
+        613.16
+      ],
+      "text": "Yes, but anything could happen before then."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        613.16,
+        615.16
+      ],
+      "text": "Can we wait that long, snuffkin?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        615.16,
+        616.16
+      ],
+      "text": "You're right."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        619.92,
+        621.04
+      ],
+      "text": "No, wait for me."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        621.04,
+        622.2
+      ],
+      "text": "I'm coming with you."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        626.7,
+        628.9
+      ],
+      "text": "Oh, I thought we had several guests!"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        629.7,
+        650.0
+      ],
+      "text": "Now where in the world to, I wonder?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        650.0,
+        660.0
+      ],
+      "text": "Oh, look who's coming!"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        660.0,
+        666.0
+      ],
+      "text": "What are you doing here? We're just interested, Dan. Where are the mufflers and the snorke?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        666.0,
+        670.0
+      ],
+      "text": "The snorke and the mufflers are discussing some top secret project."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        670.0,
+        672.0
+      ],
+      "text": "It's very harsh."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        672.0,
+        674.0
+      ],
+      "text": "Not a triangular hanker chief, I hope."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        674.0,
+        676.0
+      ],
+      "text": "I don't know, Papa."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        676.0,
+        678.0
+      ],
+      "text": "As I said, it's top secret."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        678.0,
+        680.0
+      ],
+      "text": "Let's see."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        680.0,
+        682.0
+      ],
+      "text": "Oh, bother."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        682.0,
+        686.0
+      ],
+      "text": "The curtains in the back are all over the place. I don't know, Papa. As I said, it's top secret. Mm-hmm, let's see."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        686.0,
+        691.8
+      ],
+      "text": "Oh, Father, the curtains in the way, so I can't see a thing."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        691.8,
+        698.76
+      ],
+      "text": "So this is the powerful fuel you've developed, is it, Mr. Muffel?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        698.76,
+        699.76
+      ],
+      "text": "Yes, it is."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        699.76,
+        702.52
+      ],
+      "text": "Not as original as my other inventions I admit."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        702.52,
+        703.52
+      ],
+      "text": "But very useful."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        703.52,
+        704.52
+      ],
+      "text": "Yes, useful."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        704.52,
+        705.88
+      ],
+      "text": "I call it super fuel."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        705.88,
+        710.64
+      ],
+      "text": "Only trouble is my engine has been designed for liquid fuel."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        710.64,
+        712.44
+      ],
+      "text": "No problem at all young man."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        712.44,
+        715.88
+      ],
+      "text": "If you dissolve this block of fuel in 10 liters of water,"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        715.88,
+        719.0
+      ],
+      "text": "your engine will run for at least 10 hours."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        719.0,
+        722.24
+      ],
+      "text": "For 10 whole hours, that's incredible."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        722.24,
+        723.92
+      ],
+      "text": "If you doubt the word of the muffler,"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        723.92,
+        727.0
+      ],
+      "text": "then try it out and see for yourself right now."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        727.0,
+        728.0
+      ],
+      "text": "Right now?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        728.0,
+        735.0
+      ],
+      "text": "Better still, I guarantee that if used as it is in a solid state, your engine will run not for ten, but for one hundred hours."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        735.0,
+        740.0
+      ],
+      "text": "A hundred hours, but that's incredible. You really must be some inventor."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        740.0,
+        745.0
+      ],
+      "text": "Indeed, if what you say is true, it would solve the last problem of my flying ship."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        745.0,
+        751.0
+      ],
+      "text": "Oh, now that I've looked more closely at the padlock, this store isn't locked."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        751.0,
+        752.0
+      ],
+      "text": "No, it isn't."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        752.0,
+        756.0
+      ],
+      "text": "Hmm, so if one wanted to see the snorke, one could work right here."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        756.0,
+        758.0
+      ],
+      "text": "But why would you want to see him, Papa?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        758.0,
+        761.0
+      ],
+      "text": "Well, why don't you tell us?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        761.0,
+        766.56
+      ],
+      "text": "I don't want snorke falling for one of the muffles crazy ideas, that's why."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        766.56,
+        768.56
+      ],
+      "text": "Well, we'll find out pretty soon."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        768.56,
+        772.24
+      ],
+      "text": "Maybe you don't realize it, but the snork is pretty clever, you know."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        773.24,
+        776.04
+      ],
+      "text": "I think I know exactly what they're doing in there."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        776.04,
+        777.56
+      ],
+      "text": "Yeah, what?"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        779.56,
+        782.56
+      ],
+      "text": "I saw that man pouring something into the flying ship."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        782.56,
+        783.56
+      ],
+      "text": "What was it?"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        783.56,
+        785.56
+      ],
+      "text": "Well, I guess it must have been fuel, movement."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        785.56,
+        787.16
+      ],
+      "text": "How come you show him?"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        787.16,
+        789.6
+      ],
+      "text": "There's a crack that's just about wide enough for me."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        789.6,
+        791.3
+      ],
+      "text": "But I won't tell you where."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        791.3,
+        793.4
+      ],
+      "text": "What are those two in there talking about?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        793.4,
+        794.64
+      ],
+      "text": "Oh, yeah?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        794.64,
+        796.8
+      ],
+      "text": "So this is the great super fuel?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        796.8,
+        797.96
+      ],
+      "text": "Wait a minute, Snark."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        797.96,
+        799.56
+      ],
+      "text": "There must be something wrong with it."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        799.56,
+        800.36
+      ],
+      "text": "Yeah, you are."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        800.36,
+        801.16
+      ],
+      "text": "What the..."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        801.16,
+        802.24
+      ],
+      "text": "How do you do it?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        802.24,
+        803.24
+      ],
+      "text": "There you are."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        803.24,
+        804.88
+      ],
+      "text": "Solid fuel indeed, huh?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        804.88,
+        806.0
+      ],
+      "text": "100 hours?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        806.0,
+        807.56
+      ],
+      "text": "You're an imposter, sir."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        807.56,
+        810.76
+      ],
+      "text": "Oh, it isn't true if you just let me explain."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        810.76,
+        811.88
+      ],
+      "text": "No, thank you."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        811.88,
+        813.88
+      ],
+      "text": "I know very well why you came over here"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        813.88,
+        817.36
+      ],
+      "text": "with that ridiculous story off with you right now."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        817.36,
+        818.56
+      ],
+      "text": "Listen to me."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        818.56,
+        822.4
+      ],
+      "text": "It is not ridiculous, and it is not just a story."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        822.4,
+        825.0
+      ],
+      "text": "Maybe we shouldn't have dissolved it in the water."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        825.0,
+        826.16
+      ],
+      "text": "That was a mistake."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        826.16,
+        827.08
+      ],
+      "text": "Imposter!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        827.08,
+        827.96
+      ],
+      "text": "But I'm the muffler!"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        827.96,
+        828.96
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        828.96,
+        831.08
+      ],
+      "text": "Well, maybe it's just a misunderstanding"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        831.08,
+        833.2
+      ],
+      "text": "and the fuel isn't suited for flying ships."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        833.2,
+        834.88
+      ],
+      "text": "Wrong, it suits everything!"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        834.88,
+        836.32
+      ],
+      "text": "Forget the fuel!"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        836.32,
+        838.24
+      ],
+      "text": "That was just a trick so we could come here"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        838.24,
+        840.64
+      ],
+      "text": "and get to see my flying ship."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        840.64,
+        843.64
+      ],
+      "text": "So the muffler has come here to spy me."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        843.64,
+        844.92
+      ],
+      "text": "Ridiculous!"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        844.92,
+        845.5
+      ],
+      "text": "I don't steal!"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        845.5,
+        848.0
+      ],
+      "text": "Papa, was there anything you wanted to see me about?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        848.0,
+        849.0
+      ],
+      "text": "Eh?"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        849.0,
+        852.0
+      ],
+      "text": "No, I just dropped by."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        852.0,
+        854.0
+      ],
+      "text": "No cause for excitement."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        854.0,
+        855.5
+      ],
+      "text": "The fuels are done."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        855.5,
+        857.5
+      ],
+      "text": "No, it's not. That's not true."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        857.5,
+        860.5
+      ],
+      "text": "I don't invent guns. What would be the point of inventing them?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        860.5,
+        862.5
+      ],
+      "text": "Oh, listen to me, please."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        862.5,
+        864.5
+      ],
+      "text": "Let's try and use the fuel once more."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        864.5,
+        866.0
+      ],
+      "text": "No, thanks. Once was once too many."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        866.0,
+        868.0
+      ],
+      "text": "I'll have to clean my tanks from your gunge."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        868.0,
+        870.0
+      ],
+      "text": "Get out of my sight!"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        880.0,
+        884.0
+      ],
+      "text": "Oh, dear, this must have been a bit of a disappointment for the snork."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        884.0,
+        885.16
+      ],
+      "text": "I know."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        893.8,
+        895.64
+      ],
+      "text": "Now listen, stinky."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        895.64,
+        898.84
+      ],
+      "text": "I'm doing this for the snorksake, isn't that so?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        898.84,
+        903.28
+      ],
+      "text": "I don't care if you're doing it for all I want is to get a good look at the famous flying ship."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        903.28,
+        907.16
+      ],
+      "text": "You'd need something very powerful to get a thing like that off the ground."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        907.16,
+        911.2
+      ],
+      "text": "Something so powerful that only I, the muffle, could ever have invented it."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        911.2,
+        914.8
+      ],
+      "text": "Remind me one day to show you my famous triangular handkerchief."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        914.8,
+        919.64
+      ],
+      "text": "Now all we have to do is not dissolve the fuel in water but use the solid fuel."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        919.64,
+        924.4
+      ],
+      "text": "Hurry up with that log, Sticky, or maybe I should invent a log pick."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        924.4,
+        925.48
+      ],
+      "text": "Come on, sticky."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        925.48,
+        926.48
+      ],
+      "text": "Hurry, hurry."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        926.48,
+        929.56
+      ],
+      "text": "There you are done."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        929.56,
+        931.68
+      ],
+      "text": "Good come, we don't have much time."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        931.68,
+        933.56
+      ],
+      "text": "No, I'm dying to steer this ship."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        933.56,
+        937.08
+      ],
+      "text": "Oh, me up."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        937.08,
+        939.0
+      ],
+      "text": "Take it up to 2,000 meters."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        939.0,
+        940.0
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        940.0,
+        942.52
+      ],
+      "text": "Whoa."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        942.52,
+        944.24
+      ],
+      "text": "Oh, sticky, sticky."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        944.24,
+        947.32
+      ],
+      "text": "We're flying at a height of just over 2,000 meters now."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        947.32,
+        948.32
+      ],
+      "text": "stinky!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        948.32,
+        949.64
+      ],
+      "text": "Yeah, I'm listening, what is it?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        949.64,
+        952.24
+      ],
+      "text": "When you hear me say now, that's when I want you"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        952.24,
+        954.44
+      ],
+      "text": "to start up the engine immediately."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        954.44,
+        955.96
+      ],
+      "text": "All right, no problem."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        955.96,
+        957.48
+      ],
+      "text": "Guess it must be this one."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        957.48,
+        958.72
+      ],
+      "text": "No, no, not yet."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        958.72,
+        959.84
+      ],
+      "text": "This is it!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        959.84,
+        962.88
+      ],
+      "text": "Just a drop of water on the fuel block."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        962.88,
+        964.52
+      ],
+      "text": "Now that should do it."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        964.52,
+        966.0
+      ],
+      "text": "Can I start it now?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        966.0,
+        967.0
+      ],
+      "text": "Not yet!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        967.0,
+        969.0
+      ],
+      "text": "Alright!"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        972.0,
+        975.0
+      ],
+      "text": "Now start on the interesting key!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        975.0,
+        976.0
+      ],
+      "text": "Now you answer!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        979.0,
+        981.0
+      ],
+      "text": "Did you really turn on the switch?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        981.0,
+        982.0
+      ],
+      "text": "Yes I did!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        983.0,
+        984.0
+      ],
+      "text": "The engine won't start."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        984.0,
+        987.0
+      ],
+      "text": "Are you quite sure you turned the one I pointed out to you?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        987.0,
+        990.0
+      ],
+      "text": "I think so. Maybe I turned the wrong one."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        990.0,
+        992.0
+      ],
+      "text": "There. Outside these two is well."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        992.0,
+        997.0
+      ],
+      "text": "Come on, stinky. This is no joke. My reputation is a famous inventor. Is it steak?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        997.0,
+        1001.0
+      ],
+      "text": "This should do it, I think. Is that work, Mr. Mapple?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1001.0,
+        1005.6
+      ],
+      "text": "Nothing is happening. I do. I shouldn't have let you do it better to do it myself."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1005.6,
+        1006.76
+      ],
+      "text": "You're useless."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1006.76,
+        1008.08
+      ],
+      "text": "Wait, Mr. Mapple."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1008.08,
+        1010.16
+      ],
+      "text": "I haven't tried the very last one in the row."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1010.16,
+        1010.96
+      ],
+      "text": "This one switched."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1010.96,
+        1012.2
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1012.2,
+        1013.48
+      ],
+      "text": "I better throw that one too."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1013.48,
+        1015.4
+      ],
+      "text": "You never know. It might just do the trick."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1015.4,
+        1016.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1016.4,
+        1017.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1017.4,
+        1018.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1018.4,
+        1019.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1019.4,
+        1020.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1020.4,
+        1021.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1021.4,
+        1022.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1022.4,
+        1023.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1023.4,
+        1024.4
+      ],
+      "text": "It works."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1024.4,
+        1027.0
+      ],
+      "text": "It works. I know it works. I know it works. Oh. It works! It works! I know it works!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1027.0,
+        1028.0
+      ],
+      "text": "I know it works!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1028.0,
+        1030.0
+      ],
+      "text": "It is working!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1040.0,
+        1044.0
+      ],
+      "text": "I'm not surprised, but I'm so pleased with myself."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1044.0,
+        1050.0
+      ],
+      "text": "You should be here, Snort. This is my great moment, and you should be here to share it with me."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1050.0,
+        1054.0
+      ],
+      "text": "Come on, I can't wait to try this thing."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1057.0,
+        1061.0
+      ],
+      "text": "Incredible! This ship shall rise like a Phoenix."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1061.0,
+        1064.0
+      ],
+      "text": "Not the most demanding thing, but this is one of my diesel inventions."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1064.0,
+        1066.24
+      ],
+      "text": "Ha, ha! Ha!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1072.24,
+        1074.5
+      ],
+      "text": "Casper! Casper!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1074.5,
+        1076.5
+      ],
+      "text": "Winner!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1087.0,
+        1090.0
+      ],
+      "text": "Come on, let's go! Come on!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1090.0,
+        1094.0
+      ],
+      "text": "Sheer power!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1094.0,
+        1097.0
+      ],
+      "text": "I don't think he ever has started up."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1097.0,
+        1101.0
+      ],
+      "text": "I very much have created exploding!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1101.0,
+        1103.0
+      ],
+      "text": "Hey stinky religions exploding!"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1103.0,
+        1105.0
+      ],
+      "text": "Where the fuck are you going?"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1105.0,
+        1106.0
+      ],
+      "text": "A bad shit!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1106.0,
+        1142.0
+      ],
+      "text": "It's going to explode any minute by a wonderful invention! Hmm? Ah!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1150.0,
+        1154.0
+      ],
+      "text": "Oh! Oh! Now come to your nice room on the small side but the very best one."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1154.0,
+        1158.0
+      ],
+      "text": "That explosion...it really was most unexpected officer."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1158.0,
+        1162.0
+      ],
+      "text": "Everybody knows you're a great inventor. I wonder if you could help me Mr. Muffle."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1162.0,
+        1164.0
+      ],
+      "text": "But how?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1164.0,
+        1167.2
+      ],
+      "text": "Could you think of something to protect my roses while you're staying with us?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1167.2,
+        1169.2
+      ],
+      "text": "A non-explosive, of course."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1169.2,
+        1170.2
+      ],
+      "text": "Of course I could."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1170.2,
+        1171.8
+      ],
+      "text": "Piece of cake, officer."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1174.2,
+        1176.6
+      ],
+      "text": "Oh, I really did want to fly."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1179.0,
+        1182.0
+      ],
+      "text": "Come, come now, cheer up, snorke dear."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1182.0,
+        1184.6
+      ],
+      "text": "Here you are, a nice cup of tea."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1184.6,
+        1185.96
+      ],
+      "text": "Thanks."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1185.96,
+        1187.96
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1187.96,
+        1192.48
+      ],
+      "text": "It's very strange, but I had a dream the other night about a flying ship."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1192.48,
+        1196.12
+      ],
+      "text": "Did you really move in? That sounds very interesting."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1196.12,
+        1197.8
+      ],
+      "text": "Yes, very interesting."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1197.8,
+        1199.6
+      ],
+      "text": "Moment, tell me about it."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1199.6,
+        1206.16
+      ],
+      "text": "Yes. It was a peculiar looking ship totally different from Northline ships, Snork."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1206.16,
+        1207.16
+      ],
+      "text": "Different?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1207.16,
+        1208.16
+      ],
+      "text": "Oh."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1208.16,
+        1211.6
+      ],
+      "text": "Well, it was sort of round like this."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1211.6,
+        1216.4
+      ],
+      "text": "It had a propeller and something hanging underneath."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1216.4,
+        1219.84
+      ],
+      "text": "And we flew over a high mountain."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1219.84,
+        1220.84
+      ],
+      "text": "Round?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1220.84,
+        1221.84
+      ],
+      "text": "Yes."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1221.84,
+        1224.44
+      ],
+      "text": "And you were in a sort of thing hanging underneath."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1224.44,
+        1225.0
+      ],
+      "text": "Yes. Round. were in a sort of thing hanging underneath. Yes."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1225.0,
+        1226.0
+      ],
+      "text": "Round."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1226.0,
+        1228.0
+      ],
+      "text": "Round, huh?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1228.0,
+        1230.0
+      ],
+      "text": "Round."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1230.0,
+        1235.0
+      ],
+      "text": "What, ever's the match I snuck?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1235.0,
+        1236.0
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1236.0,
+        1237.0
+      ],
+      "text": "Oh, mama."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1237.0,
+        1238.0
+      ],
+      "text": "Thanks for the tea."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1238.0,
+        1240.0
+      ],
+      "text": "I think I'm getting a new idea."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1240.0,
+        1241.0
+      ],
+      "text": "Moving."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1241.0,
+        1242.0
+      ],
+      "text": "See you later."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1242.0,
+        1244.0
+      ],
+      "text": "Papa, I must go."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1244.0,
+        1246.96
+      ],
+      "text": "Oh, there he goes again. I know that, see you later. Papa, I must go. Oh, fair he goes again."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1246.96,
+        1248.4
+      ],
+      "text": "I know that, look, Mama."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        1248.4,
+        1253.0
+      ],
+      "text": "You won't get an intelligent answer out of him for the next month or so, honestly."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1253.0,
+        1254.8
+      ],
+      "text": "I'm very happy for him."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1254.8,
+        1258.2
+      ],
+      "text": "I must say that was a very clever dream you had, woman."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1258.2,
+        1261.04
+      ],
+      "text": "I'm a better inventor than the mobile."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        1261.04,
+        1264.0
+      ],
+      "text": "You deserve a triangular acruchy."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1264.0,
+        1270.0
+      ],
+      "text": "So the explosion didn't distress the sword for long."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1270.0,
+        1273.0
+      ],
+      "text": "Soon he was back at his favorite occupation, planning."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1273.0,
+        1275.0
+      ],
+      "text": "But planning what?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1275.0,
+        1276.0
+      ],
+      "text": "Rome."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1276.0,
+        1287.0
+      ],
+      "text": "Rome? Wrong"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1287.0,
+        1292.0
+      ],
+      "text": "Wrong"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1292.0,
+        1307.0
+      ],
+      "text": "They love the laughter and and caring and giving the movements"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1307.0,
+        1311.0
+      ],
+      "text": "They're always happy and goes at play"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1311.0,
+        1318.0
+      ],
+      "text": "The moments I've been fun day after day, the movements"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1318.0,
+        1328.0
+      ],
+      "text": "The movements, the movements The most"
+    }
+  ],
+  "chunks": [
+    {
+      "timestamp": [
+        0.0,
+        7.0
+      ],
+      "text": "Here they are for one and all."
+    },
+    {
+      "timestamp": [
+        7.0,
+        10.0
+      ],
+      "text": "The movements are about to come."
+    },
+    {
+      "timestamp": [
+        10.0,
+        12.0
+      ],
+      "text": "Come on and sit down here with me."
+    },
+    {
+      "timestamp": [
+        12.0,
+        15.0
+      ],
+      "text": "They're here for you on your TV."
+    },
+    {
+      "timestamp": [
+        15.0,
+        17.0
+      ],
+      "text": "They are the movements."
+    },
+    {
+      "timestamp": [
+        17.0,
+        20.0
+      ],
+      "text": "They are the movements."
+    },
+    {
+      "timestamp": [
+        20.0,
+        22.0
+      ],
+      "text": "So, what do you think?"
+    },
+    {
+      "timestamp": [
+        22.0,
+        28.0
+      ],
+      "text": "I'm going to say that I'm not going to say it. I'm going to say it. with me, therefore you are your TV, they are the movements, they are the movements,"
+    },
+    {
+      "timestamp": [
+        28.0,
+        50.0
+      ],
+      "text": "so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, sing that song ever, There was the moment, there was the moments"
+    },
+    {
+      "timestamp": [
+        50.0,
+        70.0
+      ],
+      "text": "There was the moments, there was the moments One night, the moment was having a dream."
+    },
+    {
+      "timestamp": [
+        70.0,
+        76.0
+      ],
+      "text": "What a wonderful feeling to be flying like this!"
+    },
+    {
+      "timestamp": [
+        76.0,
+        79.0
+      ],
+      "text": "Look over there, woman! What a beautiful lake!"
+    },
+    {
+      "timestamp": [
+        79.0,
+        83.0
+      ],
+      "text": "This is one of the most fantastic experiences I've ever had!"
+    },
+    {
+      "timestamp": [
+        83.0,
+        87.8
+      ],
+      "text": "Me too! I never knew birds had such a marvelous life."
+    },
+    {
+      "timestamp": [
+        87.8,
+        91.6
+      ],
+      "text": "Seeing things from a completely different point of view."
+    },
+    {
+      "timestamp": [
+        91.6,
+        94.8
+      ],
+      "text": "We're flying pretty high aren't we?"
+    },
+    {
+      "timestamp": [
+        94.8,
+        96.8
+      ],
+      "text": "I'm scared."
+    },
+    {
+      "timestamp": [
+        96.8,
+        98.6
+      ],
+      "text": "We're much too high."
+    },
+    {
+      "timestamp": [
+        98.6,
+        102.8
+      ],
+      "text": "Let's go down please. Let's go down at once."
+    },
+    {
+      "timestamp": [
+        102.8,
+        106.4
+      ],
+      "text": "I'm not scared of heights."
+    },
+    {
+      "timestamp": [
+        109.6,
+        110.2
+      ],
+      "text": "Oh, Snork, this time you really have succeeded."
+    },
+    {
+      "timestamp": [
+        113.2,
+        114.8
+      ],
+      "text": "Will I could build hundreds of these if you wanted me to?"
+    },
+    {
+      "timestamp": [
+        117.6,
+        118.8
+      ],
+      "text": "Snork, can I steer it just for a little while? Now you can."
+    },
+    {
+      "timestamp": [
+        118.8,
+        119.8
+      ],
+      "text": "Huh?"
+    },
+    {
+      "timestamp": [
+        119.8,
+        126.0
+      ],
+      "text": "Oh, stinky. Do you really know how to steer this thing? Yeah!"
+    },
+    {
+      "timestamp": [
+        127.0,
+        129.0
+      ],
+      "text": "Hey! Stop it, stinky!"
+    },
+    {
+      "timestamp": [
+        130.0,
+        132.0
+      ],
+      "text": "That's dangerous!"
+    },
+    {
+      "timestamp": [
+        142.0,
+        144.0
+      ],
+      "text": "This is okay, really! It's just a dream!"
+    },
+    {
+      "timestamp": [
+        144.0,
+        167.0
+      ],
+      "text": "Oh, right. Oh gosh, my head hurt so..."
+    },
+    {
+      "timestamp": [
+        167.0,
+        169.0
+      ],
+      "text": "What a strange dream!"
+    },
+    {
+      "timestamp": [
+        169.0,
+        172.0
+      ],
+      "text": "Why would my brother let stinky stare his flying ship?"
+    },
+    {
+      "timestamp": [
+        172.0,
+        174.0
+      ],
+      "text": "Surely not."
+    },
+    {
+      "timestamp": [
+        174.0,
+        179.0
+      ],
+      "text": "I was talking to a snork while I looked away, suddenly stinky took his place."
+    },
+    {
+      "timestamp": [
+        179.0,
+        181.0
+      ],
+      "text": "Oh, and then the thing began tilting?"
+    },
+    {
+      "timestamp": [
+        181.0,
+        184.0
+      ],
+      "text": "Hmm, but it was just a dream."
+    },
+    {
+      "timestamp": [
+        184.0,
+        186.0
+      ],
+      "text": "I don't care, I don't like it."
+    },
+    {
+      "timestamp": [
+        186.0,
+        190.0
+      ],
+      "text": "You shouldn't have dreams like that just when my brother's flying ship is almost ready."
+    },
+    {
+      "timestamp": [
+        190.0,
+        192.0
+      ],
+      "text": "Dreams often come true, you know."
+    },
+    {
+      "timestamp": [
+        192.0,
+        196.0
+      ],
+      "text": "But it was nothing like the ship your brother's building, it was totally different."
+    },
+    {
+      "timestamp": [
+        196.0,
+        200.0
+      ],
+      "text": "But tell me what happened to it in the end. Did it fall down?"
+    },
+    {
+      "timestamp": [
+        200.0,
+        204.0
+      ],
+      "text": "I don't know. I lost sight of it when I fell off and I didn't see it again."
+    },
+    {
+      "timestamp": [
+        204.0,
+        207.0
+      ],
+      "text": "Well, surely you could have turned your hat to take a look."
+    },
+    {
+      "timestamp": [
+        207.0,
+        209.0
+      ],
+      "text": "Well, I didn't."
+    },
+    {
+      "timestamp": [
+        210.0,
+        213.0
+      ],
+      "text": "Listen, Mum, and don't say a word to the snork about this."
+    },
+    {
+      "timestamp": [
+        213.0,
+        215.0
+      ],
+      "text": "He's nervous enough as it is."
+    },
+    {
+      "timestamp": [
+        215.0,
+        220.0
+      ],
+      "text": "Of course not. Why don't we just forget about it? Pretend it never happened, eh?"
+    },
+    {
+      "timestamp": [
+        222.0,
+        225.0
+      ],
+      "text": "Oh, snork, it's finally completed."
+    },
+    {
+      "timestamp": [
+        225.0,
+        229.0
+      ],
+      "text": "Sure it is, but it hasn't been flown yet, of course."
+    },
+    {
+      "timestamp": [
+        229.0,
+        232.0
+      ],
+      "text": "But it will, I won't, Snork. You don't think there's anything wrong with it?"
+    },
+    {
+      "timestamp": [
+        232.0,
+        234.0
+      ],
+      "text": "Of course not, but it's just..."
+    },
+    {
+      "timestamp": [
+        234.0,
+        236.0
+      ],
+      "text": "Is there some problem, Snork?"
+    },
+    {
+      "timestamp": [
+        236.0,
+        238.0
+      ],
+      "text": "Well, there might be."
+    },
+    {
+      "timestamp": [
+        238.0,
+        240.0
+      ],
+      "text": "So, what is it?"
+    },
+    {
+      "timestamp": [
+        240.0,
+        241.0
+      ],
+      "text": "Fuel."
+    },
+    {
+      "timestamp": [
+        241.0,
+        242.0
+      ],
+      "text": "Fuel?"
+    },
+    {
+      "timestamp": [
+        242.0,
+        247.44
+      ],
+      "text": "But you said you had developed a new fuel that was really good. It's good,"
+    },
+    {
+      "timestamp": [
+        247.44,
+        253.08
+      ],
+      "text": "but you see you see it might not be powerful enough. You mean it might not be able to"
+    },
+    {
+      "timestamp": [
+        253.08,
+        259.62
+      ],
+      "text": "fly? No it won't. You're quite right. Or it will just be an ordinary ship, not a flying"
+    },
+    {
+      "timestamp": [
+        259.62,
+        269.44
+      ],
+      "text": "ship. Oh that would be nice. What can't go up can't possibly fall down. But that's not the point if it won't fly. Everyone will laugh at me. I know they will."
+    },
+    {
+      "timestamp": [
+        270.56,
+        272.2
+      ],
+      "text": "I won't laugh, I promise."
+    },
+    {
+      "timestamp": [
+        272.2,
+        274.52
+      ],
+      "text": "Maybe not. Others will."
+    },
+    {
+      "timestamp": [
+        274.52,
+        278.8
+      ],
+      "text": "But you wouldn't care about that, would you? Who cares what other people think?"
+    },
+    {
+      "timestamp": [
+        279.2,
+        284.64
+      ],
+      "text": "The thing is, I've already told people that the test flight will be quite soon. In public."
+    },
+    {
+      "timestamp": [
+        284.64,
+        289.86
+      ],
+      "text": "But I'm sure people will be very nice about it even if it doesn't get off the ground."
+    },
+    {
+      "timestamp": [
+        289.86,
+        292.22
+      ],
+      "text": "That's hardly what I want."
+    },
+    {
+      "timestamp": [
+        292.22,
+        295.54
+      ],
+      "text": "Moomin, I'd like to ask you a favor."
+    },
+    {
+      "timestamp": [
+        295.54,
+        298.7
+      ],
+      "text": "That's why I sent for you. Will you help me?"
+    },
+    {
+      "timestamp": [
+        298.7,
+        301.3
+      ],
+      "text": "I'll do anything you ask, Snork, of course."
+    },
+    {
+      "timestamp": [
+        301.3,
+        305.0
+      ],
+      "text": "What I would like is for you, Moomin, my friend, to be test pilot for me tomorrow."
+    },
+    {
+      "timestamp": [
+        305.0,
+        343.0
+      ],
+      "text": "You want me to be a pilot? Hey, stinky stinky! Oh, Mom! Listen, stinky, I'm going to steer that shivers up perfectly clear."
+    },
+    {
+      "timestamp": [
+        343.0,
+        347.0
+      ],
+      "text": "You're not to touch the wheel. I'm the pilot now."
+    },
+    {
+      "timestamp": [
+        353.0,
+        355.0
+      ],
+      "text": "What on earth was that a bird?"
+    },
+    {
+      "timestamp": [
+        357.0,
+        359.0
+      ],
+      "text": "Wouldn't you find it difficult to steer it?"
+    },
+    {
+      "timestamp": [
+        359.0,
+        364.0
+      ],
+      "text": "Oh no, it's real easy. But of course, I'd need to practice before the public demonstration."
+    },
+    {
+      "timestamp": [
+        364.0,
+        367.0
+      ],
+      "text": "Is the snorke going to fly his own ship?"
+    },
+    {
+      "timestamp": [
+        367.0,
+        371.0
+      ],
+      "text": "He'll be there but he has to stay down in the engine room snuff can."
+    },
+    {
+      "timestamp": [
+        371.0,
+        374.0
+      ],
+      "text": "I wonder if this ship will really fly."
+    },
+    {
+      "timestamp": [
+        374.0,
+        376.0
+      ],
+      "text": "The only problem is the fuel."
+    },
+    {
+      "timestamp": [
+        376.0,
+        380.0
+      ],
+      "text": "Only the fuel you say. That's a big problem."
+    },
+    {
+      "timestamp": [
+        380.0,
+        382.0
+      ],
+      "text": "I suppose so."
+    },
+    {
+      "timestamp": [
+        382.0,
+        388.0
+      ],
+      "text": "Listen, Roman. Suppose now the snorke's flying ship really gets off the ground."
+    },
+    {
+      "timestamp": [
+        388.0,
+        390.0
+      ],
+      "text": "Well, of course it's going to, Papa."
+    },
+    {
+      "timestamp": [
+        390.0,
+        392.0
+      ],
+      "text": "That something could happen, something could break,"
+    },
+    {
+      "timestamp": [
+        392.0,
+        394.0
+      ],
+      "text": "or you could fall into an air pocket."
+    },
+    {
+      "timestamp": [
+        394.0,
+        397.0
+      ],
+      "text": "It's such a dangerous undertaking, think, moment."
+    },
+    {
+      "timestamp": [
+        397.0,
+        398.0
+      ],
+      "text": "Papa!"
+    },
+    {
+      "timestamp": [
+        398.0,
+        402.0
+      ],
+      "text": "Now, listen, it's not natural for the moment to fly about up in the air."
+    },
+    {
+      "timestamp": [
+        402.0,
+        404.0
+      ],
+      "text": "Is it snuffkin'?"
+    },
+    {
+      "timestamp": [
+        404.0,
+        405.1
+      ],
+      "text": "Quite right."
+    },
+    {
+      "timestamp": [
+        405.1,
+        407.7
+      ],
+      "text": "Well, when do you and the snorke do if things went wrong?"
+    },
+    {
+      "timestamp": [
+        407.7,
+        410.2
+      ],
+      "text": "We will be wearing parachutes, you know?"
+    },
+    {
+      "timestamp": [
+        410.2,
+        411.7
+      ],
+      "text": "Parachutes."
+    },
+    {
+      "timestamp": [
+        411.7,
+        414.2
+      ],
+      "text": "You do know what they are, don't you, Papa?"
+    },
+    {
+      "timestamp": [
+        414.2,
+        415.5
+      ],
+      "text": "Of course I do."
+    },
+    {
+      "timestamp": [
+        415.5,
+        419.5
+      ],
+      "text": "They come down from the sky like this, like this."
+    },
+    {
+      "timestamp": [
+        419.5,
+        420.7
+      ],
+      "text": "Exactly."
+    },
+    {
+      "timestamp": [
+        420.7,
+        423.1
+      ],
+      "text": "But of course, we won't need a parachute."
+    },
+    {
+      "timestamp": [
+        423.1,
+        425.6
+      ],
+      "text": "Because nothing will go wrong."
+    },
+    {
+      "timestamp": [
+        425.6,
+        430.14
+      ],
+      "text": "And I will be the first flying ship pilot ever."
+    },
+    {
+      "timestamp": [
+        430.14,
+        431.62
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        431.62,
+        432.54
+      ],
+      "text": "Hi there."
+    },
+    {
+      "timestamp": [
+        432.54,
+        434.86
+      ],
+      "text": "Hello, my young man."
+    },
+    {
+      "timestamp": [
+        434.86,
+        435.82
+      ],
+      "text": "Hello."
+    },
+    {
+      "timestamp": [
+        435.82,
+        436.62
+      ],
+      "text": "How do you do?"
+    },
+    {
+      "timestamp": [
+        436.62,
+        438.3
+      ],
+      "text": "How do you do everybody?"
+    },
+    {
+      "timestamp": [
+        438.3,
+        439.1
+      ],
+      "text": "Hello, sir."
+    },
+    {
+      "timestamp": [
+        439.1,
+        440.1
+      ],
+      "text": "Hello, sir."
+    },
+    {
+      "timestamp": [
+        440.1,
+        442.1
+      ],
+      "text": "I wonder if you can help me."
+    },
+    {
+      "timestamp": [
+        442.1,
+        445.0
+      ],
+      "text": "Do you happen to know where the snorks factory is?"
+    },
+    {
+      "timestamp": [
+        445.0,
+        446.6
+      ],
+      "text": "Eh? You mean the sherd?"
+    },
+    {
+      "timestamp": [
+        446.6,
+        448.2
+      ],
+      "text": "I must see him."
+    },
+    {
+      "timestamp": [
+        448.2,
+        451.6
+      ],
+      "text": "I'm most eager to have a look at his famous flying ship."
+    },
+    {
+      "timestamp": [
+        451.6,
+        453.6
+      ],
+      "text": "How do you know about that?"
+    },
+    {
+      "timestamp": [
+        453.6,
+        455.8
+      ],
+      "text": "It's supposed to be very secret."
+    },
+    {
+      "timestamp": [
+        455.8,
+        458.4
+      ],
+      "text": "The information must have leaked out somehow."
+    },
+    {
+      "timestamp": [
+        458.4,
+        462.0
+      ],
+      "text": "Oh well, all inventors know about what he is trying to do."
+    },
+    {
+      "timestamp": [
+        462.0,
+        466.4
+      ],
+      "text": "He's famous throughout Moomin Valley this snork."
+    },
+    {
+      "timestamp": [
+        468.64,
+        474.48
+      ],
+      "text": "Really? Are you an inventor too? Indeed I am. One of the more famous. I think maybe the most famous of them all."
+    },
+    {
+      "timestamp": [
+        474.48,
+        478.48
+      ],
+      "text": "I am Moomin Papa. How do you do sir? I'm Snuffkin."
+    },
+    {
+      "timestamp": [
+        478.48,
+        486.0
+      ],
+      "text": "And my name is Moomin. Please to meet you. A very good date you won and all. The muffles, my name."
+    },
+    {
+      "timestamp": [
+        489.0,
+        492.0
+      ],
+      "text": "I said I'm the muffled."
+    },
+    {
+      "timestamp": [
+        493.0,
+        497.0
+      ],
+      "text": "You mean you've never even heard of me the most famous inventor."
+    },
+    {
+      "timestamp": [
+        497.0,
+        502.0
+      ],
+      "text": "Oh yes, I'm sure I am. The muffled isn't it? Yes, it is the muffled."
+    },
+    {
+      "timestamp": [
+        502.0,
+        506.3
+      ],
+      "text": "Have you invented anything exciting, muffuffle? Mr. Muffle?"
+    },
+    {
+      "timestamp": [
+        506.3,
+        511.3
+      ],
+      "text": "Ah, it would be much easier to tell you what I haven't invented young man."
+    },
+    {
+      "timestamp": [
+        511.3,
+        514.78
+      ],
+      "text": "For instance, the pin that can't prick because it has two heads."
+    },
+    {
+      "timestamp": [
+        514.78,
+        519.56
+      ],
+      "text": "The newspaper that reads itself, the purse that moans and groans if you take money from"
+    },
+    {
+      "timestamp": [
+        519.56,
+        522.78
+      ],
+      "text": "it, the adhesive tape that sticks only to itself."
+    },
+    {
+      "timestamp": [
+        522.78,
+        526.62
+      ],
+      "text": "This is perhaps the greatest of all my latest inventions."
+    },
+    {
+      "timestamp": [
+        526.62,
+        528.84
+      ],
+      "text": "Whatever is that?"
+    },
+    {
+      "timestamp": [
+        528.84,
+        531.86
+      ],
+      "text": "This is proper self a man powered fan."
+    },
+    {
+      "timestamp": [
+        531.86,
+        533.86
+      ],
+      "text": "Infanible in muddy weather."
+    },
+    {
+      "timestamp": [
+        533.86,
+        534.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        534.86,
+        535.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        535.86,
+        536.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        536.86,
+        537.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        537.86,
+        538.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        538.86,
+        539.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        539.86,
+        540.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        540.86,
+        541.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        541.86,
+        542.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        542.86,
+        543.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        543.86,
+        544.86
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        544.86,
+        547.0
+      ],
+      "text": "Oh! Oh! Oh! Oh! Oh! Oh, these are my latest inventions."
+    },
+    {
+      "timestamp": [
+        547.0,
+        549.0
+      ],
+      "text": "You didn't know that did you?"
+    },
+    {
+      "timestamp": [
+        549.0,
+        551.0
+      ],
+      "text": "No, it isn't."
+    },
+    {
+      "timestamp": [
+        551.0,
+        555.0
+      ],
+      "text": "But try and give her handkerchief, the square balloon,"
+    },
+    {
+      "timestamp": [
+        555.0,
+        558.0
+      ],
+      "text": "the five wheeled car, the hexagonal frying pan,"
+    },
+    {
+      "timestamp": [
+        558.0,
+        561.0
+      ],
+      "text": "the seven hole button, and a host of others."
+    },
+    {
+      "timestamp": [
+        561.0,
+        563.0
+      ],
+      "text": "Indeed, how interesting."
+    },
+    {
+      "timestamp": [
+        563.0,
+        566.0
+      ],
+      "text": "What did you want to see the snork about?"
+    },
+    {
+      "timestamp": [
+        566.0,
+        568.0
+      ],
+      "text": "I thought I might be able to help him out"
+    },
+    {
+      "timestamp": [
+        568.0,
+        570.0
+      ],
+      "text": "with one of my inventions. That's what?"
+    },
+    {
+      "timestamp": [
+        570.0,
+        572.0
+      ],
+      "text": "Oh, Jill, which one?"
+    },
+    {
+      "timestamp": [
+        572.0,
+        574.0
+      ],
+      "text": "My new?"
+    },
+    {
+      "timestamp": [
+        574.0,
+        577.0
+      ],
+      "text": "No, it's very top-sequence stuff I can tell you."
+    },
+    {
+      "timestamp": [
+        577.0,
+        580.0
+      ],
+      "text": "Now, where is the snork's factory?"
+    },
+    {
+      "timestamp": [
+        580.0,
+        582.0
+      ],
+      "text": "I'll take you right there."
+    },
+    {
+      "timestamp": [
+        582.0,
+        583.0
+      ],
+      "text": "Very kind of you."
+    },
+    {
+      "timestamp": [
+        583.0,
+        585.6
+      ],
+      "text": "Come, he'll be so surprised."
+    },
+    {
+      "timestamp": [
+        585.6,
+        587.6
+      ],
+      "text": "Must be off. See you again."
+    },
+    {
+      "timestamp": [
+        587.6,
+        589.8
+      ],
+      "text": "It's a pleasure to help these buddy inventors."
+    },
+    {
+      "timestamp": [
+        589.8,
+        591.8
+      ],
+      "text": "Snurker will be so excited."
+    },
+    {
+      "timestamp": [
+        591.8,
+        594.3
+      ],
+      "text": "A famous inventor, eh?"
+    },
+    {
+      "timestamp": [
+        594.3,
+        596.3
+      ],
+      "text": "What is your opinion, Snurfkin?"
+    },
+    {
+      "timestamp": [
+        596.3,
+        599.3
+      ],
+      "text": "Have you ever seen a triangular hanker chief, Moomin Papa?"
+    },
+    {
+      "timestamp": [
+        599.3,
+        602.1
+      ],
+      "text": "No, and I don't want to either."
+    },
+    {
+      "timestamp": [
+        602.1,
+        605.44
+      ],
+      "text": "I do wonder what he's cooked up for the snork, though."
+    },
+    {
+      "timestamp": [
+        605.44,
+        607.16
+      ],
+      "text": "It is sort of intriguing."
+    },
+    {
+      "timestamp": [
+        607.16,
+        608.28
+      ],
+      "text": "Yes, indeed."
+    },
+    {
+      "timestamp": [
+        608.28,
+        610.68
+      ],
+      "text": "We'll be able to tell us later, I suppose."
+    },
+    {
+      "timestamp": [
+        610.68,
+        613.16
+      ],
+      "text": "Yes, but anything could happen before then."
+    },
+    {
+      "timestamp": [
+        613.16,
+        615.16
+      ],
+      "text": "Can we wait that long, snuffkin?"
+    },
+    {
+      "timestamp": [
+        615.16,
+        616.16
+      ],
+      "text": "You're right."
+    },
+    {
+      "timestamp": [
+        619.92,
+        621.04
+      ],
+      "text": "No, wait for me."
+    },
+    {
+      "timestamp": [
+        621.04,
+        622.2
+      ],
+      "text": "I'm coming with you."
+    },
+    {
+      "timestamp": [
+        626.7,
+        628.9
+      ],
+      "text": "Oh, I thought we had several guests!"
+    },
+    {
+      "timestamp": [
+        629.7,
+        650.0
+      ],
+      "text": "Now where in the world to, I wonder?"
+    },
+    {
+      "timestamp": [
+        650.0,
+        660.0
+      ],
+      "text": "Oh, look who's coming!"
+    },
+    {
+      "timestamp": [
+        660.0,
+        666.0
+      ],
+      "text": "What are you doing here? We're just interested, Dan. Where are the mufflers and the snorke?"
+    },
+    {
+      "timestamp": [
+        666.0,
+        670.0
+      ],
+      "text": "The snorke and the mufflers are discussing some top secret project."
+    },
+    {
+      "timestamp": [
+        670.0,
+        672.0
+      ],
+      "text": "It's very harsh."
+    },
+    {
+      "timestamp": [
+        672.0,
+        674.0
+      ],
+      "text": "Not a triangular hanker chief, I hope."
+    },
+    {
+      "timestamp": [
+        674.0,
+        676.0
+      ],
+      "text": "I don't know, Papa."
+    },
+    {
+      "timestamp": [
+        676.0,
+        678.0
+      ],
+      "text": "As I said, it's top secret."
+    },
+    {
+      "timestamp": [
+        678.0,
+        680.0
+      ],
+      "text": "Let's see."
+    },
+    {
+      "timestamp": [
+        680.0,
+        682.0
+      ],
+      "text": "Oh, bother."
+    },
+    {
+      "timestamp": [
+        682.0,
+        686.0
+      ],
+      "text": "The curtains in the back are all over the place. I don't know, Papa. As I said, it's top secret. Mm-hmm, let's see."
+    },
+    {
+      "timestamp": [
+        686.0,
+        691.8
+      ],
+      "text": "Oh, Father, the curtains in the way, so I can't see a thing."
+    },
+    {
+      "timestamp": [
+        691.8,
+        698.76
+      ],
+      "text": "So this is the powerful fuel you've developed, is it, Mr. Muffel?"
+    },
+    {
+      "timestamp": [
+        698.76,
+        699.76
+      ],
+      "text": "Yes, it is."
+    },
+    {
+      "timestamp": [
+        699.76,
+        702.52
+      ],
+      "text": "Not as original as my other inventions I admit."
+    },
+    {
+      "timestamp": [
+        702.52,
+        703.52
+      ],
+      "text": "But very useful."
+    },
+    {
+      "timestamp": [
+        703.52,
+        704.52
+      ],
+      "text": "Yes, useful."
+    },
+    {
+      "timestamp": [
+        704.52,
+        705.88
+      ],
+      "text": "I call it super fuel."
+    },
+    {
+      "timestamp": [
+        705.88,
+        710.64
+      ],
+      "text": "Only trouble is my engine has been designed for liquid fuel."
+    },
+    {
+      "timestamp": [
+        710.64,
+        712.44
+      ],
+      "text": "No problem at all young man."
+    },
+    {
+      "timestamp": [
+        712.44,
+        715.88
+      ],
+      "text": "If you dissolve this block of fuel in 10 liters of water,"
+    },
+    {
+      "timestamp": [
+        715.88,
+        719.0
+      ],
+      "text": "your engine will run for at least 10 hours."
+    },
+    {
+      "timestamp": [
+        719.0,
+        722.24
+      ],
+      "text": "For 10 whole hours, that's incredible."
+    },
+    {
+      "timestamp": [
+        722.24,
+        723.92
+      ],
+      "text": "If you doubt the word of the muffler,"
+    },
+    {
+      "timestamp": [
+        723.92,
+        727.0
+      ],
+      "text": "then try it out and see for yourself right now."
+    },
+    {
+      "timestamp": [
+        727.0,
+        728.0
+      ],
+      "text": "Right now?"
+    },
+    {
+      "timestamp": [
+        728.0,
+        735.0
+      ],
+      "text": "Better still, I guarantee that if used as it is in a solid state, your engine will run not for ten, but for one hundred hours."
+    },
+    {
+      "timestamp": [
+        735.0,
+        740.0
+      ],
+      "text": "A hundred hours, but that's incredible. You really must be some inventor."
+    },
+    {
+      "timestamp": [
+        740.0,
+        745.0
+      ],
+      "text": "Indeed, if what you say is true, it would solve the last problem of my flying ship."
+    },
+    {
+      "timestamp": [
+        745.0,
+        751.0
+      ],
+      "text": "Oh, now that I've looked more closely at the padlock, this store isn't locked."
+    },
+    {
+      "timestamp": [
+        751.0,
+        752.0
+      ],
+      "text": "No, it isn't."
+    },
+    {
+      "timestamp": [
+        752.0,
+        756.0
+      ],
+      "text": "Hmm, so if one wanted to see the snorke, one could work right here."
+    },
+    {
+      "timestamp": [
+        756.0,
+        758.0
+      ],
+      "text": "But why would you want to see him, Papa?"
+    },
+    {
+      "timestamp": [
+        758.0,
+        761.0
+      ],
+      "text": "Well, why don't you tell us?"
+    },
+    {
+      "timestamp": [
+        761.0,
+        766.56
+      ],
+      "text": "I don't want snorke falling for one of the muffles crazy ideas, that's why."
+    },
+    {
+      "timestamp": [
+        766.56,
+        768.56
+      ],
+      "text": "Well, we'll find out pretty soon."
+    },
+    {
+      "timestamp": [
+        768.56,
+        772.24
+      ],
+      "text": "Maybe you don't realize it, but the snork is pretty clever, you know."
+    },
+    {
+      "timestamp": [
+        773.24,
+        776.04
+      ],
+      "text": "I think I know exactly what they're doing in there."
+    },
+    {
+      "timestamp": [
+        776.04,
+        777.56
+      ],
+      "text": "Yeah, what?"
+    },
+    {
+      "timestamp": [
+        779.56,
+        782.56
+      ],
+      "text": "I saw that man pouring something into the flying ship."
+    },
+    {
+      "timestamp": [
+        782.56,
+        783.56
+      ],
+      "text": "What was it?"
+    },
+    {
+      "timestamp": [
+        783.56,
+        785.56
+      ],
+      "text": "Well, I guess it must have been fuel, movement."
+    },
+    {
+      "timestamp": [
+        785.56,
+        787.16
+      ],
+      "text": "How come you show him?"
+    },
+    {
+      "timestamp": [
+        787.16,
+        789.6
+      ],
+      "text": "There's a crack that's just about wide enough for me."
+    },
+    {
+      "timestamp": [
+        789.6,
+        791.3
+      ],
+      "text": "But I won't tell you where."
+    },
+    {
+      "timestamp": [
+        791.3,
+        793.4
+      ],
+      "text": "What are those two in there talking about?"
+    },
+    {
+      "timestamp": [
+        793.4,
+        794.64
+      ],
+      "text": "Oh, yeah?"
+    },
+    {
+      "timestamp": [
+        794.64,
+        796.8
+      ],
+      "text": "So this is the great super fuel?"
+    },
+    {
+      "timestamp": [
+        796.8,
+        797.96
+      ],
+      "text": "Wait a minute, Snark."
+    },
+    {
+      "timestamp": [
+        797.96,
+        799.56
+      ],
+      "text": "There must be something wrong with it."
+    },
+    {
+      "timestamp": [
+        799.56,
+        800.36
+      ],
+      "text": "Yeah, you are."
+    },
+    {
+      "timestamp": [
+        800.36,
+        801.16
+      ],
+      "text": "What the..."
+    },
+    {
+      "timestamp": [
+        801.16,
+        802.24
+      ],
+      "text": "How do you do it?"
+    },
+    {
+      "timestamp": [
+        802.24,
+        803.24
+      ],
+      "text": "There you are."
+    },
+    {
+      "timestamp": [
+        803.24,
+        804.88
+      ],
+      "text": "Solid fuel indeed, huh?"
+    },
+    {
+      "timestamp": [
+        804.88,
+        806.0
+      ],
+      "text": "100 hours?"
+    },
+    {
+      "timestamp": [
+        806.0,
+        807.56
+      ],
+      "text": "You're an imposter, sir."
+    },
+    {
+      "timestamp": [
+        807.56,
+        810.76
+      ],
+      "text": "Oh, it isn't true if you just let me explain."
+    },
+    {
+      "timestamp": [
+        810.76,
+        811.88
+      ],
+      "text": "No, thank you."
+    },
+    {
+      "timestamp": [
+        811.88,
+        813.88
+      ],
+      "text": "I know very well why you came over here"
+    },
+    {
+      "timestamp": [
+        813.88,
+        817.36
+      ],
+      "text": "with that ridiculous story off with you right now."
+    },
+    {
+      "timestamp": [
+        817.36,
+        818.56
+      ],
+      "text": "Listen to me."
+    },
+    {
+      "timestamp": [
+        818.56,
+        822.4
+      ],
+      "text": "It is not ridiculous, and it is not just a story."
+    },
+    {
+      "timestamp": [
+        822.4,
+        825.0
+      ],
+      "text": "Maybe we shouldn't have dissolved it in the water."
+    },
+    {
+      "timestamp": [
+        825.0,
+        826.16
+      ],
+      "text": "That was a mistake."
+    },
+    {
+      "timestamp": [
+        826.16,
+        827.08
+      ],
+      "text": "Imposter!"
+    },
+    {
+      "timestamp": [
+        827.08,
+        827.96
+      ],
+      "text": "But I'm the muffler!"
+    },
+    {
+      "timestamp": [
+        827.96,
+        828.96
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        828.96,
+        831.08
+      ],
+      "text": "Well, maybe it's just a misunderstanding"
+    },
+    {
+      "timestamp": [
+        831.08,
+        833.2
+      ],
+      "text": "and the fuel isn't suited for flying ships."
+    },
+    {
+      "timestamp": [
+        833.2,
+        834.88
+      ],
+      "text": "Wrong, it suits everything!"
+    },
+    {
+      "timestamp": [
+        834.88,
+        836.32
+      ],
+      "text": "Forget the fuel!"
+    },
+    {
+      "timestamp": [
+        836.32,
+        838.24
+      ],
+      "text": "That was just a trick so we could come here"
+    },
+    {
+      "timestamp": [
+        838.24,
+        840.64
+      ],
+      "text": "and get to see my flying ship."
+    },
+    {
+      "timestamp": [
+        840.64,
+        843.64
+      ],
+      "text": "So the muffler has come here to spy me."
+    },
+    {
+      "timestamp": [
+        843.64,
+        844.92
+      ],
+      "text": "Ridiculous!"
+    },
+    {
+      "timestamp": [
+        844.92,
+        845.5
+      ],
+      "text": "I don't steal!"
+    },
+    {
+      "timestamp": [
+        845.5,
+        848.0
+      ],
+      "text": "Papa, was there anything you wanted to see me about?"
+    },
+    {
+      "timestamp": [
+        848.0,
+        849.0
+      ],
+      "text": "Eh?"
+    },
+    {
+      "timestamp": [
+        849.0,
+        852.0
+      ],
+      "text": "No, I just dropped by."
+    },
+    {
+      "timestamp": [
+        852.0,
+        854.0
+      ],
+      "text": "No cause for excitement."
+    },
+    {
+      "timestamp": [
+        854.0,
+        855.5
+      ],
+      "text": "The fuels are done."
+    },
+    {
+      "timestamp": [
+        855.5,
+        857.5
+      ],
+      "text": "No, it's not. That's not true."
+    },
+    {
+      "timestamp": [
+        857.5,
+        860.5
+      ],
+      "text": "I don't invent guns. What would be the point of inventing them?"
+    },
+    {
+      "timestamp": [
+        860.5,
+        862.5
+      ],
+      "text": "Oh, listen to me, please."
+    },
+    {
+      "timestamp": [
+        862.5,
+        864.5
+      ],
+      "text": "Let's try and use the fuel once more."
+    },
+    {
+      "timestamp": [
+        864.5,
+        866.0
+      ],
+      "text": "No, thanks. Once was once too many."
+    },
+    {
+      "timestamp": [
+        866.0,
+        868.0
+      ],
+      "text": "I'll have to clean my tanks from your gunge."
+    },
+    {
+      "timestamp": [
+        868.0,
+        870.0
+      ],
+      "text": "Get out of my sight!"
+    },
+    {
+      "timestamp": [
+        880.0,
+        884.0
+      ],
+      "text": "Oh, dear, this must have been a bit of a disappointment for the snork."
+    },
+    {
+      "timestamp": [
+        884.0,
+        885.16
+      ],
+      "text": "I know."
+    },
+    {
+      "timestamp": [
+        893.8,
+        895.64
+      ],
+      "text": "Now listen, stinky."
+    },
+    {
+      "timestamp": [
+        895.64,
+        898.84
+      ],
+      "text": "I'm doing this for the snorksake, isn't that so?"
+    },
+    {
+      "timestamp": [
+        898.84,
+        903.28
+      ],
+      "text": "I don't care if you're doing it for all I want is to get a good look at the famous flying ship."
+    },
+    {
+      "timestamp": [
+        903.28,
+        907.16
+      ],
+      "text": "You'd need something very powerful to get a thing like that off the ground."
+    },
+    {
+      "timestamp": [
+        907.16,
+        911.2
+      ],
+      "text": "Something so powerful that only I, the muffle, could ever have invented it."
+    },
+    {
+      "timestamp": [
+        911.2,
+        914.8
+      ],
+      "text": "Remind me one day to show you my famous triangular handkerchief."
+    },
+    {
+      "timestamp": [
+        914.8,
+        919.64
+      ],
+      "text": "Now all we have to do is not dissolve the fuel in water but use the solid fuel."
+    },
+    {
+      "timestamp": [
+        919.64,
+        924.4
+      ],
+      "text": "Hurry up with that log, Sticky, or maybe I should invent a log pick."
+    },
+    {
+      "timestamp": [
+        924.4,
+        925.48
+      ],
+      "text": "Come on, sticky."
+    },
+    {
+      "timestamp": [
+        925.48,
+        926.48
+      ],
+      "text": "Hurry, hurry."
+    },
+    {
+      "timestamp": [
+        926.48,
+        929.56
+      ],
+      "text": "There you are done."
+    },
+    {
+      "timestamp": [
+        929.56,
+        931.68
+      ],
+      "text": "Good come, we don't have much time."
+    },
+    {
+      "timestamp": [
+        931.68,
+        933.56
+      ],
+      "text": "No, I'm dying to steer this ship."
+    },
+    {
+      "timestamp": [
+        933.56,
+        937.08
+      ],
+      "text": "Oh, me up."
+    },
+    {
+      "timestamp": [
+        937.08,
+        939.0
+      ],
+      "text": "Take it up to 2,000 meters."
+    },
+    {
+      "timestamp": [
+        939.0,
+        940.0
+      ],
+      "text": "Yeah."
+    },
+    {
+      "timestamp": [
+        940.0,
+        942.52
+      ],
+      "text": "Whoa."
+    },
+    {
+      "timestamp": [
+        942.52,
+        944.24
+      ],
+      "text": "Oh, sticky, sticky."
+    },
+    {
+      "timestamp": [
+        944.24,
+        947.32
+      ],
+      "text": "We're flying at a height of just over 2,000 meters now."
+    },
+    {
+      "timestamp": [
+        947.32,
+        948.32
+      ],
+      "text": "stinky!"
+    },
+    {
+      "timestamp": [
+        948.32,
+        949.64
+      ],
+      "text": "Yeah, I'm listening, what is it?"
+    },
+    {
+      "timestamp": [
+        949.64,
+        952.24
+      ],
+      "text": "When you hear me say now, that's when I want you"
+    },
+    {
+      "timestamp": [
+        952.24,
+        954.44
+      ],
+      "text": "to start up the engine immediately."
+    },
+    {
+      "timestamp": [
+        954.44,
+        955.96
+      ],
+      "text": "All right, no problem."
+    },
+    {
+      "timestamp": [
+        955.96,
+        957.48
+      ],
+      "text": "Guess it must be this one."
+    },
+    {
+      "timestamp": [
+        957.48,
+        958.72
+      ],
+      "text": "No, no, not yet."
+    },
+    {
+      "timestamp": [
+        958.72,
+        959.84
+      ],
+      "text": "This is it!"
+    },
+    {
+      "timestamp": [
+        959.84,
+        962.88
+      ],
+      "text": "Just a drop of water on the fuel block."
+    },
+    {
+      "timestamp": [
+        962.88,
+        964.52
+      ],
+      "text": "Now that should do it."
+    },
+    {
+      "timestamp": [
+        964.52,
+        966.0
+      ],
+      "text": "Can I start it now?"
+    },
+    {
+      "timestamp": [
+        966.0,
+        967.0
+      ],
+      "text": "Not yet!"
+    },
+    {
+      "timestamp": [
+        967.0,
+        969.0
+      ],
+      "text": "Alright!"
+    },
+    {
+      "timestamp": [
+        972.0,
+        975.0
+      ],
+      "text": "Now start on the interesting key!"
+    },
+    {
+      "timestamp": [
+        975.0,
+        976.0
+      ],
+      "text": "Now you answer!"
+    },
+    {
+      "timestamp": [
+        979.0,
+        981.0
+      ],
+      "text": "Did you really turn on the switch?"
+    },
+    {
+      "timestamp": [
+        981.0,
+        982.0
+      ],
+      "text": "Yes I did!"
+    },
+    {
+      "timestamp": [
+        983.0,
+        984.0
+      ],
+      "text": "The engine won't start."
+    },
+    {
+      "timestamp": [
+        984.0,
+        987.0
+      ],
+      "text": "Are you quite sure you turned the one I pointed out to you?"
+    },
+    {
+      "timestamp": [
+        987.0,
+        990.0
+      ],
+      "text": "I think so. Maybe I turned the wrong one."
+    },
+    {
+      "timestamp": [
+        990.0,
+        992.0
+      ],
+      "text": "There. Outside these two is well."
+    },
+    {
+      "timestamp": [
+        992.0,
+        997.0
+      ],
+      "text": "Come on, stinky. This is no joke. My reputation is a famous inventor. Is it steak?"
+    },
+    {
+      "timestamp": [
+        997.0,
+        1001.0
+      ],
+      "text": "This should do it, I think. Is that work, Mr. Mapple?"
+    },
+    {
+      "timestamp": [
+        1001.0,
+        1005.6
+      ],
+      "text": "Nothing is happening. I do. I shouldn't have let you do it better to do it myself."
+    },
+    {
+      "timestamp": [
+        1005.6,
+        1006.76
+      ],
+      "text": "You're useless."
+    },
+    {
+      "timestamp": [
+        1006.76,
+        1008.08
+      ],
+      "text": "Wait, Mr. Mapple."
+    },
+    {
+      "timestamp": [
+        1008.08,
+        1010.16
+      ],
+      "text": "I haven't tried the very last one in the row."
+    },
+    {
+      "timestamp": [
+        1010.16,
+        1010.96
+      ],
+      "text": "This one switched."
+    },
+    {
+      "timestamp": [
+        1010.96,
+        1012.2
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        1012.2,
+        1013.48
+      ],
+      "text": "I better throw that one too."
+    },
+    {
+      "timestamp": [
+        1013.48,
+        1015.4
+      ],
+      "text": "You never know. It might just do the trick."
+    },
+    {
+      "timestamp": [
+        1015.4,
+        1016.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1016.4,
+        1017.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1017.4,
+        1018.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1018.4,
+        1019.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1019.4,
+        1020.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1020.4,
+        1021.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1021.4,
+        1022.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1022.4,
+        1023.4
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1023.4,
+        1024.4
+      ],
+      "text": "It works."
+    },
+    {
+      "timestamp": [
+        1024.4,
+        1027.0
+      ],
+      "text": "It works. I know it works. I know it works. Oh. It works! It works! I know it works!"
+    },
+    {
+      "timestamp": [
+        1027.0,
+        1028.0
+      ],
+      "text": "I know it works!"
+    },
+    {
+      "timestamp": [
+        1028.0,
+        1030.0
+      ],
+      "text": "It is working!"
+    },
+    {
+      "timestamp": [
+        1040.0,
+        1044.0
+      ],
+      "text": "I'm not surprised, but I'm so pleased with myself."
+    },
+    {
+      "timestamp": [
+        1044.0,
+        1050.0
+      ],
+      "text": "You should be here, Snort. This is my great moment, and you should be here to share it with me."
+    },
+    {
+      "timestamp": [
+        1050.0,
+        1054.0
+      ],
+      "text": "Come on, I can't wait to try this thing."
+    },
+    {
+      "timestamp": [
+        1057.0,
+        1061.0
+      ],
+      "text": "Incredible! This ship shall rise like a Phoenix."
+    },
+    {
+      "timestamp": [
+        1061.0,
+        1064.0
+      ],
+      "text": "Not the most demanding thing, but this is one of my diesel inventions."
+    },
+    {
+      "timestamp": [
+        1064.0,
+        1066.24
+      ],
+      "text": "Ha, ha! Ha!"
+    },
+    {
+      "timestamp": [
+        1072.24,
+        1074.5
+      ],
+      "text": "Casper! Casper!"
+    },
+    {
+      "timestamp": [
+        1074.5,
+        1076.5
+      ],
+      "text": "Winner!"
+    },
+    {
+      "timestamp": [
+        1087.0,
+        1090.0
+      ],
+      "text": "Come on, let's go! Come on!"
+    },
+    {
+      "timestamp": [
+        1090.0,
+        1094.0
+      ],
+      "text": "Sheer power!"
+    },
+    {
+      "timestamp": [
+        1094.0,
+        1097.0
+      ],
+      "text": "I don't think he ever has started up."
+    },
+    {
+      "timestamp": [
+        1097.0,
+        1101.0
+      ],
+      "text": "I very much have created exploding!"
+    },
+    {
+      "timestamp": [
+        1101.0,
+        1103.0
+      ],
+      "text": "Hey stinky religions exploding!"
+    },
+    {
+      "timestamp": [
+        1103.0,
+        1105.0
+      ],
+      "text": "Where the fuck are you going?"
+    },
+    {
+      "timestamp": [
+        1105.0,
+        1106.0
+      ],
+      "text": "A bad shit!"
+    },
+    {
+      "timestamp": [
+        1106.0,
+        1142.0
+      ],
+      "text": "It's going to explode any minute by a wonderful invention! Hmm? Ah!"
+    },
+    {
+      "timestamp": [
+        1150.0,
+        1154.0
+      ],
+      "text": "Oh! Oh! Now come to your nice room on the small side but the very best one."
+    },
+    {
+      "timestamp": [
+        1154.0,
+        1158.0
+      ],
+      "text": "That explosion...it really was most unexpected officer."
+    },
+    {
+      "timestamp": [
+        1158.0,
+        1162.0
+      ],
+      "text": "Everybody knows you're a great inventor. I wonder if you could help me Mr. Muffle."
+    },
+    {
+      "timestamp": [
+        1162.0,
+        1164.0
+      ],
+      "text": "But how?"
+    },
+    {
+      "timestamp": [
+        1164.0,
+        1167.2
+      ],
+      "text": "Could you think of something to protect my roses while you're staying with us?"
+    },
+    {
+      "timestamp": [
+        1167.2,
+        1169.2
+      ],
+      "text": "A non-explosive, of course."
+    },
+    {
+      "timestamp": [
+        1169.2,
+        1170.2
+      ],
+      "text": "Of course I could."
+    },
+    {
+      "timestamp": [
+        1170.2,
+        1171.8
+      ],
+      "text": "Piece of cake, officer."
+    },
+    {
+      "timestamp": [
+        1174.2,
+        1176.6
+      ],
+      "text": "Oh, I really did want to fly."
+    },
+    {
+      "timestamp": [
+        1179.0,
+        1182.0
+      ],
+      "text": "Come, come now, cheer up, snorke dear."
+    },
+    {
+      "timestamp": [
+        1182.0,
+        1184.6
+      ],
+      "text": "Here you are, a nice cup of tea."
+    },
+    {
+      "timestamp": [
+        1184.6,
+        1185.96
+      ],
+      "text": "Thanks."
+    },
+    {
+      "timestamp": [
+        1185.96,
+        1187.96
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1187.96,
+        1192.48
+      ],
+      "text": "It's very strange, but I had a dream the other night about a flying ship."
+    },
+    {
+      "timestamp": [
+        1192.48,
+        1196.12
+      ],
+      "text": "Did you really move in? That sounds very interesting."
+    },
+    {
+      "timestamp": [
+        1196.12,
+        1197.8
+      ],
+      "text": "Yes, very interesting."
+    },
+    {
+      "timestamp": [
+        1197.8,
+        1199.6
+      ],
+      "text": "Moment, tell me about it."
+    },
+    {
+      "timestamp": [
+        1199.6,
+        1206.16
+      ],
+      "text": "Yes. It was a peculiar looking ship totally different from Northline ships, Snork."
+    },
+    {
+      "timestamp": [
+        1206.16,
+        1207.16
+      ],
+      "text": "Different?"
+    },
+    {
+      "timestamp": [
+        1207.16,
+        1208.16
+      ],
+      "text": "Oh."
+    },
+    {
+      "timestamp": [
+        1208.16,
+        1211.6
+      ],
+      "text": "Well, it was sort of round like this."
+    },
+    {
+      "timestamp": [
+        1211.6,
+        1216.4
+      ],
+      "text": "It had a propeller and something hanging underneath."
+    },
+    {
+      "timestamp": [
+        1216.4,
+        1219.84
+      ],
+      "text": "And we flew over a high mountain."
+    },
+    {
+      "timestamp": [
+        1219.84,
+        1220.84
+      ],
+      "text": "Round?"
+    },
+    {
+      "timestamp": [
+        1220.84,
+        1221.84
+      ],
+      "text": "Yes."
+    },
+    {
+      "timestamp": [
+        1221.84,
+        1224.44
+      ],
+      "text": "And you were in a sort of thing hanging underneath."
+    },
+    {
+      "timestamp": [
+        1224.44,
+        1225.0
+      ],
+      "text": "Yes. Round. were in a sort of thing hanging underneath. Yes."
+    },
+    {
+      "timestamp": [
+        1225.0,
+        1226.0
+      ],
+      "text": "Round."
+    },
+    {
+      "timestamp": [
+        1226.0,
+        1228.0
+      ],
+      "text": "Round, huh?"
+    },
+    {
+      "timestamp": [
+        1228.0,
+        1230.0
+      ],
+      "text": "Round."
+    },
+    {
+      "timestamp": [
+        1230.0,
+        1235.0
+      ],
+      "text": "What, ever's the match I snuck?"
+    },
+    {
+      "timestamp": [
+        1235.0,
+        1236.0
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        1236.0,
+        1237.0
+      ],
+      "text": "Oh, mama."
+    },
+    {
+      "timestamp": [
+        1237.0,
+        1238.0
+      ],
+      "text": "Thanks for the tea."
+    },
+    {
+      "timestamp": [
+        1238.0,
+        1240.0
+      ],
+      "text": "I think I'm getting a new idea."
+    },
+    {
+      "timestamp": [
+        1240.0,
+        1241.0
+      ],
+      "text": "Moving."
+    },
+    {
+      "timestamp": [
+        1241.0,
+        1242.0
+      ],
+      "text": "See you later."
+    },
+    {
+      "timestamp": [
+        1242.0,
+        1244.0
+      ],
+      "text": "Papa, I must go."
+    },
+    {
+      "timestamp": [
+        1244.0,
+        1246.96
+      ],
+      "text": "Oh, there he goes again. I know that, see you later. Papa, I must go. Oh, fair he goes again."
+    },
+    {
+      "timestamp": [
+        1246.96,
+        1248.4
+      ],
+      "text": "I know that, look, Mama."
+    },
+    {
+      "timestamp": [
+        1248.4,
+        1253.0
+      ],
+      "text": "You won't get an intelligent answer out of him for the next month or so, honestly."
+    },
+    {
+      "timestamp": [
+        1253.0,
+        1254.8
+      ],
+      "text": "I'm very happy for him."
+    },
+    {
+      "timestamp": [
+        1254.8,
+        1258.2
+      ],
+      "text": "I must say that was a very clever dream you had, woman."
+    },
+    {
+      "timestamp": [
+        1258.2,
+        1261.04
+      ],
+      "text": "I'm a better inventor than the mobile."
+    },
+    {
+      "timestamp": [
+        1261.04,
+        1264.0
+      ],
+      "text": "You deserve a triangular acruchy."
+    },
+    {
+      "timestamp": [
+        1264.0,
+        1270.0
+      ],
+      "text": "So the explosion didn't distress the sword for long."
+    },
+    {
+      "timestamp": [
+        1270.0,
+        1273.0
+      ],
+      "text": "Soon he was back at his favorite occupation, planning."
+    },
+    {
+      "timestamp": [
+        1273.0,
+        1275.0
+      ],
+      "text": "But planning what?"
+    },
+    {
+      "timestamp": [
+        1275.0,
+        1276.0
+      ],
+      "text": "Rome."
+    },
+    {
+      "timestamp": [
+        1276.0,
+        1287.0
+      ],
+      "text": "Rome? Wrong"
+    },
+    {
+      "timestamp": [
+        1287.0,
+        1292.0
+      ],
+      "text": "Wrong"
+    },
+    {
+      "timestamp": [
+        1292.0,
+        1307.0
+      ],
+      "text": "They love the laughter and and caring and giving the movements"
+    },
+    {
+      "timestamp": [
+        1307.0,
+        1311.0
+      ],
+      "text": "They're always happy and goes at play"
+    },
+    {
+      "timestamp": [
+        1311.0,
+        1318.0
+      ],
+      "text": "The moments I've been fun day after day, the movements"
+    },
+    {
+      "timestamp": [
+        1318.0,
+        1328.0
+      ],
+      "text": "The movements, the movements The most"
+    }
+  ],
+  "text": "Here they are for one and all. The movements are about to come. Come on and sit down here with me. They're here for you on your TV. They are the movements. They are the movements. So, what do you think? I'm going to say that I'm not going to say it. I'm going to say it. with me, therefore you are your TV, they are the movements, they are the movements, so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, sing that song ever, There was the moment, there was the moments There was the moments, there was the moments One night, the moment was having a dream. What a wonderful feeling to be flying like this! Look over there, woman! What a beautiful lake! This is one of the most fantastic experiences I've ever had! Me too! I never knew birds had such a marvelous life. Seeing things from a completely different point of view. We're flying pretty high aren't we? I'm scared. We're much too high. Let's go down please. Let's go down at once. I'm not scared of heights. Oh, Snork, this time you really have succeeded. Will I could build hundreds of these if you wanted me to? Snork, can I steer it just for a little while? Now you can. Huh? Oh, stinky. Do you really know how to steer this thing? Yeah! Hey! Stop it, stinky! That's dangerous! This is okay, really! It's just a dream! Oh, right. Oh gosh, my head hurt so... What a strange dream! Why would my brother let stinky stare his flying ship? Surely not. I was talking to a snork while I looked away, suddenly stinky took his place. Oh, and then the thing began tilting? Hmm, but it was just a dream. I don't care, I don't like it. You shouldn't have dreams like that just when my brother's flying ship is almost ready. Dreams often come true, you know. But it was nothing like the ship your brother's building, it was totally different. But tell me what happened to it in the end. Did it fall down? I don't know. I lost sight of it when I fell off and I didn't see it again. Well, surely you could have turned your hat to take a look. Well, I didn't. Listen, Mum, and don't say a word to the snork about this. He's nervous enough as it is. Of course not. Why don't we just forget about it? Pretend it never happened, eh? Oh, snork, it's finally completed. Sure it is, but it hasn't been flown yet, of course. But it will, I won't, Snork. You don't think there's anything wrong with it? Of course not, but it's just... Is there some problem, Snork? Well, there might be. So, what is it? Fuel. Fuel? But you said you had developed a new fuel that was really good. It's good, but you see you see it might not be powerful enough. You mean it might not be able to fly? No it won't. You're quite right. Or it will just be an ordinary ship, not a flying ship. Oh that would be nice. What can't go up can't possibly fall down. But that's not the point if it won't fly. Everyone will laugh at me. I know they will. I won't laugh, I promise. Maybe not. Others will. But you wouldn't care about that, would you? Who cares what other people think? The thing is, I've already told people that the test flight will be quite soon. In public. But I'm sure people will be very nice about it even if it doesn't get off the ground. That's hardly what I want. Moomin, I'd like to ask you a favor. That's why I sent for you. Will you help me? I'll do anything you ask, Snork, of course. What I would like is for you, Moomin, my friend, to be test pilot for me tomorrow. You want me to be a pilot? Hey, stinky stinky! Oh, Mom! Listen, stinky, I'm going to steer that shivers up perfectly clear. You're not to touch the wheel. I'm the pilot now. What on earth was that a bird? Wouldn't you find it difficult to steer it? Oh no, it's real easy. But of course, I'd need to practice before the public demonstration. Is the snorke going to fly his own ship? He'll be there but he has to stay down in the engine room snuff can. I wonder if this ship will really fly. The only problem is the fuel. Only the fuel you say. That's a big problem. I suppose so. Listen, Roman. Suppose now the snorke's flying ship really gets off the ground. Well, of course it's going to, Papa. That something could happen, something could break, or you could fall into an air pocket. It's such a dangerous undertaking, think, moment. Papa! Now, listen, it's not natural for the moment to fly about up in the air. Is it snuffkin'? Quite right. Well, when do you and the snorke do if things went wrong? We will be wearing parachutes, you know? Parachutes. You do know what they are, don't you, Papa? Of course I do. They come down from the sky like this, like this. Exactly. But of course, we won't need a parachute. Because nothing will go wrong. And I will be the first flying ship pilot ever. Oh. Hi there. Hello, my young man. Hello. How do you do? How do you do everybody? Hello, sir. Hello, sir. I wonder if you can help me. Do you happen to know where the snorks factory is? Eh? You mean the sherd? I must see him. I'm most eager to have a look at his famous flying ship. How do you know about that? It's supposed to be very secret. The information must have leaked out somehow. Oh well, all inventors know about what he is trying to do. He's famous throughout Moomin Valley this snork. Really? Are you an inventor too? Indeed I am. One of the more famous. I think maybe the most famous of them all. I am Moomin Papa. How do you do sir? I'm Snuffkin. And my name is Moomin. Please to meet you. A very good date you won and all. The muffles, my name. I said I'm the muffled. You mean you've never even heard of me the most famous inventor. Oh yes, I'm sure I am. The muffled isn't it? Yes, it is the muffled. Have you invented anything exciting, muffuffle? Mr. Muffle? Ah, it would be much easier to tell you what I haven't invented young man. For instance, the pin that can't prick because it has two heads. The newspaper that reads itself, the purse that moans and groans if you take money from it, the adhesive tape that sticks only to itself. This is perhaps the greatest of all my latest inventions. Whatever is that? This is proper self a man powered fan. Infanible in muddy weather. Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh, these are my latest inventions. You didn't know that did you? No, it isn't. But try and give her handkerchief, the square balloon, the five wheeled car, the hexagonal frying pan, the seven hole button, and a host of others. Indeed, how interesting. What did you want to see the snork about? I thought I might be able to help him out with one of my inventions. That's what? Oh, Jill, which one? My new? No, it's very top-sequence stuff I can tell you. Now, where is the snork's factory? I'll take you right there. Very kind of you. Come, he'll be so surprised. Must be off. See you again. It's a pleasure to help these buddy inventors. Snurker will be so excited. A famous inventor, eh? What is your opinion, Snurfkin? Have you ever seen a triangular hanker chief, Moomin Papa? No, and I don't want to either. I do wonder what he's cooked up for the snork, though. It is sort of intriguing. Yes, indeed. We'll be able to tell us later, I suppose. Yes, but anything could happen before then. Can we wait that long, snuffkin? You're right. No, wait for me. I'm coming with you. Oh, I thought we had several guests! Now where in the world to, I wonder? Oh, look who's coming! What are you doing here? We're just interested, Dan. Where are the mufflers and the snorke? The snorke and the mufflers are discussing some top secret project. It's very harsh. Not a triangular hanker chief, I hope. I don't know, Papa. As I said, it's top secret. Let's see. Oh, bother. The curtains in the back are all over the place. I don't know, Papa. As I said, it's top secret. Mm-hmm, let's see. Oh, Father, the curtains in the way, so I can't see a thing. So this is the powerful fuel you've developed, is it, Mr. Muffel? Yes, it is. Not as original as my other inventions I admit. But very useful. Yes, useful. I call it super fuel. Only trouble is my engine has been designed for liquid fuel. No problem at all young man. If you dissolve this block of fuel in 10 liters of water, your engine will run for at least 10 hours. For 10 whole hours, that's incredible. If you doubt the word of the muffler, then try it out and see for yourself right now. Right now? Better still, I guarantee that if used as it is in a solid state, your engine will run not for ten, but for one hundred hours. A hundred hours, but that's incredible. You really must be some inventor. Indeed, if what you say is true, it would solve the last problem of my flying ship. Oh, now that I've looked more closely at the padlock, this store isn't locked. No, it isn't. Hmm, so if one wanted to see the snorke, one could work right here. But why would you want to see him, Papa? Well, why don't you tell us? I don't want snorke falling for one of the muffles crazy ideas, that's why. Well, we'll find out pretty soon. Maybe you don't realize it, but the snork is pretty clever, you know. I think I know exactly what they're doing in there. Yeah, what? I saw that man pouring something into the flying ship. What was it? Well, I guess it must have been fuel, movement. How come you show him? There's a crack that's just about wide enough for me. But I won't tell you where. What are those two in there talking about? Oh, yeah? So this is the great super fuel? Wait a minute, Snark. There must be something wrong with it. Yeah, you are. What the... How do you do it? There you are. Solid fuel indeed, huh? 100 hours? You're an imposter, sir. Oh, it isn't true if you just let me explain. No, thank you. I know very well why you came over here with that ridiculous story off with you right now. Listen to me. It is not ridiculous, and it is not just a story. Maybe we shouldn't have dissolved it in the water. That was a mistake. Imposter! But I'm the muffler! Oh! Well, maybe it's just a misunderstanding and the fuel isn't suited for flying ships. Wrong, it suits everything! Forget the fuel! That was just a trick so we could come here and get to see my flying ship. So the muffler has come here to spy me. Ridiculous! I don't steal! Papa, was there anything you wanted to see me about? Eh? No, I just dropped by. No cause for excitement. The fuels are done. No, it's not. That's not true. I don't invent guns. What would be the point of inventing them? Oh, listen to me, please. Let's try and use the fuel once more. No, thanks. Once was once too many. I'll have to clean my tanks from your gunge. Get out of my sight! Oh, dear, this must have been a bit of a disappointment for the snork. I know. Now listen, stinky. I'm doing this for the snorksake, isn't that so? I don't care if you're doing it for all I want is to get a good look at the famous flying ship. You'd need something very powerful to get a thing like that off the ground. Something so powerful that only I, the muffle, could ever have invented it. Remind me one day to show you my famous triangular handkerchief. Now all we have to do is not dissolve the fuel in water but use the solid fuel. Hurry up with that log, Sticky, or maybe I should invent a log pick. Come on, sticky. Hurry, hurry. There you are done. Good come, we don't have much time. No, I'm dying to steer this ship. Oh, me up. Take it up to 2,000 meters. Yeah. Whoa. Oh, sticky, sticky. We're flying at a height of just over 2,000 meters now. stinky! Yeah, I'm listening, what is it? When you hear me say now, that's when I want you to start up the engine immediately. All right, no problem. Guess it must be this one. No, no, not yet. This is it! Just a drop of water on the fuel block. Now that should do it. Can I start it now? Not yet! Alright! Now start on the interesting key! Now you answer! Did you really turn on the switch? Yes I did! The engine won't start. Are you quite sure you turned the one I pointed out to you? I think so. Maybe I turned the wrong one. There. Outside these two is well. Come on, stinky. This is no joke. My reputation is a famous inventor. Is it steak? This should do it, I think. Is that work, Mr. Mapple? Nothing is happening. I do. I shouldn't have let you do it better to do it myself. You're useless. Wait, Mr. Mapple. I haven't tried the very last one in the row. This one switched. What? I better throw that one too. You never know. It might just do the trick. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. It works. It works. I know it works. I know it works. Oh. It works! It works! I know it works! I know it works! It is working! I'm not surprised, but I'm so pleased with myself. You should be here, Snort. This is my great moment, and you should be here to share it with me. Come on, I can't wait to try this thing. Incredible! This ship shall rise like a Phoenix. Not the most demanding thing, but this is one of my diesel inventions. Ha, ha! Ha! Casper! Casper! Winner! Come on, let's go! Come on! Sheer power! I don't think he ever has started up. I very much have created exploding! Hey stinky religions exploding! Where the fuck are you going? A bad shit! It's going to explode any minute by a wonderful invention! Hmm? Ah! Oh! Oh! Now come to your nice room on the small side but the very best one. That explosion...it really was most unexpected officer. Everybody knows you're a great inventor. I wonder if you could help me Mr. Muffle. But how? Could you think of something to protect my roses while you're staying with us? A non-explosive, of course. Of course I could. Piece of cake, officer. Oh, I really did want to fly. Come, come now, cheer up, snorke dear. Here you are, a nice cup of tea. Thanks. Oh. It's very strange, but I had a dream the other night about a flying ship. Did you really move in? That sounds very interesting. Yes, very interesting. Moment, tell me about it. Yes. It was a peculiar looking ship totally different from Northline ships, Snork. Different? Oh. Well, it was sort of round like this. It had a propeller and something hanging underneath. And we flew over a high mountain. Round? Yes. And you were in a sort of thing hanging underneath. Yes. Round. were in a sort of thing hanging underneath. Yes. Round. Round, huh? Round. What, ever's the match I snuck? What? Oh, mama. Thanks for the tea. I think I'm getting a new idea. Moving. See you later. Papa, I must go. Oh, there he goes again. I know that, see you later. Papa, I must go. Oh, fair he goes again. I know that, look, Mama. You won't get an intelligent answer out of him for the next month or so, honestly. I'm very happy for him. I must say that was a very clever dream you had, woman. I'm a better inventor than the mobile. You deserve a triangular acruchy. So the explosion didn't distress the sword for long. Soon he was back at his favorite occupation, planning. But planning what? Rome. Rome? Wrong Wrong They love the laughter and and caring and giving the movements They're always happy and goes at play The moments I've been fun day after day, the movements The movements, the movements The most"
+}

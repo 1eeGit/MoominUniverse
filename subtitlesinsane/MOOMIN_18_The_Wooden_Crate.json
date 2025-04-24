@@ -1,0 +1,4792 @@
+{
+  "speakers": [
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        0.0,
+        28.0
+      ],
+      "text": "Here they are for one and all. The movements are about to come. Come on and sit down here with me, therefore you are your TV, they are the movements, they are the movements,"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        28.0,
+        38.0
+      ],
+      "text": "so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird,"
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        38.0,
+        107.0
+      ],
+      "text": "sing the best song ever, there were the movements, there was the movement, there was the movement, there was the movement, there was the movement Ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba It was the end of summer, but still every day seemed hotter than the last."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        107.0,
+        114.0
+      ],
+      "text": "Mumen Valley had had no rain for weeks, and finally the river had dried up."
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "timestamp": [
+        114.0,
+        117.0
+      ],
+      "text": "Papa says this weather is a catastrophe, Snuffman."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "timestamp": [
+        117.0,
+        119.0
+      ],
+      "text": "Oh, not really."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        119.0,
+        123.0
+      ],
+      "text": "But it is. He says Mumen Valley will turn into a desert if it carries on."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        123.0,
+        126.12
+      ],
+      "text": "I don't think that will happen, Mum."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        126.12,
+        128.28
+      ],
+      "text": "Papa can't ever remember it so hot."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        128.28,
+        130.0
+      ],
+      "text": "Even the river is dried up."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        130.0,
+        132.4
+      ],
+      "text": "No, that does worry me."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        132.4,
+        134.04
+      ],
+      "text": "I can't fish anymore."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        134.04,
+        140.44
+      ],
+      "text": "And all my travels I found that droughts like this are always followed by a real heavy downpour."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        140.44,
+        155.0
+      ],
+      "text": "Well, it's too hot for me anyway."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        159.0,
+        161.0
+      ],
+      "text": "Oh, it's so hot I can't think."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        167.0,
+        172.0
+      ],
+      "text": "I can always think of something. Well, well, even the weeds are wilting."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        172.0,
+        226.0
+      ],
+      "text": "The sea never dries up, does it? Of course not, stupid wherever the fish go! I'm going swimming! Here you are. What's this? Oh, no! Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        226.0,
+        228.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        228.0,
+        230.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        230.0,
+        232.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        232.0,
+        234.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        234.0,
+        236.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        236.0,
+        238.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        238.0,
+        240.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        240.0,
+        242.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        242.0,
+        244.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        244.0,
+        266.0
+      ],
+      "text": "Oh, no! Oh, no! I'm going to go to the next one. Ah! Ah! Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        266.0,
+        268.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        268.0,
+        270.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        270.0,
+        272.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        272.0,
+        274.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        274.0,
+        276.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        276.0,
+        278.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        278.0,
+        280.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        280.0,
+        282.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        282.0,
+        284.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        284.0,
+        286.0
+      ],
+      "text": "Ah! Ah! Oh, that hurt."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        286.0,
+        290.0
+      ],
+      "text": "What's this stupid box doing here?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        290.0,
+        293.0
+      ],
+      "text": "I think it's floated from foreign lands."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        293.0,
+        295.0
+      ],
+      "text": "What's it got in it?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        295.0,
+        298.0
+      ],
+      "text": "Perhaps it's full of priceless jewels."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        298.0,
+        301.0
+      ],
+      "text": "No, it wouldn't float so high in the water if it was."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        301.0,
+        303.0
+      ],
+      "text": "A tiara packed in wood shavings."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        303.0,
+        306.64
+      ],
+      "text": "I could use a new product. I'm going to use it for a new one. in it. Perhaps it's full of priceless jewels. No, it wouldn't float so high in the water if it was."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        306.64,
+        310.72
+      ],
+      "text": "A tiara packed in wood shavings. I could use a new comb too."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        310.72,
+        314.24
+      ],
+      "text": "What have you found you two? A treasure?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        314.24,
+        316.56
+      ],
+      "text": "No, we don't think so. It's not heavy enough."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        316.56,
+        318.4
+      ],
+      "text": "But you never know, Snork Maiden."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        318.4,
+        320.64
+      ],
+      "text": "Let's open it and see."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        320.64,
+        329.0
+      ],
+      "text": "Come on, Slay's pushed me a shore."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        331.0,
+        333.0
+      ],
+      "text": "Perhaps it's gold nuggets in here. Our diamonds are something to eat."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        345.0,
+        347.0
+      ],
+      "text": "What is this?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        348.0,
+        350.0
+      ],
+      "text": "Seeds, maybe."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        350.0,
+        352.0
+      ],
+      "text": "What sort of seeds?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        354.0,
+        355.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        355.0,
+        358.0
+      ],
+      "text": "Well, at first glance, I'd say they might be tropical plants."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        358.0,
+        360.0
+      ],
+      "text": "Oh, really? Mr. Hemmier."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        360.0,
+        362.0
+      ],
+      "text": "What plants are tropical?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        362.0,
+        364.0
+      ],
+      "text": "Well, species like banana are mangoes."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        364.0,
+        365.2
+      ],
+      "text": "Banana? And mangoes? Well, I like banana are mangoes. Banana?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        365.2,
+        366.56
+      ],
+      "text": "And mangoes?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        366.56,
+        369.44
+      ],
+      "text": "Well, I haven't done a lot of research on tropical plants"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        369.44,
+        372.84
+      ],
+      "text": "so I can't be sure, but they do look like it."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        372.84,
+        373.84
+      ],
+      "text": "I know, mama."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        373.84,
+        375.48
+      ],
+      "text": "Why don't we plant them?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        375.48,
+        377.04
+      ],
+      "text": "Good idea, woman."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        377.04,
+        379.84
+      ],
+      "text": "The thing is, we don't have a tropical climate."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        379.84,
+        382.12
+      ],
+      "text": "I'm afraid they wouldn't grow here at all."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        382.12,
+        383.84
+      ],
+      "text": "Let's plant them, shall we?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        383.84,
+        387.54
+      ],
+      "text": "They won't bear any fruit, so don't get too excited."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        387.54,
+        390.94
+      ],
+      "text": "Oh, well, it seems tropical enough to me, Mr. Hanuman."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        390.94,
+        393.04
+      ],
+      "text": "At least we can try, can't we?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        393.04,
+        396.18
+      ],
+      "text": "I want to see what papaya looks like and ugly fruit."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        396.18,
+        399.42
+      ],
+      "text": "I want mangoes growing all around my bedroom window."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        399.42,
+        400.72
+      ],
+      "text": "Let's plant them, shall we?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        403.52,
+        433.44
+      ],
+      "text": "I tell you, they're strictly tropical tropical they won't take root at all. It certainly seems that Mama is enjoying herself, Mr. Hamulun."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        433.44,
+        435.44
+      ],
+      "text": "I don't think it'll be much use."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        435.44,
+        439.24
+      ],
+      "text": "Well, perhaps not, but it's still worth the fun and trying."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        439.24,
+        442.92
+      ],
+      "text": "Imagine, Mum and Valley, a tropical jungle."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        442.92,
+        444.52
+      ],
+      "text": "Huh, huh."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        444.52,
+        445.0
+      ],
+      "text": "Oh, Mr. Hamulun, do you think these seeds will grow into real fruit trees? Imagine moving valley, a tropical jungle. Huh. Huh."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        445.0,
+        447.0
+      ],
+      "text": "Oh, Mr. Hamulin, do you think these seeds"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        447.0,
+        449.0
+      ],
+      "text": "will grow into real fruit trees?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        449.0,
+        451.0
+      ],
+      "text": "Hmm, let me see."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        451.0,
+        454.0
+      ],
+      "text": "What have you got here, little my?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        454.0,
+        456.0
+      ],
+      "text": "I could very well be mistaken,"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        456.0,
+        459.0
+      ],
+      "text": "but I think this one is a mango seed."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        459.0,
+        461.0
+      ],
+      "text": "Hmm, thanks."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        462.0,
+        464.0
+      ],
+      "text": "And why do you want to know, little my?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        464.0,
+        466.5
+      ],
+      "text": "Because I'm only growing fruit."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        466.5,
+        469.5
+      ],
+      "text": "I want to be sure I'm not planning stupid orchids"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        469.5,
+        471.5
+      ],
+      "text": "or passion flowers or something."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        471.5,
+        472.5
+      ],
+      "text": "Ha ha ha!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        474.5,
+        478.5
+      ],
+      "text": "Mr. Hemiellin, can you tell me which one of these is banana?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        479.5,
+        482.5
+      ],
+      "text": "Yeah, I'm not really too sure, but I think it's this one."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        482.5,
+        485.2
+      ],
+      "text": "You want to grow an orchid too, Snorkmaiden?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        485.2,
+        488.96
+      ],
+      "text": "No, I just want to plant a banana tree in a really special place."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        488.96,
+        490.64
+      ],
+      "text": "It's Mouin's favorite fruit."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        495.96,
+        500.28
+      ],
+      "text": "I think she'll be disappointed bananas won't grow here."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        500.28,
+        502.28
+      ],
+      "text": "This weather doesn't belong here either."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        502.28,
+        504.24
+      ],
+      "text": "If it gets any hotter, I'll melt."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        504.24,
+        506.92
+      ],
+      "text": "I can't wait for dusk so it'll cool down a bit."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        506.92,
+        507.92
+      ],
+      "text": "Hmm."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        519.12,
+        522.08
+      ],
+      "text": "Isn't it wonderful to go to sleep looking at the stars?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        522.08,
+        524.16
+      ],
+      "text": "And it's not so hot anymore."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        524.16,
+        526.0
+      ],
+      "text": "I'll sleep like a log tonight."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        526.0,
+        530.0
+      ],
+      "text": "You always do, don't you, Little Maw?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        530.0,
+        532.0
+      ],
+      "text": "Well, sleep like an extra heavy log, then."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        538.0,
+        543.0
+      ],
+      "text": "Snorke, Maiden. Why don't you sleep under that tree with moon men and Little Maw?"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        543.0,
+        548.08
+      ],
+      "text": "Oh, because I can't see the stars from there and it makes me feel romantic looking at them."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        548.08,
+        552.0
+      ],
+      "text": "But you're going to get very wet if it starts raining in the night."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        552.0,
+        554.52
+      ],
+      "text": "You're joking, surely, Mama."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        554.52,
+        555.52
+      ],
+      "text": "Not at all."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        555.52,
+        560.36
+      ],
+      "text": "But it hasn't rained for ages, and there aren't any clouds or anything."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        560.36,
+        561.36
+      ],
+      "text": "Just stars."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        561.36,
+        564.56
+      ],
+      "text": "All the toothpicks fell on the floor, and that's a sure sign of rain."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        564.56,
+        565.0
+      ],
+      "text": "It's not made in real mind if she gets all wet, Lumen Mama. Just stars! All the toothpicks fell on the floor, and that's a sure sign of rain."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        565.0,
+        567.6
+      ],
+      "text": "It's not made in my mind if she gets all wet, Lumen mama."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        567.6,
+        568.6
+      ],
+      "text": "That should be happy!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        570.6,
+        572.0
+      ],
+      "text": "Who? Why is that?"
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        572.0,
+        576.6
+      ],
+      "text": "Because then she'll know that the special tree will start growing, and that's very important to her."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        578.6,
+        579.6
+      ],
+      "text": "That's true."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        580.6,
+        588.0
+      ],
+      "text": "Good night, everyone. I hope you sleep well."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        591.0,
+        594.0
+      ],
+      "text": "Oh, oh, oh. Good night, everybody."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        603.0,
+        604.0
+      ],
+      "text": "Good night, woman."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        604.0,
+        614.0
+      ],
+      "text": "Good night. Don't snore."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        616.0,
+        620.0
+      ],
+      "text": "Oh, it's too hot to sleep. Why don't you sleep outside like the children?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        620.0,
+        622.0
+      ],
+      "text": "I think I will."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        622.0,
+        624.0
+      ],
+      "text": "I'll be back."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        624.0,
+        625.0
+      ],
+      "text": "I'll be back. Oh, it's too hot to sleep."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        625.0,
+        628.0
+      ],
+      "text": "Why don't you sleep outside like the children?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        628.0,
+        630.0
+      ],
+      "text": "I think I will."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        640.0,
+        642.0
+      ],
+      "text": "A thunderstorm."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        642.0,
+        645.0
+      ],
+      "text": "I told you the toothpicks are never wrong."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        654.0,
+        655.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        656.0,
+        658.0
+      ],
+      "text": "Hey, it's raining, movement!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        658.0,
+        660.0
+      ],
+      "text": "Wake up, movement!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        660.0,
+        662.0
+      ],
+      "text": "Oh, is it morning?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        663.0,
+        664.0
+      ],
+      "text": "The sun's really bright."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        664.0,
+        666.0
+      ],
+      "text": "No, it's raining."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        666.0,
+        668.0
+      ],
+      "text": "Rainy?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        668.0,
+        670.0
+      ],
+      "text": "Look at that."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        670.0,
+        673.0
+      ],
+      "text": "You look, I'm getting wet, I'm going inside."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        673.0,
+        676.0
+      ],
+      "text": "So mama was right about the rain."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        676.0,
+        678.0
+      ],
+      "text": "Hey, snork, Maiden!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        678.0,
+        679.0
+      ],
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        679.0,
+        681.0
+      ],
+      "text": "Doesn't she look sweet?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        681.0,
+        682.0
+      ],
+      "text": "Snork, Maiden!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        682.0,
+        683.0
+      ],
+      "text": "Is it raining?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        683.0,
+        687.4
+      ],
+      "text": "That's very clever. Your mother knows everything doesn't she?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        687.4,
+        688.2
+      ],
+      "text": "She does."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        688.2,
+        689.8
+      ],
+      "text": "Now let's get into the house."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        689.8,
+        690.8
+      ],
+      "text": "Not yet."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        690.8,
+        693.0
+      ],
+      "text": "I want to feel the rain on my face."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        693.0,
+        694.6
+      ],
+      "text": "It's been so long."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        698.8,
+        699.3
+      ],
+      "text": "Ha!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        699.3,
+        756.0
+      ],
+      "text": "You want to feel it much longer? It's going to go. Oh, it's the breathing."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        756.0,
+        765.0
+      ],
+      "text": "Huh? Oh."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        766.0,
+        768.0
+      ],
+      "text": "Mangoes! That's impossible!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        769.0,
+        771.0
+      ],
+      "text": "Gosh!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        774.0,
+        778.0
+      ],
+      "text": "By my tail, a jungle! That's a tropical jungle!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        791.0,
+        794.0
+      ],
+      "text": "Wake up! Wake up you two! There's a jungle outside! We've planted a jungle!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        796.0,
+        800.0
+      ],
+      "text": "A jungle?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        803.0,
+        805.7
+      ],
+      "text": "You're right, Moments! Those seeds have not only sprouted. I know. They're big trees."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        805.7,
+        808.0
+      ],
+      "text": "I've never known trees to grow like that."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        808.0,
+        809.3
+      ],
+      "text": "That's... that's..."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        809.3,
+        811.3
+      ],
+      "text": "I think I'll go and play Tarzan."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        813.0,
+        816.0
+      ],
+      "text": "I wish my lettuce seeds would do that, Moments Papa."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        816.0,
+        819.5
+      ],
+      "text": "Oh, there's magic here somewhere, Moments. Let's go and explore."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        823.0,
+        827.0
+      ],
+      "text": "That's rain drumming on the campus."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        827.0,
+        834.0
+      ],
+      "text": "It must be."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        834.0,
+        837.0
+      ],
+      "text": "Snuffkin!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        837.0,
+        842.0
+      ],
+      "text": "What a nurse all this?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        842.0,
+        845.88
+      ],
+      "text": "Well, we found a crate of tropical seeds and planted them last night."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        845.88,
+        848.64
+      ],
+      "text": "And this morning, while you can see it's like magic."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        848.64,
+        850.12
+      ],
+      "text": "It's fantastic."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        850.4,
+        852.8
+      ],
+      "text": "I know. We can go on a safari."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        858.4,
+        859.84
+      ],
+      "text": "I've seen nothing like it."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        862.6,
+        864.32
+      ],
+      "text": "What kind of flower is this?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        864.32,
+        866.64
+      ],
+      "text": "It looks like an orchid to me."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        866.64,
+        869.92
+      ],
+      "text": "This is a real tropical jungle isn't it, Snuffkin?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        869.92,
+        870.92
+      ],
+      "text": "Not quite."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        870.92,
+        871.92
+      ],
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        871.92,
+        875.32
+      ],
+      "text": "Well, Moomin, a real jungle would have wild animals in it, wouldn't it?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        875.32,
+        878.24
+      ],
+      "text": "Oh yeah, like tigers and snakes."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        878.24,
+        891.0
+      ],
+      "text": "This is more of a tropical botanical garden I suppose."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        893.0,
+        894.0
+      ],
+      "text": "That's a woman's little mind. He can have the peel."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        897.0,
+        899.0
+      ],
+      "text": "This is a life."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        903.0,
+        904.0
+      ],
+      "text": "Stop, little mind."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        904.0,
+        906.0
+      ],
+      "text": "Now where? Stop, little mind! Well, well..."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        908.0,
+        910.0
+      ],
+      "text": "What are you looking for, dear? My solar toady."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        910.0,
+        911.0
+      ],
+      "text": "You what?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        911.0,
+        914.0
+      ],
+      "text": "My son helmet, I can't go into the jungle without it."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        914.0,
+        916.0
+      ],
+      "text": "I didn't know you had one."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        916.0,
+        919.0
+      ],
+      "text": "I used it for a fancy dress party once, I know."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        919.0,
+        921.0
+      ],
+      "text": "I put it in a box somewhere."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        921.0,
+        923.0
+      ],
+      "text": "Oh, here it is."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        923.0,
+        926.0
+      ],
+      "text": "Very dashing, dear. I thought so too. once, I know I put it in a box somewhere. Oh, here it is."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        926.0,
+        928.0
+      ],
+      "text": "Very dashing deer."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        928.0,
+        930.0
+      ],
+      "text": "I thought so too."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        930.0,
+        932.0
+      ],
+      "text": "Oh, I know."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        932.0,
+        934.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        934.0,
+        936.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        936.0,
+        938.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        938.0,
+        940.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        940.0,
+        942.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        942.0,
+        944.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        944.0,
+        965.0
+      ],
+      "text": "Oh! Oh! Oh, splendid protection this hat. to get into the cello. What for? To get my gun."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        965.0,
+        967.0
+      ],
+      "text": "Your gun?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        967.0,
+        970.0
+      ],
+      "text": "Only fools venture into the jungle without a proper gun."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        970.0,
+        973.0
+      ],
+      "text": "I don't think you need a gun, Papa."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        973.0,
+        974.0
+      ],
+      "text": "And why not?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        974.0,
+        976.0
+      ],
+      "text": "Because there aren't any wild animals."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        976.0,
+        979.0
+      ],
+      "text": "Well, one of the seas might have been an egg or something."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        981.0,
+        984.0
+      ],
+      "text": "Look at these, for instance, they look very animal."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        988.0,
+        993.0
+      ],
+      "text": "Very odd animals. More than odd plant, I think. I'd stay away from them. They could be very dangerous."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        993.0,
+        995.0
+      ],
+      "text": "But they've got eyes."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        995.0,
+        998.0
+      ],
+      "text": "Careful. I think they're man-eating plants."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        998.0,
+        1000.0
+      ],
+      "text": "Man-eating."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1000.0,
+        1003.0
+      ],
+      "text": "Stop that."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        1003.0,
+        1006.0
+      ],
+      "text": "Help! Help!"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1006.0,
+        1007.52
+      ],
+      "text": "They're trying to eat me."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1007.52,
+        1010.0
+      ],
+      "text": "But they want to feed me to their young."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1010.0,
+        1012.0
+      ],
+      "text": "Oh, oh, oh, oh, help me!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1012.0,
+        1014.0
+      ],
+      "text": "Oh, help!"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1014.0,
+        1025.0
+      ],
+      "text": "They're tearing my toe! Oh no! Oh dear! Oh oh! Oh oh! Oh! Oh!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1025.0,
+        1026.0
+      ],
+      "text": "Help!"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1026.0,
+        1028.0
+      ],
+      "text": "Oh! Oh no!"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        1028.0,
+        1030.0
+      ],
+      "text": "Oh oh!"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1030.0,
+        1032.0
+      ],
+      "text": "Oh oh!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1032.0,
+        1033.0
+      ],
+      "text": "Oh oh!"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1033.0,
+        1036.0
+      ],
+      "text": "Well done my little Maya, just saved my life!"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        1036.0,
+        1065.0
+      ],
+      "text": "Well I saved your tail anyway! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, That should keep them in now, shouldn't it?"
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1065.0,
+        1068.0
+      ],
+      "text": "Well, I don't think they could push their way through that lot."
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        1068.0,
+        1070.0
+      ],
+      "text": "Hmm, they had a very strong grip on my tail."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1070.0,
+        1072.0
+      ],
+      "text": "He mustn't underestimate them."
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1072.0,
+        1073.0
+      ],
+      "text": "Anything wrong?"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1073.0,
+        1076.0
+      ],
+      "text": "You bet the sellers fall of man-eating plants,"
+    },
+    {
+      "speaker": "SPEAKER_12",
+      "timestamp": [
+        1076.0,
+        1079.0
+      ],
+      "text": "trying to gobble up moment-papa!"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1079.0,
+        1080.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1080.0,
+        1082.0
+      ],
+      "text": "Oh, my goodness!"
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "timestamp": [
+        1082.0,
+        1084.0
+      ],
+      "text": "I'm so sorry, I'm so sorry!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1084.0,
+        1086.0
+      ],
+      "text": "I'm so sorry! I'm so sorry! I'm so sorry! I'm so sorry! You mustn't underestimate them. Anything wrong? You bet the seller's full of man-eating plants"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1086.0,
+        1088.0
+      ],
+      "text": "trying to gobble up moment papa!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1088.0,
+        1089.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "speaker": "SPEAKER_13",
+      "timestamp": [
+        1089.0,
+        1091.0
+      ],
+      "text": "Oh my goodness!"
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1091.0,
+        1092.0
+      ],
+      "text": "What's the matter?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        1092.0,
+        1095.0
+      ],
+      "text": "You can get straight from the seller into the kitchen."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1095.0,
+        1096.0
+      ],
+      "text": "What?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1096.0,
+        1107.0
+      ],
+      "text": "Oh no, mama! Oh, hello. Cue, we got here just in time. Whatever's the matter with you, are you all playing Tarzan?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        1107.0,
+        1109.0
+      ],
+      "text": "Oh, no, mama."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1109.0,
+        1112.0
+      ],
+      "text": "I'm making grandmas if you ever get a tropical fruit recipe."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1112.0,
+        1115.0
+      ],
+      "text": "And perhaps now it's rained I can wash this dirty floor."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1118.0,
+        1120.0
+      ],
+      "text": "Ah, I'm going to have a drink."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1120.0,
+        1122.0
+      ],
+      "text": "I'm going to have a drink."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1122.0,
+        1123.0
+      ],
+      "text": "I'm going to have a drink."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1123.0,
+        1127.0
+      ],
+      "text": "I'm going to have a drink. I'm going to have a drink. making grandmas if you ever get a tropical fruit recipe and perhaps now it's reigned I can wash this dirty floor."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1129.0,
+        1135.0
+      ],
+      "text": "Ah, by the great bumble I don't believe this a tropical rainforest."
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "timestamp": [
+        1135.0,
+        1140.0
+      ],
+      "text": "Ah, ah, a transcendentia, megaloids."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1140.0,
+        1147.0
+      ],
+      "text": "And yes, at this Pepsi of Florium Wonder! Goodness me, I can collect a whole tropical"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1147.0,
+        1149.0
+      ],
+      "text": "Hermoreum right here in Mum and Valley!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1149.0,
+        1152.0
+      ],
+      "text": "I'd try, well, that's what I need. I'll get one from the Moomins!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1162.0,
+        1165.0
+      ],
+      "text": "Must say they're not the tiniest family."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1165.0,
+        1167.0
+      ],
+      "text": "I'll have to move this."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1167.0,
+        1170.0
+      ],
+      "text": "Oh, this old furniture."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1170.0,
+        1172.0
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1172.0,
+        1174.0
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1174.0,
+        1176.0
+      ],
+      "text": "Uh."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1176.0,
+        1184.0
+      ],
+      "text": "Do I look that funny?"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1184.0,
+        1186.0
+      ],
+      "text": "No, you look great!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1186.0,
+        1188.0
+      ],
+      "text": "Maybe you and Tarzan have different muscles."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        1188.0,
+        1190.0
+      ],
+      "text": "Me, Tarzan!"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        1190.0,
+        1192.0
+      ],
+      "text": "You, Jay."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1192.0,
+        1194.0
+      ],
+      "text": "Oh, here we go."
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1194.0,
+        1196.0
+      ],
+      "text": "Me, get out with Ormysick!"
+    },
+    {
+      "speaker": "SPEAKER_10",
+      "timestamp": [
+        1198.0,
+        1199.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1199.0,
+        1200.0
+      ],
+      "text": "Ah, help!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1200.0,
+        1203.0
+      ],
+      "text": "I've got many things planned after this!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1203.0,
+        1205.96
+      ],
+      "text": "What? They must have got out! Uh-huh."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1205.96,
+        1207.96
+      ],
+      "text": "Ow!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1211.2,
+        1212.2
+      ],
+      "text": "Uh-oh!"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1219.6,
+        1221.36
+      ],
+      "text": "They were in the cellar."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1221.36,
+        1223.6
+      ],
+      "text": "Did you open the door, Mr. Hamillet?"
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1223.6,
+        1227.0
+      ],
+      "text": "Well, yes, I wanted to borrow a trowel. Mr. Hemmielin. Mr. Hemmielin, you know all about plants. Do you have any idea how we can get rid of them?"
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        1227.0,
+        1228.0
+      ],
+      "text": "They're man-eaters, you know?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1228.0,
+        1230.0
+      ],
+      "text": "Can't rid of them."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1230.0,
+        1232.0
+      ],
+      "text": "Well, let's see."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1232.0,
+        1234.0
+      ],
+      "text": "We are in a bit of a fix."
+    },
+    {
+      "speaker": "SPEAKER_06",
+      "timestamp": [
+        1234.0,
+        1237.0
+      ],
+      "text": "I have heard that they have reacted to music."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1237.0,
+        1238.0
+      ],
+      "text": "Music."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1238.0,
+        1241.0
+      ],
+      "text": "Snowfkin, you could play your harmonica."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1241.0,
+        1242.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1242.0,
+        1243.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        1243.0,
+        1245.84
+      ],
+      "text": "I'm not sure if I can play it. I'm not sure if I can play it. the day of reacting music music. Snuffkin, you could play your harmonica."
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "timestamp": [
+        1263.84,
+        1267.0
+      ],
+      "text": "Look, they've started dancing. Keep it up, snuffkin!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1267.0,
+        1270.0
+      ],
+      "text": "What will they do if he stops playing?"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1270.0,
+        1273.0
+      ],
+      "text": "I really don't know."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1273.0,
+        1276.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1276.0,
+        1279.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1279.0,
+        1283.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "speaker": "SPEAKER_11",
+      "timestamp": [
+        1283.0,
+        1290.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1292.0,
+        1294.0
+      ],
+      "text": "What's this? Oh!"
+    },
+    {
+      "speaker": "SPEAKER_09",
+      "timestamp": [
+        1294.0,
+        1297.0
+      ],
+      "text": "The rather sweet when they don't try to eat you."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1297.0,
+        1299.0
+      ],
+      "text": "I'm not going to eat you."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1299.0,
+        1301.0
+      ],
+      "text": "I'm not going to eat you."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1301.0,
+        1303.0
+      ],
+      "text": "I'm not going to eat you."
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "timestamp": [
+        1303.0,
+        1312.08
+      ],
+      "text": "I'm not going to eat you. I'm not going to eat you. I don't try to eat you."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1312.08,
+        1315.0
+      ],
+      "text": "And that was how a tropical jungle grew and surrounded"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1315.0,
+        1317.44
+      ],
+      "text": "movement house in one night."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1317.44,
+        1319.04
+      ],
+      "text": "Is it going to stay?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "timestamp": [
+        1319.04,
+        1320.8
+      ],
+      "text": "And for how long?"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1320.8,
+        1347.1
+      ],
+      "text": "And what will the man eating plants do if Snuffton stops playing? The movements. They're always happy and always at play."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1347.1,
+        1350.6
+      ],
+      "text": "The movements are having fun day after day."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1350.6,
+        1354.3
+      ],
+      "text": "The movements."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1354.3,
+        1358.3
+      ],
+      "text": "The movements."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1358.3,
+        1361.7
+      ],
+      "text": "They love the laughter and they love the living."
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1361.7,
+        1372.48
+      ],
+      "text": "The movements. They love the living, the movements Believing in sharing and caring and giving the movements"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1372.48,
+        1376.28
+      ],
+      "text": "They're always happy and goes at play"
+    },
+    {
+      "speaker": "SPEAKER_08",
+      "timestamp": [
+        1376.28,
+        1393.36
+      ],
+      "text": "The movements are having fun day after day, the Moves, the Moves"
+    }
+  ],
+  "chunks": [
+    {
+      "timestamp": [
+        0.0,
+        28.0
+      ],
+      "text": "Here they are for one and all. The movements are about to come. Come on and sit down here with me, therefore you are your TV, they are the movements, they are the movements,"
+    },
+    {
+      "timestamp": [
+        28.0,
+        38.0
+      ],
+      "text": "so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird,"
+    },
+    {
+      "timestamp": [
+        38.0,
+        107.0
+      ],
+      "text": "sing the best song ever, there were the movements, there was the movement, there was the movement, there was the movement, there was the movement Ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba It was the end of summer, but still every day seemed hotter than the last."
+    },
+    {
+      "timestamp": [
+        107.0,
+        114.0
+      ],
+      "text": "Mumen Valley had had no rain for weeks, and finally the river had dried up."
+    },
+    {
+      "timestamp": [
+        114.0,
+        117.0
+      ],
+      "text": "Papa says this weather is a catastrophe, Snuffman."
+    },
+    {
+      "timestamp": [
+        117.0,
+        119.0
+      ],
+      "text": "Oh, not really."
+    },
+    {
+      "timestamp": [
+        119.0,
+        123.0
+      ],
+      "text": "But it is. He says Mumen Valley will turn into a desert if it carries on."
+    },
+    {
+      "timestamp": [
+        123.0,
+        126.12
+      ],
+      "text": "I don't think that will happen, Mum."
+    },
+    {
+      "timestamp": [
+        126.12,
+        128.28
+      ],
+      "text": "Papa can't ever remember it so hot."
+    },
+    {
+      "timestamp": [
+        128.28,
+        130.0
+      ],
+      "text": "Even the river is dried up."
+    },
+    {
+      "timestamp": [
+        130.0,
+        132.4
+      ],
+      "text": "No, that does worry me."
+    },
+    {
+      "timestamp": [
+        132.4,
+        134.04
+      ],
+      "text": "I can't fish anymore."
+    },
+    {
+      "timestamp": [
+        134.04,
+        140.44
+      ],
+      "text": "And all my travels I found that droughts like this are always followed by a real heavy downpour."
+    },
+    {
+      "timestamp": [
+        140.44,
+        155.0
+      ],
+      "text": "Well, it's too hot for me anyway."
+    },
+    {
+      "timestamp": [
+        159.0,
+        161.0
+      ],
+      "text": "Oh, it's so hot I can't think."
+    },
+    {
+      "timestamp": [
+        167.0,
+        172.0
+      ],
+      "text": "I can always think of something. Well, well, even the weeds are wilting."
+    },
+    {
+      "timestamp": [
+        172.0,
+        226.0
+      ],
+      "text": "The sea never dries up, does it? Of course not, stupid wherever the fish go! I'm going swimming! Here you are. What's this? Oh, no! Oh, no!"
+    },
+    {
+      "timestamp": [
+        226.0,
+        228.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "timestamp": [
+        228.0,
+        230.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "timestamp": [
+        230.0,
+        232.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "timestamp": [
+        232.0,
+        234.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "timestamp": [
+        234.0,
+        236.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "timestamp": [
+        236.0,
+        238.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "timestamp": [
+        238.0,
+        240.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "timestamp": [
+        240.0,
+        242.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "timestamp": [
+        242.0,
+        244.0
+      ],
+      "text": "Oh, no!"
+    },
+    {
+      "timestamp": [
+        244.0,
+        266.0
+      ],
+      "text": "Oh, no! Oh, no! I'm going to go to the next one. Ah! Ah! Ah!"
+    },
+    {
+      "timestamp": [
+        266.0,
+        268.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        268.0,
+        270.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        270.0,
+        272.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        272.0,
+        274.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        274.0,
+        276.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        276.0,
+        278.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        278.0,
+        280.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        280.0,
+        282.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        282.0,
+        284.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        284.0,
+        286.0
+      ],
+      "text": "Ah! Ah! Oh, that hurt."
+    },
+    {
+      "timestamp": [
+        286.0,
+        290.0
+      ],
+      "text": "What's this stupid box doing here?"
+    },
+    {
+      "timestamp": [
+        290.0,
+        293.0
+      ],
+      "text": "I think it's floated from foreign lands."
+    },
+    {
+      "timestamp": [
+        293.0,
+        295.0
+      ],
+      "text": "What's it got in it?"
+    },
+    {
+      "timestamp": [
+        295.0,
+        298.0
+      ],
+      "text": "Perhaps it's full of priceless jewels."
+    },
+    {
+      "timestamp": [
+        298.0,
+        301.0
+      ],
+      "text": "No, it wouldn't float so high in the water if it was."
+    },
+    {
+      "timestamp": [
+        301.0,
+        303.0
+      ],
+      "text": "A tiara packed in wood shavings."
+    },
+    {
+      "timestamp": [
+        303.0,
+        306.64
+      ],
+      "text": "I could use a new product. I'm going to use it for a new one. in it. Perhaps it's full of priceless jewels. No, it wouldn't float so high in the water if it was."
+    },
+    {
+      "timestamp": [
+        306.64,
+        310.72
+      ],
+      "text": "A tiara packed in wood shavings. I could use a new comb too."
+    },
+    {
+      "timestamp": [
+        310.72,
+        314.24
+      ],
+      "text": "What have you found you two? A treasure?"
+    },
+    {
+      "timestamp": [
+        314.24,
+        316.56
+      ],
+      "text": "No, we don't think so. It's not heavy enough."
+    },
+    {
+      "timestamp": [
+        316.56,
+        318.4
+      ],
+      "text": "But you never know, Snork Maiden."
+    },
+    {
+      "timestamp": [
+        318.4,
+        320.64
+      ],
+      "text": "Let's open it and see."
+    },
+    {
+      "timestamp": [
+        320.64,
+        329.0
+      ],
+      "text": "Come on, Slay's pushed me a shore."
+    },
+    {
+      "timestamp": [
+        331.0,
+        333.0
+      ],
+      "text": "Perhaps it's gold nuggets in here. Our diamonds are something to eat."
+    },
+    {
+      "timestamp": [
+        345.0,
+        347.0
+      ],
+      "text": "What is this?"
+    },
+    {
+      "timestamp": [
+        348.0,
+        350.0
+      ],
+      "text": "Seeds, maybe."
+    },
+    {
+      "timestamp": [
+        350.0,
+        352.0
+      ],
+      "text": "What sort of seeds?"
+    },
+    {
+      "timestamp": [
+        354.0,
+        355.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "timestamp": [
+        355.0,
+        358.0
+      ],
+      "text": "Well, at first glance, I'd say they might be tropical plants."
+    },
+    {
+      "timestamp": [
+        358.0,
+        360.0
+      ],
+      "text": "Oh, really? Mr. Hemmier."
+    },
+    {
+      "timestamp": [
+        360.0,
+        362.0
+      ],
+      "text": "What plants are tropical?"
+    },
+    {
+      "timestamp": [
+        362.0,
+        364.0
+      ],
+      "text": "Well, species like banana are mangoes."
+    },
+    {
+      "timestamp": [
+        364.0,
+        365.2
+      ],
+      "text": "Banana? And mangoes? Well, I like banana are mangoes. Banana?"
+    },
+    {
+      "timestamp": [
+        365.2,
+        366.56
+      ],
+      "text": "And mangoes?"
+    },
+    {
+      "timestamp": [
+        366.56,
+        369.44
+      ],
+      "text": "Well, I haven't done a lot of research on tropical plants"
+    },
+    {
+      "timestamp": [
+        369.44,
+        372.84
+      ],
+      "text": "so I can't be sure, but they do look like it."
+    },
+    {
+      "timestamp": [
+        372.84,
+        373.84
+      ],
+      "text": "I know, mama."
+    },
+    {
+      "timestamp": [
+        373.84,
+        375.48
+      ],
+      "text": "Why don't we plant them?"
+    },
+    {
+      "timestamp": [
+        375.48,
+        377.04
+      ],
+      "text": "Good idea, woman."
+    },
+    {
+      "timestamp": [
+        377.04,
+        379.84
+      ],
+      "text": "The thing is, we don't have a tropical climate."
+    },
+    {
+      "timestamp": [
+        379.84,
+        382.12
+      ],
+      "text": "I'm afraid they wouldn't grow here at all."
+    },
+    {
+      "timestamp": [
+        382.12,
+        383.84
+      ],
+      "text": "Let's plant them, shall we?"
+    },
+    {
+      "timestamp": [
+        383.84,
+        387.54
+      ],
+      "text": "They won't bear any fruit, so don't get too excited."
+    },
+    {
+      "timestamp": [
+        387.54,
+        390.94
+      ],
+      "text": "Oh, well, it seems tropical enough to me, Mr. Hanuman."
+    },
+    {
+      "timestamp": [
+        390.94,
+        393.04
+      ],
+      "text": "At least we can try, can't we?"
+    },
+    {
+      "timestamp": [
+        393.04,
+        396.18
+      ],
+      "text": "I want to see what papaya looks like and ugly fruit."
+    },
+    {
+      "timestamp": [
+        396.18,
+        399.42
+      ],
+      "text": "I want mangoes growing all around my bedroom window."
+    },
+    {
+      "timestamp": [
+        399.42,
+        400.72
+      ],
+      "text": "Let's plant them, shall we?"
+    },
+    {
+      "timestamp": [
+        403.52,
+        433.44
+      ],
+      "text": "I tell you, they're strictly tropical tropical they won't take root at all. It certainly seems that Mama is enjoying herself, Mr. Hamulun."
+    },
+    {
+      "timestamp": [
+        433.44,
+        435.44
+      ],
+      "text": "I don't think it'll be much use."
+    },
+    {
+      "timestamp": [
+        435.44,
+        439.24
+      ],
+      "text": "Well, perhaps not, but it's still worth the fun and trying."
+    },
+    {
+      "timestamp": [
+        439.24,
+        442.92
+      ],
+      "text": "Imagine, Mum and Valley, a tropical jungle."
+    },
+    {
+      "timestamp": [
+        442.92,
+        444.52
+      ],
+      "text": "Huh, huh."
+    },
+    {
+      "timestamp": [
+        444.52,
+        445.0
+      ],
+      "text": "Oh, Mr. Hamulun, do you think these seeds will grow into real fruit trees? Imagine moving valley, a tropical jungle. Huh. Huh."
+    },
+    {
+      "timestamp": [
+        445.0,
+        447.0
+      ],
+      "text": "Oh, Mr. Hamulin, do you think these seeds"
+    },
+    {
+      "timestamp": [
+        447.0,
+        449.0
+      ],
+      "text": "will grow into real fruit trees?"
+    },
+    {
+      "timestamp": [
+        449.0,
+        451.0
+      ],
+      "text": "Hmm, let me see."
+    },
+    {
+      "timestamp": [
+        451.0,
+        454.0
+      ],
+      "text": "What have you got here, little my?"
+    },
+    {
+      "timestamp": [
+        454.0,
+        456.0
+      ],
+      "text": "I could very well be mistaken,"
+    },
+    {
+      "timestamp": [
+        456.0,
+        459.0
+      ],
+      "text": "but I think this one is a mango seed."
+    },
+    {
+      "timestamp": [
+        459.0,
+        461.0
+      ],
+      "text": "Hmm, thanks."
+    },
+    {
+      "timestamp": [
+        462.0,
+        464.0
+      ],
+      "text": "And why do you want to know, little my?"
+    },
+    {
+      "timestamp": [
+        464.0,
+        466.5
+      ],
+      "text": "Because I'm only growing fruit."
+    },
+    {
+      "timestamp": [
+        466.5,
+        469.5
+      ],
+      "text": "I want to be sure I'm not planning stupid orchids"
+    },
+    {
+      "timestamp": [
+        469.5,
+        471.5
+      ],
+      "text": "or passion flowers or something."
+    },
+    {
+      "timestamp": [
+        471.5,
+        472.5
+      ],
+      "text": "Ha ha ha!"
+    },
+    {
+      "timestamp": [
+        474.5,
+        478.5
+      ],
+      "text": "Mr. Hemiellin, can you tell me which one of these is banana?"
+    },
+    {
+      "timestamp": [
+        479.5,
+        482.5
+      ],
+      "text": "Yeah, I'm not really too sure, but I think it's this one."
+    },
+    {
+      "timestamp": [
+        482.5,
+        485.2
+      ],
+      "text": "You want to grow an orchid too, Snorkmaiden?"
+    },
+    {
+      "timestamp": [
+        485.2,
+        488.96
+      ],
+      "text": "No, I just want to plant a banana tree in a really special place."
+    },
+    {
+      "timestamp": [
+        488.96,
+        490.64
+      ],
+      "text": "It's Mouin's favorite fruit."
+    },
+    {
+      "timestamp": [
+        495.96,
+        500.28
+      ],
+      "text": "I think she'll be disappointed bananas won't grow here."
+    },
+    {
+      "timestamp": [
+        500.28,
+        502.28
+      ],
+      "text": "This weather doesn't belong here either."
+    },
+    {
+      "timestamp": [
+        502.28,
+        504.24
+      ],
+      "text": "If it gets any hotter, I'll melt."
+    },
+    {
+      "timestamp": [
+        504.24,
+        506.92
+      ],
+      "text": "I can't wait for dusk so it'll cool down a bit."
+    },
+    {
+      "timestamp": [
+        506.92,
+        507.92
+      ],
+      "text": "Hmm."
+    },
+    {
+      "timestamp": [
+        519.12,
+        522.08
+      ],
+      "text": "Isn't it wonderful to go to sleep looking at the stars?"
+    },
+    {
+      "timestamp": [
+        522.08,
+        524.16
+      ],
+      "text": "And it's not so hot anymore."
+    },
+    {
+      "timestamp": [
+        524.16,
+        526.0
+      ],
+      "text": "I'll sleep like a log tonight."
+    },
+    {
+      "timestamp": [
+        526.0,
+        530.0
+      ],
+      "text": "You always do, don't you, Little Maw?"
+    },
+    {
+      "timestamp": [
+        530.0,
+        532.0
+      ],
+      "text": "Well, sleep like an extra heavy log, then."
+    },
+    {
+      "timestamp": [
+        538.0,
+        543.0
+      ],
+      "text": "Snorke, Maiden. Why don't you sleep under that tree with moon men and Little Maw?"
+    },
+    {
+      "timestamp": [
+        543.0,
+        548.08
+      ],
+      "text": "Oh, because I can't see the stars from there and it makes me feel romantic looking at them."
+    },
+    {
+      "timestamp": [
+        548.08,
+        552.0
+      ],
+      "text": "But you're going to get very wet if it starts raining in the night."
+    },
+    {
+      "timestamp": [
+        552.0,
+        554.52
+      ],
+      "text": "You're joking, surely, Mama."
+    },
+    {
+      "timestamp": [
+        554.52,
+        555.52
+      ],
+      "text": "Not at all."
+    },
+    {
+      "timestamp": [
+        555.52,
+        560.36
+      ],
+      "text": "But it hasn't rained for ages, and there aren't any clouds or anything."
+    },
+    {
+      "timestamp": [
+        560.36,
+        561.36
+      ],
+      "text": "Just stars."
+    },
+    {
+      "timestamp": [
+        561.36,
+        564.56
+      ],
+      "text": "All the toothpicks fell on the floor, and that's a sure sign of rain."
+    },
+    {
+      "timestamp": [
+        564.56,
+        565.0
+      ],
+      "text": "It's not made in real mind if she gets all wet, Lumen Mama. Just stars! All the toothpicks fell on the floor, and that's a sure sign of rain."
+    },
+    {
+      "timestamp": [
+        565.0,
+        567.6
+      ],
+      "text": "It's not made in my mind if she gets all wet, Lumen mama."
+    },
+    {
+      "timestamp": [
+        567.6,
+        568.6
+      ],
+      "text": "That should be happy!"
+    },
+    {
+      "timestamp": [
+        570.6,
+        572.0
+      ],
+      "text": "Who? Why is that?"
+    },
+    {
+      "timestamp": [
+        572.0,
+        576.6
+      ],
+      "text": "Because then she'll know that the special tree will start growing, and that's very important to her."
+    },
+    {
+      "timestamp": [
+        578.6,
+        579.6
+      ],
+      "text": "That's true."
+    },
+    {
+      "timestamp": [
+        580.6,
+        588.0
+      ],
+      "text": "Good night, everyone. I hope you sleep well."
+    },
+    {
+      "timestamp": [
+        591.0,
+        594.0
+      ],
+      "text": "Oh, oh, oh. Good night, everybody."
+    },
+    {
+      "timestamp": [
+        603.0,
+        604.0
+      ],
+      "text": "Good night, woman."
+    },
+    {
+      "timestamp": [
+        604.0,
+        614.0
+      ],
+      "text": "Good night. Don't snore."
+    },
+    {
+      "timestamp": [
+        616.0,
+        620.0
+      ],
+      "text": "Oh, it's too hot to sleep. Why don't you sleep outside like the children?"
+    },
+    {
+      "timestamp": [
+        620.0,
+        622.0
+      ],
+      "text": "I think I will."
+    },
+    {
+      "timestamp": [
+        622.0,
+        624.0
+      ],
+      "text": "I'll be back."
+    },
+    {
+      "timestamp": [
+        624.0,
+        625.0
+      ],
+      "text": "I'll be back. Oh, it's too hot to sleep."
+    },
+    {
+      "timestamp": [
+        625.0,
+        628.0
+      ],
+      "text": "Why don't you sleep outside like the children?"
+    },
+    {
+      "timestamp": [
+        628.0,
+        630.0
+      ],
+      "text": "I think I will."
+    },
+    {
+      "timestamp": [
+        640.0,
+        642.0
+      ],
+      "text": "A thunderstorm."
+    },
+    {
+      "timestamp": [
+        642.0,
+        645.0
+      ],
+      "text": "I told you the toothpicks are never wrong."
+    },
+    {
+      "timestamp": [
+        654.0,
+        655.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        656.0,
+        658.0
+      ],
+      "text": "Hey, it's raining, movement!"
+    },
+    {
+      "timestamp": [
+        658.0,
+        660.0
+      ],
+      "text": "Wake up, movement!"
+    },
+    {
+      "timestamp": [
+        660.0,
+        662.0
+      ],
+      "text": "Oh, is it morning?"
+    },
+    {
+      "timestamp": [
+        663.0,
+        664.0
+      ],
+      "text": "The sun's really bright."
+    },
+    {
+      "timestamp": [
+        664.0,
+        666.0
+      ],
+      "text": "No, it's raining."
+    },
+    {
+      "timestamp": [
+        666.0,
+        668.0
+      ],
+      "text": "Rainy?"
+    },
+    {
+      "timestamp": [
+        668.0,
+        670.0
+      ],
+      "text": "Look at that."
+    },
+    {
+      "timestamp": [
+        670.0,
+        673.0
+      ],
+      "text": "You look, I'm getting wet, I'm going inside."
+    },
+    {
+      "timestamp": [
+        673.0,
+        676.0
+      ],
+      "text": "So mama was right about the rain."
+    },
+    {
+      "timestamp": [
+        676.0,
+        678.0
+      ],
+      "text": "Hey, snork, Maiden!"
+    },
+    {
+      "timestamp": [
+        678.0,
+        679.0
+      ],
+      "text": "Hmm?"
+    },
+    {
+      "timestamp": [
+        679.0,
+        681.0
+      ],
+      "text": "Doesn't she look sweet?"
+    },
+    {
+      "timestamp": [
+        681.0,
+        682.0
+      ],
+      "text": "Snork, Maiden!"
+    },
+    {
+      "timestamp": [
+        682.0,
+        683.0
+      ],
+      "text": "Is it raining?"
+    },
+    {
+      "timestamp": [
+        683.0,
+        687.4
+      ],
+      "text": "That's very clever. Your mother knows everything doesn't she?"
+    },
+    {
+      "timestamp": [
+        687.4,
+        688.2
+      ],
+      "text": "She does."
+    },
+    {
+      "timestamp": [
+        688.2,
+        689.8
+      ],
+      "text": "Now let's get into the house."
+    },
+    {
+      "timestamp": [
+        689.8,
+        690.8
+      ],
+      "text": "Not yet."
+    },
+    {
+      "timestamp": [
+        690.8,
+        693.0
+      ],
+      "text": "I want to feel the rain on my face."
+    },
+    {
+      "timestamp": [
+        693.0,
+        694.6
+      ],
+      "text": "It's been so long."
+    },
+    {
+      "timestamp": [
+        698.8,
+        699.3
+      ],
+      "text": "Ha!"
+    },
+    {
+      "timestamp": [
+        699.3,
+        756.0
+      ],
+      "text": "You want to feel it much longer? It's going to go. Oh, it's the breathing."
+    },
+    {
+      "timestamp": [
+        756.0,
+        765.0
+      ],
+      "text": "Huh? Oh."
+    },
+    {
+      "timestamp": [
+        766.0,
+        768.0
+      ],
+      "text": "Mangoes! That's impossible!"
+    },
+    {
+      "timestamp": [
+        769.0,
+        771.0
+      ],
+      "text": "Gosh!"
+    },
+    {
+      "timestamp": [
+        774.0,
+        778.0
+      ],
+      "text": "By my tail, a jungle! That's a tropical jungle!"
+    },
+    {
+      "timestamp": [
+        791.0,
+        794.0
+      ],
+      "text": "Wake up! Wake up you two! There's a jungle outside! We've planted a jungle!"
+    },
+    {
+      "timestamp": [
+        796.0,
+        800.0
+      ],
+      "text": "A jungle?"
+    },
+    {
+      "timestamp": [
+        803.0,
+        805.7
+      ],
+      "text": "You're right, Moments! Those seeds have not only sprouted. I know. They're big trees."
+    },
+    {
+      "timestamp": [
+        805.7,
+        808.0
+      ],
+      "text": "I've never known trees to grow like that."
+    },
+    {
+      "timestamp": [
+        808.0,
+        809.3
+      ],
+      "text": "That's... that's..."
+    },
+    {
+      "timestamp": [
+        809.3,
+        811.3
+      ],
+      "text": "I think I'll go and play Tarzan."
+    },
+    {
+      "timestamp": [
+        813.0,
+        816.0
+      ],
+      "text": "I wish my lettuce seeds would do that, Moments Papa."
+    },
+    {
+      "timestamp": [
+        816.0,
+        819.5
+      ],
+      "text": "Oh, there's magic here somewhere, Moments. Let's go and explore."
+    },
+    {
+      "timestamp": [
+        823.0,
+        827.0
+      ],
+      "text": "That's rain drumming on the campus."
+    },
+    {
+      "timestamp": [
+        827.0,
+        834.0
+      ],
+      "text": "It must be."
+    },
+    {
+      "timestamp": [
+        834.0,
+        837.0
+      ],
+      "text": "Snuffkin!"
+    },
+    {
+      "timestamp": [
+        837.0,
+        842.0
+      ],
+      "text": "What a nurse all this?"
+    },
+    {
+      "timestamp": [
+        842.0,
+        845.88
+      ],
+      "text": "Well, we found a crate of tropical seeds and planted them last night."
+    },
+    {
+      "timestamp": [
+        845.88,
+        848.64
+      ],
+      "text": "And this morning, while you can see it's like magic."
+    },
+    {
+      "timestamp": [
+        848.64,
+        850.12
+      ],
+      "text": "It's fantastic."
+    },
+    {
+      "timestamp": [
+        850.4,
+        852.8
+      ],
+      "text": "I know. We can go on a safari."
+    },
+    {
+      "timestamp": [
+        858.4,
+        859.84
+      ],
+      "text": "I've seen nothing like it."
+    },
+    {
+      "timestamp": [
+        862.6,
+        864.32
+      ],
+      "text": "What kind of flower is this?"
+    },
+    {
+      "timestamp": [
+        864.32,
+        866.64
+      ],
+      "text": "It looks like an orchid to me."
+    },
+    {
+      "timestamp": [
+        866.64,
+        869.92
+      ],
+      "text": "This is a real tropical jungle isn't it, Snuffkin?"
+    },
+    {
+      "timestamp": [
+        869.92,
+        870.92
+      ],
+      "text": "Not quite."
+    },
+    {
+      "timestamp": [
+        870.92,
+        871.92
+      ],
+      "text": "What do you mean?"
+    },
+    {
+      "timestamp": [
+        871.92,
+        875.32
+      ],
+      "text": "Well, Moomin, a real jungle would have wild animals in it, wouldn't it?"
+    },
+    {
+      "timestamp": [
+        875.32,
+        878.24
+      ],
+      "text": "Oh yeah, like tigers and snakes."
+    },
+    {
+      "timestamp": [
+        878.24,
+        891.0
+      ],
+      "text": "This is more of a tropical botanical garden I suppose."
+    },
+    {
+      "timestamp": [
+        893.0,
+        894.0
+      ],
+      "text": "That's a woman's little mind. He can have the peel."
+    },
+    {
+      "timestamp": [
+        897.0,
+        899.0
+      ],
+      "text": "This is a life."
+    },
+    {
+      "timestamp": [
+        903.0,
+        904.0
+      ],
+      "text": "Stop, little mind."
+    },
+    {
+      "timestamp": [
+        904.0,
+        906.0
+      ],
+      "text": "Now where? Stop, little mind! Well, well..."
+    },
+    {
+      "timestamp": [
+        908.0,
+        910.0
+      ],
+      "text": "What are you looking for, dear? My solar toady."
+    },
+    {
+      "timestamp": [
+        910.0,
+        911.0
+      ],
+      "text": "You what?"
+    },
+    {
+      "timestamp": [
+        911.0,
+        914.0
+      ],
+      "text": "My son helmet, I can't go into the jungle without it."
+    },
+    {
+      "timestamp": [
+        914.0,
+        916.0
+      ],
+      "text": "I didn't know you had one."
+    },
+    {
+      "timestamp": [
+        916.0,
+        919.0
+      ],
+      "text": "I used it for a fancy dress party once, I know."
+    },
+    {
+      "timestamp": [
+        919.0,
+        921.0
+      ],
+      "text": "I put it in a box somewhere."
+    },
+    {
+      "timestamp": [
+        921.0,
+        923.0
+      ],
+      "text": "Oh, here it is."
+    },
+    {
+      "timestamp": [
+        923.0,
+        926.0
+      ],
+      "text": "Very dashing, dear. I thought so too. once, I know I put it in a box somewhere. Oh, here it is."
+    },
+    {
+      "timestamp": [
+        926.0,
+        928.0
+      ],
+      "text": "Very dashing deer."
+    },
+    {
+      "timestamp": [
+        928.0,
+        930.0
+      ],
+      "text": "I thought so too."
+    },
+    {
+      "timestamp": [
+        930.0,
+        932.0
+      ],
+      "text": "Oh, I know."
+    },
+    {
+      "timestamp": [
+        932.0,
+        934.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        934.0,
+        936.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        936.0,
+        938.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        938.0,
+        940.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        940.0,
+        942.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        942.0,
+        944.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        944.0,
+        965.0
+      ],
+      "text": "Oh! Oh! Oh, splendid protection this hat. to get into the cello. What for? To get my gun."
+    },
+    {
+      "timestamp": [
+        965.0,
+        967.0
+      ],
+      "text": "Your gun?"
+    },
+    {
+      "timestamp": [
+        967.0,
+        970.0
+      ],
+      "text": "Only fools venture into the jungle without a proper gun."
+    },
+    {
+      "timestamp": [
+        970.0,
+        973.0
+      ],
+      "text": "I don't think you need a gun, Papa."
+    },
+    {
+      "timestamp": [
+        973.0,
+        974.0
+      ],
+      "text": "And why not?"
+    },
+    {
+      "timestamp": [
+        974.0,
+        976.0
+      ],
+      "text": "Because there aren't any wild animals."
+    },
+    {
+      "timestamp": [
+        976.0,
+        979.0
+      ],
+      "text": "Well, one of the seas might have been an egg or something."
+    },
+    {
+      "timestamp": [
+        981.0,
+        984.0
+      ],
+      "text": "Look at these, for instance, they look very animal."
+    },
+    {
+      "timestamp": [
+        988.0,
+        993.0
+      ],
+      "text": "Very odd animals. More than odd plant, I think. I'd stay away from them. They could be very dangerous."
+    },
+    {
+      "timestamp": [
+        993.0,
+        995.0
+      ],
+      "text": "But they've got eyes."
+    },
+    {
+      "timestamp": [
+        995.0,
+        998.0
+      ],
+      "text": "Careful. I think they're man-eating plants."
+    },
+    {
+      "timestamp": [
+        998.0,
+        1000.0
+      ],
+      "text": "Man-eating."
+    },
+    {
+      "timestamp": [
+        1000.0,
+        1003.0
+      ],
+      "text": "Stop that."
+    },
+    {
+      "timestamp": [
+        1003.0,
+        1006.0
+      ],
+      "text": "Help! Help!"
+    },
+    {
+      "timestamp": [
+        1006.0,
+        1007.52
+      ],
+      "text": "They're trying to eat me."
+    },
+    {
+      "timestamp": [
+        1007.52,
+        1010.0
+      ],
+      "text": "But they want to feed me to their young."
+    },
+    {
+      "timestamp": [
+        1010.0,
+        1012.0
+      ],
+      "text": "Oh, oh, oh, oh, help me!"
+    },
+    {
+      "timestamp": [
+        1012.0,
+        1014.0
+      ],
+      "text": "Oh, help!"
+    },
+    {
+      "timestamp": [
+        1014.0,
+        1025.0
+      ],
+      "text": "They're tearing my toe! Oh no! Oh dear! Oh oh! Oh oh! Oh! Oh!"
+    },
+    {
+      "timestamp": [
+        1025.0,
+        1026.0
+      ],
+      "text": "Help!"
+    },
+    {
+      "timestamp": [
+        1026.0,
+        1028.0
+      ],
+      "text": "Oh! Oh no!"
+    },
+    {
+      "timestamp": [
+        1028.0,
+        1030.0
+      ],
+      "text": "Oh oh!"
+    },
+    {
+      "timestamp": [
+        1030.0,
+        1032.0
+      ],
+      "text": "Oh oh!"
+    },
+    {
+      "timestamp": [
+        1032.0,
+        1033.0
+      ],
+      "text": "Oh oh!"
+    },
+    {
+      "timestamp": [
+        1033.0,
+        1036.0
+      ],
+      "text": "Well done my little Maya, just saved my life!"
+    },
+    {
+      "timestamp": [
+        1036.0,
+        1065.0
+      ],
+      "text": "Well I saved your tail anyway! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, That should keep them in now, shouldn't it?"
+    },
+    {
+      "timestamp": [
+        1065.0,
+        1068.0
+      ],
+      "text": "Well, I don't think they could push their way through that lot."
+    },
+    {
+      "timestamp": [
+        1068.0,
+        1070.0
+      ],
+      "text": "Hmm, they had a very strong grip on my tail."
+    },
+    {
+      "timestamp": [
+        1070.0,
+        1072.0
+      ],
+      "text": "He mustn't underestimate them."
+    },
+    {
+      "timestamp": [
+        1072.0,
+        1073.0
+      ],
+      "text": "Anything wrong?"
+    },
+    {
+      "timestamp": [
+        1073.0,
+        1076.0
+      ],
+      "text": "You bet the sellers fall of man-eating plants,"
+    },
+    {
+      "timestamp": [
+        1076.0,
+        1079.0
+      ],
+      "text": "trying to gobble up moment-papa!"
+    },
+    {
+      "timestamp": [
+        1079.0,
+        1080.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        1080.0,
+        1082.0
+      ],
+      "text": "Oh, my goodness!"
+    },
+    {
+      "timestamp": [
+        1082.0,
+        1084.0
+      ],
+      "text": "I'm so sorry, I'm so sorry!"
+    },
+    {
+      "timestamp": [
+        1084.0,
+        1086.0
+      ],
+      "text": "I'm so sorry! I'm so sorry! I'm so sorry! I'm so sorry! You mustn't underestimate them. Anything wrong? You bet the seller's full of man-eating plants"
+    },
+    {
+      "timestamp": [
+        1086.0,
+        1088.0
+      ],
+      "text": "trying to gobble up moment papa!"
+    },
+    {
+      "timestamp": [
+        1088.0,
+        1089.0
+      ],
+      "text": "Oh!"
+    },
+    {
+      "timestamp": [
+        1089.0,
+        1091.0
+      ],
+      "text": "Oh my goodness!"
+    },
+    {
+      "timestamp": [
+        1091.0,
+        1092.0
+      ],
+      "text": "What's the matter?"
+    },
+    {
+      "timestamp": [
+        1092.0,
+        1095.0
+      ],
+      "text": "You can get straight from the seller into the kitchen."
+    },
+    {
+      "timestamp": [
+        1095.0,
+        1096.0
+      ],
+      "text": "What?"
+    },
+    {
+      "timestamp": [
+        1096.0,
+        1107.0
+      ],
+      "text": "Oh no, mama! Oh, hello. Cue, we got here just in time. Whatever's the matter with you, are you all playing Tarzan?"
+    },
+    {
+      "timestamp": [
+        1107.0,
+        1109.0
+      ],
+      "text": "Oh, no, mama."
+    },
+    {
+      "timestamp": [
+        1109.0,
+        1112.0
+      ],
+      "text": "I'm making grandmas if you ever get a tropical fruit recipe."
+    },
+    {
+      "timestamp": [
+        1112.0,
+        1115.0
+      ],
+      "text": "And perhaps now it's rained I can wash this dirty floor."
+    },
+    {
+      "timestamp": [
+        1118.0,
+        1120.0
+      ],
+      "text": "Ah, I'm going to have a drink."
+    },
+    {
+      "timestamp": [
+        1120.0,
+        1122.0
+      ],
+      "text": "I'm going to have a drink."
+    },
+    {
+      "timestamp": [
+        1122.0,
+        1123.0
+      ],
+      "text": "I'm going to have a drink."
+    },
+    {
+      "timestamp": [
+        1123.0,
+        1127.0
+      ],
+      "text": "I'm going to have a drink. I'm going to have a drink. making grandmas if you ever get a tropical fruit recipe and perhaps now it's reigned I can wash this dirty floor."
+    },
+    {
+      "timestamp": [
+        1129.0,
+        1135.0
+      ],
+      "text": "Ah, by the great bumble I don't believe this a tropical rainforest."
+    },
+    {
+      "timestamp": [
+        1135.0,
+        1140.0
+      ],
+      "text": "Ah, ah, a transcendentia, megaloids."
+    },
+    {
+      "timestamp": [
+        1140.0,
+        1147.0
+      ],
+      "text": "And yes, at this Pepsi of Florium Wonder! Goodness me, I can collect a whole tropical"
+    },
+    {
+      "timestamp": [
+        1147.0,
+        1149.0
+      ],
+      "text": "Hermoreum right here in Mum and Valley!"
+    },
+    {
+      "timestamp": [
+        1149.0,
+        1152.0
+      ],
+      "text": "I'd try, well, that's what I need. I'll get one from the Moomins!"
+    },
+    {
+      "timestamp": [
+        1162.0,
+        1165.0
+      ],
+      "text": "Must say they're not the tiniest family."
+    },
+    {
+      "timestamp": [
+        1165.0,
+        1167.0
+      ],
+      "text": "I'll have to move this."
+    },
+    {
+      "timestamp": [
+        1167.0,
+        1170.0
+      ],
+      "text": "Oh, this old furniture."
+    },
+    {
+      "timestamp": [
+        1170.0,
+        1172.0
+      ],
+      "text": "Yeah."
+    },
+    {
+      "timestamp": [
+        1172.0,
+        1174.0
+      ],
+      "text": "Yeah."
+    },
+    {
+      "timestamp": [
+        1174.0,
+        1176.0
+      ],
+      "text": "Uh."
+    },
+    {
+      "timestamp": [
+        1176.0,
+        1184.0
+      ],
+      "text": "Do I look that funny?"
+    },
+    {
+      "timestamp": [
+        1184.0,
+        1186.0
+      ],
+      "text": "No, you look great!"
+    },
+    {
+      "timestamp": [
+        1186.0,
+        1188.0
+      ],
+      "text": "Maybe you and Tarzan have different muscles."
+    },
+    {
+      "timestamp": [
+        1188.0,
+        1190.0
+      ],
+      "text": "Me, Tarzan!"
+    },
+    {
+      "timestamp": [
+        1190.0,
+        1192.0
+      ],
+      "text": "You, Jay."
+    },
+    {
+      "timestamp": [
+        1192.0,
+        1194.0
+      ],
+      "text": "Oh, here we go."
+    },
+    {
+      "timestamp": [
+        1194.0,
+        1196.0
+      ],
+      "text": "Me, get out with Ormysick!"
+    },
+    {
+      "timestamp": [
+        1198.0,
+        1199.0
+      ],
+      "text": "Ah!"
+    },
+    {
+      "timestamp": [
+        1199.0,
+        1200.0
+      ],
+      "text": "Ah, help!"
+    },
+    {
+      "timestamp": [
+        1200.0,
+        1203.0
+      ],
+      "text": "I've got many things planned after this!"
+    },
+    {
+      "timestamp": [
+        1203.0,
+        1205.96
+      ],
+      "text": "What? They must have got out! Uh-huh."
+    },
+    {
+      "timestamp": [
+        1205.96,
+        1207.96
+      ],
+      "text": "Ow!"
+    },
+    {
+      "timestamp": [
+        1211.2,
+        1212.2
+      ],
+      "text": "Uh-oh!"
+    },
+    {
+      "timestamp": [
+        1219.6,
+        1221.36
+      ],
+      "text": "They were in the cellar."
+    },
+    {
+      "timestamp": [
+        1221.36,
+        1223.6
+      ],
+      "text": "Did you open the door, Mr. Hamillet?"
+    },
+    {
+      "timestamp": [
+        1223.6,
+        1227.0
+      ],
+      "text": "Well, yes, I wanted to borrow a trowel. Mr. Hemmielin. Mr. Hemmielin, you know all about plants. Do you have any idea how we can get rid of them?"
+    },
+    {
+      "timestamp": [
+        1227.0,
+        1228.0
+      ],
+      "text": "They're man-eaters, you know?"
+    },
+    {
+      "timestamp": [
+        1228.0,
+        1230.0
+      ],
+      "text": "Can't rid of them."
+    },
+    {
+      "timestamp": [
+        1230.0,
+        1232.0
+      ],
+      "text": "Well, let's see."
+    },
+    {
+      "timestamp": [
+        1232.0,
+        1234.0
+      ],
+      "text": "We are in a bit of a fix."
+    },
+    {
+      "timestamp": [
+        1234.0,
+        1237.0
+      ],
+      "text": "I have heard that they have reacted to music."
+    },
+    {
+      "timestamp": [
+        1237.0,
+        1238.0
+      ],
+      "text": "Music."
+    },
+    {
+      "timestamp": [
+        1238.0,
+        1241.0
+      ],
+      "text": "Snowfkin, you could play your harmonica."
+    },
+    {
+      "timestamp": [
+        1241.0,
+        1242.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "timestamp": [
+        1242.0,
+        1243.0
+      ],
+      "text": "Hmm."
+    },
+    {
+      "timestamp": [
+        1243.0,
+        1245.84
+      ],
+      "text": "I'm not sure if I can play it. I'm not sure if I can play it. the day of reacting music music. Snuffkin, you could play your harmonica."
+    },
+    {
+      "timestamp": [
+        1263.84,
+        1267.0
+      ],
+      "text": "Look, they've started dancing. Keep it up, snuffkin!"
+    },
+    {
+      "timestamp": [
+        1267.0,
+        1270.0
+      ],
+      "text": "What will they do if he stops playing?"
+    },
+    {
+      "timestamp": [
+        1270.0,
+        1273.0
+      ],
+      "text": "I really don't know."
+    },
+    {
+      "timestamp": [
+        1273.0,
+        1276.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "timestamp": [
+        1276.0,
+        1279.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "timestamp": [
+        1279.0,
+        1283.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "timestamp": [
+        1283.0,
+        1290.0
+      ],
+      "text": "I don't know."
+    },
+    {
+      "timestamp": [
+        1292.0,
+        1294.0
+      ],
+      "text": "What's this? Oh!"
+    },
+    {
+      "timestamp": [
+        1294.0,
+        1297.0
+      ],
+      "text": "The rather sweet when they don't try to eat you."
+    },
+    {
+      "timestamp": [
+        1297.0,
+        1299.0
+      ],
+      "text": "I'm not going to eat you."
+    },
+    {
+      "timestamp": [
+        1299.0,
+        1301.0
+      ],
+      "text": "I'm not going to eat you."
+    },
+    {
+      "timestamp": [
+        1301.0,
+        1303.0
+      ],
+      "text": "I'm not going to eat you."
+    },
+    {
+      "timestamp": [
+        1303.0,
+        1312.08
+      ],
+      "text": "I'm not going to eat you. I'm not going to eat you. I don't try to eat you."
+    },
+    {
+      "timestamp": [
+        1312.08,
+        1315.0
+      ],
+      "text": "And that was how a tropical jungle grew and surrounded"
+    },
+    {
+      "timestamp": [
+        1315.0,
+        1317.44
+      ],
+      "text": "movement house in one night."
+    },
+    {
+      "timestamp": [
+        1317.44,
+        1319.04
+      ],
+      "text": "Is it going to stay?"
+    },
+    {
+      "timestamp": [
+        1319.04,
+        1320.8
+      ],
+      "text": "And for how long?"
+    },
+    {
+      "timestamp": [
+        1320.8,
+        1347.1
+      ],
+      "text": "And what will the man eating plants do if Snuffton stops playing? The movements. They're always happy and always at play."
+    },
+    {
+      "timestamp": [
+        1347.1,
+        1350.6
+      ],
+      "text": "The movements are having fun day after day."
+    },
+    {
+      "timestamp": [
+        1350.6,
+        1354.3
+      ],
+      "text": "The movements."
+    },
+    {
+      "timestamp": [
+        1354.3,
+        1358.3
+      ],
+      "text": "The movements."
+    },
+    {
+      "timestamp": [
+        1358.3,
+        1361.7
+      ],
+      "text": "They love the laughter and they love the living."
+    },
+    {
+      "timestamp": [
+        1361.7,
+        1372.48
+      ],
+      "text": "The movements. They love the living, the movements Believing in sharing and caring and giving the movements"
+    },
+    {
+      "timestamp": [
+        1372.48,
+        1376.28
+      ],
+      "text": "They're always happy and goes at play"
+    },
+    {
+      "timestamp": [
+        1376.28,
+        1393.36
+      ],
+      "text": "The movements are having fun day after day, the Moves, the Moves"
+    }
+  ],
+  "text": "Here they are for one and all. The movements are about to come. Come on and sit down here with me, therefore you are your TV, they are the movements, they are the movements, so come with me, give me your hand, I'll take you up to a moment land, you can fly just like a bird, sing the best song ever, there were the movements, there was the movement, there was the movement, there was the movement, there was the movement Ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba It was the end of summer, but still every day seemed hotter than the last. Mumen Valley had had no rain for weeks, and finally the river had dried up. Papa says this weather is a catastrophe, Snuffman. Oh, not really. But it is. He says Mumen Valley will turn into a desert if it carries on. I don't think that will happen, Mum. Papa can't ever remember it so hot. Even the river is dried up. No, that does worry me. I can't fish anymore. And all my travels I found that droughts like this are always followed by a real heavy downpour. Well, it's too hot for me anyway. Oh, it's so hot I can't think. I can always think of something. Well, well, even the weeds are wilting. The sea never dries up, does it? Of course not, stupid wherever the fish go! I'm going swimming! Here you are. What's this? Oh, no! Oh, no! Oh, no! Oh, no! Oh, no! Oh, no! Oh, no! Oh, no! Oh, no! Oh, no! Oh, no! Oh, no! Oh, no! I'm going to go to the next one. Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Oh, that hurt. What's this stupid box doing here? I think it's floated from foreign lands. What's it got in it? Perhaps it's full of priceless jewels. No, it wouldn't float so high in the water if it was. A tiara packed in wood shavings. I could use a new product. I'm going to use it for a new one. in it. Perhaps it's full of priceless jewels. No, it wouldn't float so high in the water if it was. A tiara packed in wood shavings. I could use a new comb too. What have you found you two? A treasure? No, we don't think so. It's not heavy enough. But you never know, Snork Maiden. Let's open it and see. Come on, Slay's pushed me a shore. Perhaps it's gold nuggets in here. Our diamonds are something to eat. What is this? Seeds, maybe. What sort of seeds? Hmm. Well, at first glance, I'd say they might be tropical plants. Oh, really? Mr. Hemmier. What plants are tropical? Well, species like banana are mangoes. Banana? And mangoes? Well, I like banana are mangoes. Banana? And mangoes? Well, I haven't done a lot of research on tropical plants so I can't be sure, but they do look like it. I know, mama. Why don't we plant them? Good idea, woman. The thing is, we don't have a tropical climate. I'm afraid they wouldn't grow here at all. Let's plant them, shall we? They won't bear any fruit, so don't get too excited. Oh, well, it seems tropical enough to me, Mr. Hanuman. At least we can try, can't we? I want to see what papaya looks like and ugly fruit. I want mangoes growing all around my bedroom window. Let's plant them, shall we? I tell you, they're strictly tropical tropical they won't take root at all. It certainly seems that Mama is enjoying herself, Mr. Hamulun. I don't think it'll be much use. Well, perhaps not, but it's still worth the fun and trying. Imagine, Mum and Valley, a tropical jungle. Huh, huh. Oh, Mr. Hamulun, do you think these seeds will grow into real fruit trees? Imagine moving valley, a tropical jungle. Huh. Huh. Oh, Mr. Hamulin, do you think these seeds will grow into real fruit trees? Hmm, let me see. What have you got here, little my? I could very well be mistaken, but I think this one is a mango seed. Hmm, thanks. And why do you want to know, little my? Because I'm only growing fruit. I want to be sure I'm not planning stupid orchids or passion flowers or something. Ha ha ha! Mr. Hemiellin, can you tell me which one of these is banana? Yeah, I'm not really too sure, but I think it's this one. You want to grow an orchid too, Snorkmaiden? No, I just want to plant a banana tree in a really special place. It's Mouin's favorite fruit. I think she'll be disappointed bananas won't grow here. This weather doesn't belong here either. If it gets any hotter, I'll melt. I can't wait for dusk so it'll cool down a bit. Hmm. Isn't it wonderful to go to sleep looking at the stars? And it's not so hot anymore. I'll sleep like a log tonight. You always do, don't you, Little Maw? Well, sleep like an extra heavy log, then. Snorke, Maiden. Why don't you sleep under that tree with moon men and Little Maw? Oh, because I can't see the stars from there and it makes me feel romantic looking at them. But you're going to get very wet if it starts raining in the night. You're joking, surely, Mama. Not at all. But it hasn't rained for ages, and there aren't any clouds or anything. Just stars. All the toothpicks fell on the floor, and that's a sure sign of rain. It's not made in real mind if she gets all wet, Lumen Mama. Just stars! All the toothpicks fell on the floor, and that's a sure sign of rain. It's not made in my mind if she gets all wet, Lumen mama. That should be happy! Who? Why is that? Because then she'll know that the special tree will start growing, and that's very important to her. That's true. Good night, everyone. I hope you sleep well. Oh, oh, oh. Good night, everybody. Good night, woman. Good night. Don't snore. Oh, it's too hot to sleep. Why don't you sleep outside like the children? I think I will. I'll be back. I'll be back. Oh, it's too hot to sleep. Why don't you sleep outside like the children? I think I will. A thunderstorm. I told you the toothpicks are never wrong. Oh! Hey, it's raining, movement! Wake up, movement! Oh, is it morning? The sun's really bright. No, it's raining. Rainy? Look at that. You look, I'm getting wet, I'm going inside. So mama was right about the rain. Hey, snork, Maiden! Hmm? Doesn't she look sweet? Snork, Maiden! Is it raining? That's very clever. Your mother knows everything doesn't she? She does. Now let's get into the house. Not yet. I want to feel the rain on my face. It's been so long. Ha! You want to feel it much longer? It's going to go. Oh, it's the breathing. Huh? Oh. Mangoes! That's impossible! Gosh! By my tail, a jungle! That's a tropical jungle! Wake up! Wake up you two! There's a jungle outside! We've planted a jungle! A jungle? You're right, Moments! Those seeds have not only sprouted. I know. They're big trees. I've never known trees to grow like that. That's... that's... I think I'll go and play Tarzan. I wish my lettuce seeds would do that, Moments Papa. Oh, there's magic here somewhere, Moments. Let's go and explore. That's rain drumming on the campus. It must be. Snuffkin! What a nurse all this? Well, we found a crate of tropical seeds and planted them last night. And this morning, while you can see it's like magic. It's fantastic. I know. We can go on a safari. I've seen nothing like it. What kind of flower is this? It looks like an orchid to me. This is a real tropical jungle isn't it, Snuffkin? Not quite. What do you mean? Well, Moomin, a real jungle would have wild animals in it, wouldn't it? Oh yeah, like tigers and snakes. This is more of a tropical botanical garden I suppose. That's a woman's little mind. He can have the peel. This is a life. Stop, little mind. Now where? Stop, little mind! Well, well... What are you looking for, dear? My solar toady. You what? My son helmet, I can't go into the jungle without it. I didn't know you had one. I used it for a fancy dress party once, I know. I put it in a box somewhere. Oh, here it is. Very dashing, dear. I thought so too. once, I know I put it in a box somewhere. Oh, here it is. Very dashing deer. I thought so too. Oh, I know. Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh, splendid protection this hat. to get into the cello. What for? To get my gun. Your gun? Only fools venture into the jungle without a proper gun. I don't think you need a gun, Papa. And why not? Because there aren't any wild animals. Well, one of the seas might have been an egg or something. Look at these, for instance, they look very animal. Very odd animals. More than odd plant, I think. I'd stay away from them. They could be very dangerous. But they've got eyes. Careful. I think they're man-eating plants. Man-eating. Stop that. Help! Help! They're trying to eat me. But they want to feed me to their young. Oh, oh, oh, oh, help me! Oh, help! They're tearing my toe! Oh no! Oh dear! Oh oh! Oh oh! Oh! Oh! Help! Oh! Oh no! Oh oh! Oh oh! Oh oh! Well done my little Maya, just saved my life! Well I saved your tail anyway! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, That should keep them in now, shouldn't it? Well, I don't think they could push their way through that lot. Hmm, they had a very strong grip on my tail. He mustn't underestimate them. Anything wrong? You bet the sellers fall of man-eating plants, trying to gobble up moment-papa! Oh! Oh, my goodness! I'm so sorry, I'm so sorry! I'm so sorry! I'm so sorry! I'm so sorry! I'm so sorry! You mustn't underestimate them. Anything wrong? You bet the seller's full of man-eating plants trying to gobble up moment papa! Oh! Oh my goodness! What's the matter? You can get straight from the seller into the kitchen. What? Oh no, mama! Oh, hello. Cue, we got here just in time. Whatever's the matter with you, are you all playing Tarzan? Oh, no, mama. I'm making grandmas if you ever get a tropical fruit recipe. And perhaps now it's rained I can wash this dirty floor. Ah, I'm going to have a drink. I'm going to have a drink. I'm going to have a drink. I'm going to have a drink. I'm going to have a drink. making grandmas if you ever get a tropical fruit recipe and perhaps now it's reigned I can wash this dirty floor. Ah, by the great bumble I don't believe this a tropical rainforest. Ah, ah, a transcendentia, megaloids. And yes, at this Pepsi of Florium Wonder! Goodness me, I can collect a whole tropical Hermoreum right here in Mum and Valley! I'd try, well, that's what I need. I'll get one from the Moomins! Must say they're not the tiniest family. I'll have to move this. Oh, this old furniture. Yeah. Yeah. Uh. Do I look that funny? No, you look great! Maybe you and Tarzan have different muscles. Me, Tarzan! You, Jay. Oh, here we go. Me, get out with Ormysick! Ah! Ah, help! I've got many things planned after this! What? They must have got out! Uh-huh. Ow! Uh-oh! They were in the cellar. Did you open the door, Mr. Hamillet? Well, yes, I wanted to borrow a trowel. Mr. Hemmielin. Mr. Hemmielin, you know all about plants. Do you have any idea how we can get rid of them? They're man-eaters, you know? Can't rid of them. Well, let's see. We are in a bit of a fix. I have heard that they have reacted to music. Music. Snowfkin, you could play your harmonica. Hmm. Hmm. I'm not sure if I can play it. I'm not sure if I can play it. the day of reacting music music. Snuffkin, you could play your harmonica. Look, they've started dancing. Keep it up, snuffkin! What will they do if he stops playing? I really don't know. I don't know. I don't know. I don't know. I don't know. What's this? Oh! The rather sweet when they don't try to eat you. I'm not going to eat you. I'm not going to eat you. I'm not going to eat you. I'm not going to eat you. I'm not going to eat you. I don't try to eat you. And that was how a tropical jungle grew and surrounded movement house in one night. Is it going to stay? And for how long? And what will the man eating plants do if Snuffton stops playing? The movements. They're always happy and always at play. The movements are having fun day after day. The movements. The movements. They love the laughter and they love the living. The movements. They love the living, the movements Believing in sharing and caring and giving the movements They're always happy and goes at play The movements are having fun day after day, the Moves, the Moves"
+}
