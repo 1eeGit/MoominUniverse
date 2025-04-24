@@ -16,7 +16,7 @@ def run_transcribe_insane(audio_path = 'audios'):
     base_dir = Path(__file__).resolve().parent
     audio_path = base_dir / audio_path
     audio_list = list(Path(audio_path).glob("*.wav"))
-    output_dir = base_dir / "subtitles"
+    output_dir = base_dir / "subtitlesinsane"
     output_dir.mkdir(parents=True, exist_ok=True)
 
     for audio in audio_list:
@@ -30,6 +30,12 @@ def run_transcribe_insane(audio_path = 'audios'):
             device="insane",
             hugging_face_token=hugging_face_token
         )
+        
+        for ext in ['json', 'srt', 'tsv', 'txt', 'vtt']:
+            original = output_dir / f"out.{ext}"
+            new = output_dir / f"{audio.stem}.{ext}"
+            if original.exists():
+                original.rename(new)
 '''
 # Full function signiture:
 def transcribe(
@@ -79,5 +85,5 @@ def run_transcribe_normal(audio_path = 'audios'):
 
 
 if __name__ == "__main__":
-    # run_transcribe_insane()
-    run_transcribe_normal()
+    run_transcribe_insane()
+    #run_transcribe_normal()
