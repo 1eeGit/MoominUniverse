@@ -1,0 +1,13 @@
+Global_ID,Speaker_IDs
+G00,"audios/1_compressed.wav-SPEAKER_08, audios/1_compressed.wav-SPEAKER_09, audios/2_compressed.wav-SPEAKER_17, audios/2_compressed.wav-SPEAKER_18, audios/3_compressed.wav-SPEAKER_18, audios/3_compressed.wav-SPEAKER_19, audios/3_compressed.wav-SPEAKER_20, audios/3_compressed.wav-SPEAKER_56"
+G01,"audios/1_compressed.wav-SPEAKER_01, audios/2_compressed.wav-SPEAKER_11, audios/3_compressed.wav-SPEAKER_01"
+G02,"audios/1_compressed.wav-SPEAKER_08, audios/2_compressed.wav-SPEAKER_18, audios/3_compressed.wav-SPEAKER_19"
+G03,"audios/1_compressed.wav-SPEAKER_23, audios/2_compressed.wav-SPEAKER_38"
+G04,"audios/1_compressed.wav-SPEAKER_27, audios/1_compressed.wav-SPEAKER_29, audios/1_compressed.wav-SPEAKER_30, audios/2_compressed.wav-SPEAKER_10, audios/2_compressed.wav-SPEAKER_28"
+G05,"audios/1_compressed.wav-SPEAKER_28, audios/1_compressed.wav-SPEAKER_33, audios/2_compressed.wav-SPEAKER_08, audios/2_compressed.wav-SPEAKER_21, audios/3_compressed.wav-SPEAKER_08, audios/3_compressed.wav-SPEAKER_24, audios/3_compressed.wav-SPEAKER_49"
+G06,"audios/1_compressed.wav-SPEAKER_44, audios/2_compressed.wav-SPEAKER_36"
+G07,"audios/2_compressed.wav-SPEAKER_08, audios/2_compressed.wav-SPEAKER_35, audios/3_compressed.wav-SPEAKER_08"
+G08,"audios/2_compressed.wav-SPEAKER_12, audios/2_compressed.wav-SPEAKER_20, audios/2_compressed.wav-SPEAKER_27, audios/3_compressed.wav-SPEAKER_46"
+G09,"audios/3_compressed.wav-SPEAKER_04, audios/3_compressed.wav-SPEAKER_30, audios/3_compressed.wav-SPEAKER_38"
+G10,audios/3_compressed.wav-SPEAKER_22
+G11,"audios/3_compressed.wav-SPEAKER_53, audios/3_compressed.wav-SPEAKER_55"

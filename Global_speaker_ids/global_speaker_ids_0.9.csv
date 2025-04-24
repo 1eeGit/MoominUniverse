@@ -1,0 +1,7 @@
+Global_ID,Speaker_IDs
+G00,"audios/1_compressed.wav-SPEAKER_08, audios/1_compressed.wav-SPEAKER_09, audios/2_compressed.wav-SPEAKER_17, audios/2_compressed.wav-SPEAKER_18, audios/3_compressed.wav-SPEAKER_18, audios/3_compressed.wav-SPEAKER_19, audios/3_compressed.wav-SPEAKER_20, audios/3_compressed.wav-SPEAKER_56"
+G01,"audios/1_compressed.wav-SPEAKER_01, audios/2_compressed.wav-SPEAKER_11, audios/3_compressed.wav-SPEAKER_01"
+G02,"audios/1_compressed.wav-SPEAKER_23, audios/2_compressed.wav-SPEAKER_38"
+G03,"audios/1_compressed.wav-SPEAKER_27, audios/1_compressed.wav-SPEAKER_29"
+G04,"audios/3_compressed.wav-SPEAKER_04, audios/3_compressed.wav-SPEAKER_30, audios/3_compressed.wav-SPEAKER_38"
+G05,"audios/3_compressed.wav-SPEAKER_53, audios/3_compressed.wav-SPEAKER_55"
