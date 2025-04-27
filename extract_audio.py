@@ -30,40 +30,45 @@ def extract_audio(video_path = 'videos', audio_path = 'audios'):
         except subprocess.CalledProcessError as e:
             print(f"Error extracting audio: {e}")
 
-### cconcatenate all the audio files -> one final.wav
-def concatenating():
+### cconcatenate video/ audio
+def concatenate_files(extension="wav", output_name="final.wav", path = 'audios'):
     base_dir = Path(__file__).resolve().parent
-    audio_path = base_dir / "audios"
-    output_path = base_dir / "final.wav"
-    audio_list = list(Path(audio_path).glob("*.wav"))
-    ep_list_path = base_dir / "ep_list.txt"
+    input_path = base_dir / path
+    output_path = base_dir / output_name
+    file_list = sorted(input_path.glob(f"*.{extension}")) 
+    list_file = base_dir / f"concat_list.txt"
 
-    with open("ep_list.txt", "w") as f:
-        for audio in audio_list:
-            f.write(f"file {audio}\n")
+    with open(list_file, "w") as f:
+        for file in file_list:
+            f.write(f"file '{file.resolve()}'\n") 
 
     command = [
-    "ffmpeg",
-    "-f", "concat",
-    "-safe", "0",
-    "-i", str(ep_list_path),
-    "-c", "copy",
-    str(output_path)  
-]
-
+        "ffmpeg",
+        "-f", "concat",
+        "-safe", "0",
+        "-i", str(list_file),
+        "-c", "copy",
+        str(output_path)
+    ]
 
     try:
         subprocess.run(command, check=True)
-        print("------------------------final.wav cooked--------------------")
+        print("------------------------final file cooked--------------------")
     except subprocess.CalledProcessError as e:
         print(e)   
+
 
 
 if __name__ == "__main__":
     # extract_audio()
     # concatenating()
+    
 
-'''
+
+
+    concatenate_files("mp4", "final.mp4", "videos/all")
+
+    '''
 duration=53740.202667
 ffmpeg -i final.wav -ss 0 -t 17000 -acodec pcm_s16le -ar 22050 -ac 1 1_compressed.wav
 ffmpeg -i final.wav -ss 17000 -t 14000 -acodec pcm_s16le -ar 22050 -ac 1 2_compressed.wav
